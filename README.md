@@ -1,6 +1,45 @@
 # ATPLKing Database
 
-This repository contains the database schema, and questions for the ATPLKing project.
+This repository contains the database schema, and questions and api for the ATPLKing project.
+
+# CONTRIBUTION GUIDE
+## Adding Questions
+
+To contribute questions, refer to the example `example.json` file in the `json` folder. Your file should follow this structure:
+
+```json
+[
+  {
+    "subtopic": "",
+    "database": "",
+    "id":"TBD",
+    "question": "",
+    "options": [
+      { "text": "", "correct": true },
+      { "text": "", "correct": false },
+      { "text": "", "correct": false },
+      { "text": "", "correct": false }
+    ],
+    "explanation": ""
+  }
+]
+```
+
+**Instructions:**
+- Each question is an object in the array.
+- Fill :
+  - `subtopic`: with the correct subtopic or leave it blank if not sure, 
+  - `database` : add the letter A for Airplaine, H for Helicopter, or leave it blank for both, 
+  - `id` : let the TBD value, it will be auto-assigned before merging
+  - `question`, 
+  - `options`: the four options with the correct value set to true for the right answer
+  - and optionally `explanation` (references).
+
+
+- The `options` array must have one correct answer (`"correct": true`) and the rest as false.
+- Provide an `explanation` for the answer.
+- Place your `objects` in the appropriate subject folder (e.g., `034`) in the `questions.json` file.
+- Submit your changes via a pull request.
 
 
 ## LICENSE 
