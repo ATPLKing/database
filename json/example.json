@@ -1,0 +1,13 @@
+  {
+    "subtopic": "",
+    "database": "",
+    "question": "",
+    "annexe": "",
+    "options": [
+      { "text": "", "correct": true },
+      { "text": "", "correct": false },
+      { "text": "", "correct": false },
+      { "text": "", "correct": false }
+    ],
+    "explanation": ""
+  }

@@ -1,0 +1,15 @@
+[
+  {
+    "subtopic": "034-01-01",
+    "database": "H",
+    "question": "Quelle est la raison de la classification des hélicoptéres en classes de performances ?",
+    "annexe": "",
+    "options": [
+      { "text": "Pour l'ATC, pour séparer le trafic et appliquer des séparations entre les hélicoptéres", "correct": false },
+      { "text": "Pour accorder des priorités plus élevées lors du décollage et de l'atterrissage aux hélicoptéres de classe de performance 1 et 2.", "correct": false },
+      { "text": "Pour augmenter les chances d'un atterrissage forcé en toute sécurité en raison des différentes caractéristiques de vol de chaque classe de performance.", "correct": true },
+      { "text": "Pour l'ATC, pour séparer le trafic et appliquer des séparations entre les hélicoptéres et tous les autres aéronefs.", "correct": false }
+    ],
+    "explanation": "La principale raison de la classification des hélicoptères en classes de performances est d'augmenter les chances d'un atterrissage forcé en toute sécurité, compte tenu des caractéristiques de vol différentes de chaque classe"
+  }
+]

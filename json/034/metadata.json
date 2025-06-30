@@ -1,0 +1,82 @@
+[
+  {
+    "code": "034-01",
+    "name": "Généralités",
+    "subtopics": [
+      {
+        "code": "034-01-01",
+        "name": "Législation sur la performance"
+      },
+      {
+        "code": "034-01-02",
+        "name": "Théorie générale de la performance"
+      }
+    ]
+  },
+  {
+    "code": "034-02",
+    "name": "Classe de performance 3 - Hélicoptères monomoteurs",
+    "subtopics": [
+      {
+        "code": "034-02-01",
+        "name": " Effet des variables sur les performances des hélicoptères monomoteurs (SE)"
+      },
+      {
+        "code": "034-02-02",
+        "name": "Décollage et atterrissage"
+      },
+      {
+        "code": "034-02-03",
+        "name": "Montée, croisière et descente"
+      },
+      {
+        "code": "034-02-04",
+        "name": "Utilisation des données de performance des hélicoptères"
+      }
+    ]
+  },
+  {
+    "code": "034-03",
+    "name": "Classe de performance 2",
+    "subtopics": [
+      {
+        "code": "034-03-01",
+        "name": " Opérations sans capacité d'atterrissage forcé sûre et assurée"
+      },
+      {
+        "code": "034-03-02",
+        "name": "Décollage"
+      },
+      {
+        "code": "034-03-03",
+        "name": "Trajectoire de décollage"
+      },
+      {
+        "code": "034-03-04",
+        "name": "Atterrissage"
+      }
+    ]
+  },
+  {
+    "code": "034-04",
+    "name": "Classe de performance 1 – Hélicoptères certifiés selon la norme CS-29 uniquement",
+    "subtopics": [
+      {
+        "code": "034-04-01",
+        "name": "Décollage"
+      },
+      {
+        "code": "034-04-03",
+        "name": "Croisière"
+      },
+      {
+        "code": "034-04-04",
+        "name": "En route, un moteur en panne (OEI)"
+      },
+      {
+        "code": "034-04-06",
+        "name": "Atterrissage"
+      }
+    ]
+  }
+]
