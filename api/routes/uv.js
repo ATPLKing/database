@@ -4,15 +4,15 @@ const uvController = require('../controllers/uv');
 
 
 /**
- * @route GET /uvs
+ * @route GET /api/uvs
  * @description Get the uv's List
  */
-router.get('/uvs', uvController.getUVList);
+router.get('/api/uvs', uvController.getUVList);
 
 /**
  * @route GET /subjects/:uv
  * @description GET the subject's list by UV
  */
-router.get("/subjects/:uv", uvController.getSubjectListByUV);
+router.get("/api/subjects/:uv", uvController.getSubjectListByUV);
 
 module.exports = router;
