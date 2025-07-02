@@ -1,0 +1,37 @@
+[
+  {
+    "code": "071-01",
+    "name": "Exigences générales",
+    "subtopics": [
+      { "code": "071-01-01", "name": "Annexe 6 de l'OACI" },
+      { "code": "071-01-02", "name": "Exigences opérationnelles" },
+      { "code": "071-01-03", "name": "Vols longue distance" }
+    ]
+  },
+  {
+    "code": "071-02",
+    "name": "Procédures opérationnelles spéciales et risques (aspects généraux)",
+    "subtopics": [
+      { "code": "071-02-01", "name": "Manuel d'exploitation" },
+      { "code": "071-02-02", "name": "Conditions de givrage" },
+      { "code": "071-02-03", "name": "Risque d'impact d'oiseaux" },
+      { "code": "071-02-04", "name": "Réduction du bruit" },
+      { "code": "071-02-05", "name": "Feu et fumée" },
+      { "code": "071-02-06", "name": "Décompression de la cabine pressurisée" },
+      { "code": "071-02-07", "name": "Cisaillement du vent et microrafales" },
+      { "code": "071-02-08", "name": "Turbulences de sillage" },
+      { "code": "071-02-09", "name": "Sécurité (événements illicites)" },
+      { "code": "071-02-10", "name": "Atterrissage d'urgence et de précaution, et amerrissage forcé" },
+      { "code": "071-02-11", "name": "Largage de carburant" },
+      { "code": "071-02-12", "name": "Transport aérien de marchandises dangereuses" },
+      { "code": "071-02-13", "name": "Pistes contaminées" }
+    ]
+  },
+  {
+    "code": "071-04",
+    "name": "Opérations spécialisées",
+    "subtopics": [
+      { "code": "071-04-01", "name": "Opérations spécialisées" }
+    ]
+  }
+]

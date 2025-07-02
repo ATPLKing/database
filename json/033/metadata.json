@@ -1,0 +1,50 @@
+[
+  {
+    "code": "033-01",
+    "name": "Planification des vols VFR",
+    "subtopics": [
+      { "code": "033-01-01", "name": "Plan de navigation VFR" }
+    ]
+  },
+  {
+    "code": "033-02",
+    "name": "Planification des vols IFR",
+    "subtopics": [
+      { "code": "033-02-01", "name": "Plan de navigation IFR" }
+    ]
+  },
+  {
+    "code": "033-03",
+    "name": "Planification du carburant – CAT.OP.MPA.106 et CAT.OP.MPA.150 plus AMC1, 2 et 3",
+    "subtopics": [
+      { "code": "033-03-01", "name": "Généralités" },
+      { "code": "033-03-02", "name": "Planification du carburant avant le vol pour les vols commerciaux" },
+      { "code": "033-03-03", "name": "Procédures spécifiques de calcul du carburant" }
+    ]
+  },
+  {
+    "code": "033-04",
+    "name": "Préparation avant le vol",
+    "subtopics": [
+      { "code": "033-04-01", "name": "Avis aux aviateurs (NOTAM)" },
+      { "code": "033-04-02", "name": "Briefing météorologique" },
+      { "code": "033-04-03", "name": "Point d'égalité de temps (PET) et point de retour en toute sécurité (PSR)" }
+    ]
+  },
+  {
+    "code": "033-05",
+    "name": "Plan de vol OACI (Plan de vol ATS (FPL))",
+    "subtopics": [
+      { "code": "033-05-01", "name": "FPL individuel" },
+      { "code": "033-05-02", "name": "Plan de vol répétitif (RPL)" }
+    ]
+  },
+  {
+    "code": "033-06",
+    "name": "Surveillance des vols et replanification en vol",
+    "subtopics": [
+      { "code": "033-06-01", "name": "Surveillance des vols" },
+      { "code": "033-06-02", "name": "Replanification en vol" }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "code": "021-01",
+    "name": "Conception des systèmes, charges, contraintes et maintenance",
+    "subtopics": [
+      { "code": "021-01-01", "name": "Conception du système" },
+      { "code": "021-01-02", "name": "Charges et contraintes" },
+      { "code": "021-01-03", "name": "Fatigue et corrosion" },
+      { "code": "021-01-05", "name": "Entretien" }
+    ]
+  },
+  {
+    "code": "021-02",
+    "name": "Cellule",
+    "subtopics": [
+      { "code": "021-02-01", "name": "Méthodes de fixation" },
+      { "code": "021-02-02", "name": "Matériaux" },
+      {
+        "code": "021-02-04",
+        "name": "Fuselage, train d'atterrissage, portes, plancher, pare-brise et hublots"
+      },
+      {
+        "code": "021-02-05",
+        "name": "Hélicoptère : aspects structurels des commandes de vol"
+      }
+    ]
+  },
+  {
+    "code": "021-03",
+    "name": "Hydraulique",
+    "subtopics": [
+      { "code": "021-03-01", "name": "Hydromécanique : principes de base" },
+      { "code": "021-03-02", "name": "Systèmes hydrauliques" }
+    ]
+  },
+  {
+    "code": "021-04",
+    "name": "Train d'atterrissage, roues, pneus, freins",
+    "subtopics": [
+      { "code": "021-04-01", "name": "Train d'atterrissage" },
+      { "code": "021-04-03", "name": "Freins" },
+      { "code": "021-04-04", "name": "Roues, jantes et pneus" }
+    ]
+  },
+  {
+    "code": "021-05",
+    "name": "Commandes de vol",
+    "subtopics": [
+      { "code": "021-05-03", "name": "Hélicoptère : commandes de vol" },
+      { "code": "021-05-05", "name": "Hélicoptère : systèmes de commande de vol électriques (FBW)" }
+    ]
+  },
+  {
+    "code": "021-06",
+    "name": "Pneumatique – Systèmes de pressurisation et de climatisation",
+    "subtopics": [
+      { "code": "021-06-01", "name": "Alimentation pneumatique/air de purge" },
+      { "code": "021-06-02", "name": "Hélicoptère : systèmes de climatisation" }
+    ]
+  },
+  {
+    "code": "021-07",
+    "name": "Systèmes d'antigivrage et de dégivrage",
+    "subtopics": [
+      { "code": "021-07-01", "name": "Types, fonctionnement, indications" },
+      {
+        "code": "021-07-03",
+        "name": "Systèmes de chauffage des pales d'hélicoptère"
+      }
+    ]
+  },
+  {
+    "code": "021-08",
+    "name": "Système de carburant",
+    "subtopics": [
+      { "code": "021-08-01", "name": "Moteur à pistons" },
+      { "code": "021-08-02", "name": "Moteur à turbine" }
+    ]
+  },
+  {
+    "code": "021-09",
+    "name": "Électricité",
+    "subtopics": [
+      {
+        "code": "021-09-01",
+        "name": "Généralités, définitions, applications de base : disjoncteurs, circuits logiques"
+      },
+      { "code": "021-09-02", "name": "Piles" },
+      { "code": "021-09-03", "name": "Génération" },
+      { "code": "021-09-04", "name": "Distribution" },
+      { "code": "021-09-05", "name": "Moteurs électriques" }
+    ]
+  },
+  {
+    "code": "021-10",
+    "name": "Moteurs à pistons",
+    "subtopics": [
+      { "code": "021-10-01", "name": "Généralités" },
+      { "code": "021-10-02", "name": "Carburant" },
+      { "code": "021-10-04", "name": "Carburateur/système d'injection" },
+      { "code": "021-10-05", "name": "Systèmes de refroidissement" },
+      { "code": "021-10-06", "name": "Systèmes de lubrification" },
+      { "code": "021-10-07", "name": "Circuits d'allumage" },
+      { "code": "021-10-08", "name": "Mélange" },
+      {
+        "code": "021-10-10",
+        "name": "Performances et tenue de route du moteur"
+      }
+    ]
+  },
+  {
+    "code": "021-11",
+    "name": "Moteurs à turbine",
+    "subtopics": [
+      { "code": "021-11-01", "name": "Principes de base" },
+      { "code": "021-11-02", "name": "Composants du moteur principal" },
+      { "code": "021-11-03", "name": "Composants et systèmes supplémentaires" },
+      {
+        "code": "021-11-04",
+        "name": "Fonctionnement et surveillance du moteur"
+      },
+      { "code": "021-11-05", "name": "Aspects de performance" },
+      { "code": "021-11-06", "name": "Groupe auxiliaire de puissance (APU)" }
+    ]
+  },
+  {
+    "code": "021-12",
+    "name": "Systèmes de protection et de détection",
+    "subtopics": [
+      { "code": "021-12-01", "name": "Détection de fumée" },
+      { "code": "021-12-02", "name": "Systèmes de protection incendie" }
+    ]
+  },
+  {
+    "code": "021-14",
+    "name": "Hélicoptère : Systèmes divers",
+    "subtopics": [
+      {
+        "code": "021-14-01",
+        "name": "Vitesse de rotor variable, suppression active des vibrations, lunettes de vision nocturne (NVG)"
+      }
+    ]
+  },
+  {
+    "code": "021-15",
+    "name": "Hélicoptère : Têtes de rotor",
+    "subtopics": [
+      { "code": "021-15-01", "name": "Rotor principal" },
+      { "code": "021-15-02", "name": "Rotor de queue" }
+    ]
+  },
+  {
+    "code": "021-16",
+    "name": "Hélicoptère : Transmission",
+    "subtopics": [
+      { "code": "021-16-01", "name": "Boîte de vitesses principale" },
+      { "code": "021-16-02", "name": "Frein rotor" },
+      {
+        "code": "021-16-04",
+        "name": "Arbre de transmission et installation associée"
+      },
+      {
+        "code": "021-16-05",
+        "name": "Boîte de vitesses intermédiaire et arrière"
+      },
+      { "code": "021-16-06", "name": "Embrayages" },
+      { "code": "021-16-07", "name": "Roues libres" }
+    ]
+  },
+  {
+    "code": "021-17",
+    "name": "Hélicoptère : Pales",
+    "subtopics": [
+      {
+        "code": "021-17-01",
+        "name": "Conception du rotor principal et des pales"
+      },
+      {
+        "code": "021-17-02",
+        "name": "Conception du rotor de queue et des pales"
+      }
+    ]
+  }
+]

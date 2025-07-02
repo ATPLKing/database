@@ -1,0 +1,51 @@
+[
+  {
+    "code": "090-01",
+    "name": "Concepts",
+    "subtopics": [
+      { "code": "090-01-01", "name": "Termes associés" }
+    ]
+  },
+  {
+    "code": "090-02",
+    "name": "Procédures générales d'exploitation",
+    "subtopics": [
+      { "code": "090-02-01", "name": "Normes de transmission" }
+    ]
+  },
+  {
+    "code": "090-03",
+    "name": "Informations météorologiques pertinentes",
+    "subtopics": [
+      { "code": "090-03-01", "name": "Météo de l'aérodrome" }
+    ]
+  },
+  {
+    "code": "090-04",
+    "name": "Échec de la communication vocale",
+    "subtopics": [
+      { "code": "090-04-01", "name": "Action requise" }
+    ]
+  },
+  {
+    "code": "090-05",
+    "name": "Procédures de détresse et d'urgence",
+    "subtopics": [
+      { "code": "090-05-01", "name": "Signaux et procédures" }
+    ]
+  },
+  {
+    "code": "090-06",
+    "name": "Propagation VHF et attribution des fréquences",
+    "subtopics": [
+      { "code": "090-06-01", "name": "Principes généraux" }
+    ]
+  },
+  {
+    "code": "090-07",
+    "name": "Autres communications",
+    "subtopics": [
+      { "code": "090-07-01", "name": "Observations météorologiques, code Morse" }
+    ]
+  }
+]

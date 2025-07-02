@@ -1,0 +1,33 @@
+[
+  {
+    "code": "040-01",
+    "name": "Facteurs humains : concepts de base",
+    "subtopics": [
+      { "code": "040-01-01", "name": "Facteurs humains dans l'aviation" },
+      { "code": "040-01-03", "name": "Concepts de sécurité des vols" },
+      { "code": "040-01-04", "name": "Culture de sécurité" }
+    ]
+  },
+  {
+    "code": "040-02",
+    "name": "Principes fondamentaux de la physiologie aéronautique et du maintien de la santé",
+    "subtopics": [
+      { "code": "040-02-01", "name": "Bases de la physiologie du vol" },
+      { "code": "040-02-02", "name": "L'homme et l'environnement : le système sensoriel" },
+      { "code": "040-02-03", "name": "Santé et hygiène" }
+    ]
+  },
+  {
+    "code": "040-03",
+    "name": "Psychologie aéronautique de base",
+    "subtopics": [
+      { "code": "040-03-01", "name": "Traitement de l'information humaine" },
+      { "code": "040-03-02", "name": "Erreur humaine et fiabilité" },
+      { "code": "040-03-03", "name": "Prise de décision" },
+      { "code": "040-03-04", "name": "Éviter et gérer les erreurs : la gestion du cockpit" },
+      { "code": "040-03-05", "name": "Comportement humain" },
+      { "code": "040-03-06", "name": "Surcharge et sous-charge humaines" },
+      { "code": "040-03-07", "name": "Automatisation avancée du cockpit" }
+    ]
+  }
+]

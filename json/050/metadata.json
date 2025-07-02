@@ -1,0 +1,104 @@
+[
+  {
+    "code": "050-01",
+    "name": "L'atmosphère",
+    "subtopics": [
+      { "code": "050-01-01", "name": "Composition, étendue, division verticale" },
+      { "code": "050-01-02", "name": "Température de l'air" },
+      { "code": "050-01-03", "name": "Pression atmosphérique" },
+      { "code": "050-01-04", "name": "Densité de l'air" },
+      { "code": "050-01-05", "name": "Atmosphère type internationale (ISA)" },
+      { "code": "050-01-06", "name": "Altimétrie" }
+    ]
+  },
+  {
+    "code": "050-02",
+    "name": "Éolienne",
+    "subtopics": [
+      { "code": "050-02-01", "name": "Définition et mesure du vent" },
+      { "code": "050-02-02", "name": "Cause principale du vent" },
+      { "code": "050-02-03", "name": "Diffusion mondiale générale" },
+      { "code": "050-02-04", "name": "Vents locaux" },
+      { "code": "050-02-05", "name": "Ondes de montagne (ondes stationnaires, ondes sous le vent)" },
+      { "code": "050-02-06", "name": "Turbulence" }
+    ]
+  },
+  {
+    "code": "050-03",
+    "name": "Thermodynamique",
+    "subtopics": [
+      { "code": "050-03-01", "name": "Humidité" },
+      { "code": "050-03-02", "name": "Changement d'état de l'eau" },
+      { "code": "050-03-03", "name": "Processus adiabatiques" }
+    ]
+  },
+  {
+    "code": "050-04",
+    "name": "Nuages ​​et brouillard",
+    "subtopics": [
+      { "code": "050-04-01", "name": "Formation et description des nuages" },
+      { "code": "050-04-02", "name": "Brouillard, brume, brume" }
+    ]
+  },
+  {
+    "code": "050-05",
+    "name": "Précipitations",
+    "subtopics": [
+      { "code": "050-05-01", "name": "Développement des précipitations" },
+      { "code": "050-05-02", "name": "Types de précipitations" }
+    ]
+  },
+  {
+    "code": "050-06",
+    "name": "Masses d'air et fronts",
+    "subtopics": [
+      { "code": "050-06-01", "name": "Masses d'air" },
+      { "code": "050-06-02", "name": "Fronts" }
+    ]
+  },
+  {
+    "code": "050-07",
+    "name": "Systèmes sous pression",
+    "subtopics": [
+      { "code": "050-07-01", "name": "Les principales zones de pression" },
+      { "code": "050-07-02", "name": "Anticyclone" },
+      { "code": "050-07-03", "name": "Dépressions non frontales" },
+      { "code": "050-07-04", "name": "Tempêtes tropicales tournantes" }
+    ]
+  },
+  {
+    "code": "050-08",
+    "name": "Climatologie",
+    "subtopics": [
+      { "code": "050-08-01", "name": "Zones climatiques" },
+      { "code": "050-08-02", "name": "Climatologie tropicale" },
+      { "code": "050-08-03", "name": "Situations météorologiques typiques aux latitudes moyennes" },
+      { "code": "050-08-04", "name": "Vents locaux et météo associée" }
+    ]
+  },
+  {
+    "code": "050-09",
+    "name": "Risques liés aux vols",
+    "subtopics": [
+      { "code": "050-09-01", "name": "Glaçage" },
+      { "code": "050-09-02", "name": "Turbulence" },
+      { "code": "050-09-03", "name": "Cisaillement du vent" },
+      { "code": "050-09-04", "name": "Orages" },
+      { "code": "050-09-05", "name": "Tornades" },
+      { "code": "050-09-06", "name": "Inversions" },
+      { "code": "050-09-07", "name": "Conditions stratosphériques" },
+      { "code": "050-09-08", "name": "Dangers en zone montagneuse" },
+      { "code": "050-09-09", "name": "Phénomènes réduisant la visibilité" }
+    ]
+  },
+  {
+    "code": "050-10",
+    "name": "Informations météorologiques",
+    "subtopics": [
+      { "code": "050-10-01", "name": "Observation" },
+      { "code": "050-10-02", "name": "Cartes météorologiques" },
+      { "code": "050-10-03", "name": "Informations pour la planification des vols" },
+      { "code": "050-10-04", "name": "Services météorologiques" }
+    ]
+  }
+]

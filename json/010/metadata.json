@@ -1,0 +1,210 @@
+[
+  {
+    "code": "010-01",
+    "name": "Droit international : conventions, accords et organisations",
+    "subtopics": [
+      {
+        "code": "010-01-01",
+        "name": "Convention relative à l'aviation civile internationale (Chicago) - Doc 7300/9 de l'OACI - Convention sur la haute mer (Genève, 29 avril 1958)"
+      },
+      { "code": "010-01-02", "name": "Autres conventions et accords" },
+      { "code": "010-01-03", "name": "Organisations mondiales" },
+      { "code": "010-01-04", "name": "Organisations européennes" }
+    ]
+  },
+  {
+    "code": "010-02",
+    "name": "Navigabilité des aéronefs, nationalité et marques d'immatriculation des aéronefs",
+    "subtopics": [
+      { "code": "010-02-02", "name": "Certificat de navigabilité (CofA)" },
+      {
+        "code": "010-02-03",
+        "name": "Annexe 7 de l'OACI — Marques de nationalité et d'immatriculation des aéronefs"
+      },
+      {
+        "code": "010-02-04",
+        "name": "Marques de nationalité, marques communes et marques d'enregistrement"
+      }
+    ]
+  },
+  {
+    "code": "010-04",
+    "name": "Licences du personnel",
+    "subtopics": [
+      {
+        "code": "010-04-02",
+        "name": "Règlement sur le personnel navigant — Annexe I (Partie FCL)"
+      },
+      {
+        "code": "010-04-03",
+        "name": "Règlement sur le personnel navigant — Annexe IV (Partie MED)"
+      }
+    ]
+  },
+  {
+    "code": "010-05",
+    "name": "Règles de l'air selon l'Annexe 2 de l'OACI et le SERA",
+    "subtopics": [
+      {
+        "code": "010-05-01",
+        "name": "Aperçu de l'Annexe 2 de l'OACI et du SERA (Règlement d'exécution (UE) n° 923/2012 de la Commission et ses références et modifications ultérieures)"
+      },
+      { "code": "010-05-02", "name": "Règles de l'air" },
+      { "code": "010-05-03", "name": "Règles générales" },
+      { "code": "010-05-04", "name": "Règles de vol à vue (VFR)" },
+      { "code": "010-05-05", "name": "Règles de vol aux instruments (IFR)" },
+      { "code": "010-05-06", "name": "Interception d'aéronefs civils" }
+    ]
+  },
+  {
+    "code": "010-06",
+    "name": "Opérations aériennes",
+    "subtopics": [
+      {
+        "code": "010-06-02",
+        "name": "Définitions et abréviations (Procédures de vol PANS-OPS, Doc 8168 de l'OACI, Volume I)"
+      },
+      {
+        "code": "010-06-03",
+        "name": "Procédures de départ — (OACI Doc 8168, Volume I)"
+      },
+      {
+        "code": "010-06-04",
+        "name": "Procédures d'approche — Doc 8168 de l'OACI, Volume I"
+      },
+      {
+        "code": "010-06-05",
+        "name": "Procédures d'attente — Doc 8168 de l'OACI, Volume I"
+      },
+      {
+        "code": "010-06-06",
+        "name": "Procédures de calage altimétrique — Doc 8168 de l'OACI"
+      },
+      {
+        "code": "010-06-07",
+        "name": "Pistes aux instruments parallèles ou quasi parallèles - OACI Doc 8168, Volume III"
+      },
+      {
+        "code": "010-06-08",
+        "name": "Procédures d'exploitation du radar de surveillance secondaire (transpondeur) — Doc 8168 de l'OACI"
+      },
+      {
+        "code": "010-06-09",
+        "name": "RÈGLEMENT (UE) N° 965/2012 SUR LES OPÉRATIONS AÉRIENNES"
+      }
+    ]
+  },
+  {
+    "code": "010-07",
+    "name": "Services de la circulation aérienne (ATS) et gestion du trafic aérien (ATM)",
+    "subtopics": [
+      {
+        "code": "010-07-01",
+        "name": "Annexe 11 de l'OACI — Services de la circulation aérienne"
+      },
+      {
+        "code": "010-07-02",
+        "name": "Doc 4444 de l'OACI — Gestion du trafic aérien"
+      }
+    ]
+  },
+  {
+    "code": "010-08",
+    "name": "Service d'information aéronautique (AIS)",
+    "subtopics": [
+      { "code": "010-08-01", "name": "Introduction" },
+      { "code": "010-08-02", "name": "Définitions de l'Annexe 15 de l'OACI" },
+      { "code": "010-08-03", "name": "Généralités" },
+      {
+        "code": "010-08-04",
+        "name": "Produits et services d'information aéronautique"
+      },
+      {
+        "code": "010-08-05",
+        "name": "Fournisseurs de services de guichets automatiques"
+      }
+    ]
+  },
+  {
+    "code": "010-09",
+    "name": "Aérodromes",
+    "subtopics": [
+      { "code": "010-09-01", "name": "Généralités" },
+      { "code": "010-09-02", "name": "Données d'aérodrome (AD)" },
+      { "code": "010-09-03", "name": "Caractéristiques physiques" },
+      { "code": "010-09-04", "name": "Aides visuelles à la navigation" },
+      {
+        "code": "010-09-05",
+        "name": "Aides visuelles pour signaler les obstacles"
+      },
+      {
+        "code": "010-09-06",
+        "name": "Aides visuelles pour indiquer l'utilisation restreinte des zones"
+      },
+      {
+        "code": "010-09-07",
+        "name": "Services opérationnels, équipements et installations d'aérodrome (AD)"
+      },
+      { "code": "010-09-08", "name": "Documents d'orientation supplémentaires" }
+    ]
+  },
+  {
+    "code": "010-10",
+    "name": "Facilitation (Annexe 9 de l'OACI)",
+    "subtopics": [
+      { "code": "010-10-02", "name": "Entrée et sortie des aéronefs" }
+    ]
+  },
+  {
+    "code": "010-11",
+    "name": "Recherche et sauvetage (SAR)",
+    "subtopics": [
+      { "code": "010-11-01", "name": "Définitions essentielles du SAR" },
+      { "code": "010-11-02", "name": "SAR - Organisation" },
+      {
+        "code": "010-11-03",
+        "name": "Procédures opérationnelles pour les équipages non SAR"
+      },
+      { "code": "010-11-04", "name": "Signaux de recherche et de sauvetage" }
+    ]
+  },
+  {
+    "code": "010-12",
+    "name": "Sûreté – Protection de l'aviation civile internationale contre les actes d'intervention illicite (Annexe 17 de l'OACI)",
+    "subtopics": [
+      {
+        "code": "01/12/01",
+        "name": "Définitions essentielles de l'Annexe 17 de l'OACI"
+      },
+      { "code": "010-12-02", "name": "Principes généraux" },
+      { "code": "010-12-04", "name": "Mesures de sécurité préventives" },
+      {
+        "code": "010-12-05",
+        "name": "Gestion de la réponse aux actes d'intervention illicite"
+      },
+      { "code": "010-12-06", "name": "Programme de sécurité des opérateurs" },
+      {
+        "code": "010-12-07",
+        "name": "Procédures de sécurité dans d'autres documents, à savoir les annexes 2, 6 et 14 de l'OACI, le document 4444 de l'OACI, le règlement (UE) n° 965/2012 et le CS-ADR-DSN"
+      }
+    ]
+  },
+  {
+    "code": "010-13",
+    "name": "Enquête sur les accidents et incidents d'aviation",
+    "subtopics": [
+      {
+        "code": "010-13-01",
+        "name": "Définitions essentielles de l'Annexe 13 de l'OACI"
+      },
+      {
+        "code": "010-13-02",
+        "name": "Enquête sur les accidents et incidents dans l'Annexe 13 de l'OACI"
+      },
+      {
+        "code": "010-13-03",
+        "name": "Enquêtes sur les accidents et les incidents dans la réglementation de l'UE"
+      }
+    ]
+  }
+]

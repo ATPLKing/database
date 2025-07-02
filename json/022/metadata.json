@@ -1,0 +1,122 @@
+[
+    {
+      "code": "022-01",
+      "name": "Capteurs et instruments",
+      "subtopics": [
+        { "code": "022-01-01", "name": "Manomètre" },
+        { "code": "022-01-02", "name": "Détection de température" },
+        { "code": "022-01-03", "name": "Jauge de carburant" },
+        { "code": "022-01-04", "name": "Débitmètres de carburant" },
+        { "code": "022-01-05", "name": "Tachymètre" },
+        { "code": "022-01-07", "name": "Couplemètre moteur" }
+      ]
+    },
+    {
+      "code": "022-02",
+      "name": "Mesure des paramètres des données aérodynamiques",
+      "subtopics": [
+        { "code": "022-02-01", "name": "Mesure de pression" },
+        { "code": "022-02-02", "name": "Mesure de la température" },
+        { "code": "022-02-04", "name": "Altimètre" },
+        { "code": "022-02-05", "name": "Indicateur de vitesse verticale (VSI)" },
+        { "code": "022-02-06", "name": "Indicateur de vitesse anémométrique (ASI)" },
+        { "code": "022-02-08", "name": "Calculateur de données aériennes (ADC)" }
+      ]
+    },
+    {
+      "code": "022-03",
+      "name": "Magnétisme – Boussole à lecture directe et vanne de flux",
+      "subtopics": [
+        { "code": "022-03-01", "name": "Champ magnétique terrestre" },
+        { "code": "022-03-02", "name": "Champ magnétique des aéronefs" },
+        { "code": "022-03-03", "name": "Boussole magnétique à lecture directe" },
+        { "code": "022-03-04", "name": "Vanne de flux" }
+      ]
+    },
+    {
+      "code": "022-04",
+      "name": "Instruments gyroscopiques",
+      "subtopics": [
+        { "code": "022-04-01", "name": "Gyroscope : principes de base" },
+        { "code": "022-04-02", "name": "Indicateur de taux de giration — Coordinateur de virage — Indicateur d'équilibre (glissement)" },
+        { "code": "022-04-03", "name": "Indicateur d'attitude (horizon artificiel)" },
+        { "code": "022-04-04", "name": "Gyroscope directionnel" },
+        { "code": "022-04-05", "name": "Systèmes de boussole à lecture à distance" },
+        { "code": "022-04-06", "name": "Systèmes à semi-conducteurs — Système de référence d'attitude et de cap (AHRS)" }
+      ]
+    },
+    {
+      "code": "022-05",
+      "name": "Navigation inertielle",
+      "subtopics": [
+        { "code": "022-05-01", "name": "Principes de base" },
+        { "code": "022-05-02", "name": "Alignement et fonctionnement" }
+      ]
+    },
+    {
+      "code": "022-07",
+      "name": "Hélicoptère : Systèmes de contrôle de vol automatique",
+      "subtopics": [
+        { "code": "022-07-01", "name": "Principes généraux" },
+        { "code": "022-07-02", "name": "Composants : fonctionnement" },
+        { "code": "022-07-03", "name": "Système d'augmentation de la stabilité (SAS)" },
+        { "code": "022-07-04", "name": "Pilote automatique — équipement de stabilité automatique" }
+      ]
+    },
+    {
+      "code": "022-10",
+      "name": "Systèmes de communication",
+      "subtopics": [
+        { "code": "022-10-01", "name": "Communication vocale, transmission de données" }
+      ]
+    },
+    {
+      "code": "022-11",
+      "name": "Système de gestion de vol (FMS)/Système de gestion et de guidage de vol (FMGS)",
+      "subtopics": [
+        { "code": "022-11-01", "name": "Conception" },
+        { "code": "022-11-02", "name": "Bases de données FMC" },
+        { "code": "022-11-03", "name": "Opérations, limitations" },
+        { "code": "022-11-04", "name": "Interface homme-machine (unité de commande et d'affichage (CDU)/unité de commande et d'affichage multifonction (MCDU))" }
+      ]
+    },
+    {
+      "code": "022-12",
+      "name": "Systèmes d'alerte, systèmes de proximité",
+      "subtopics": [
+        { "code": "022-12-01", "name": "Généralités" },
+        { "code": "022-12-02", "name": "Systèmes d'alerte de vol (FWS)" },
+        { "code": "022-12-07", "name": "Système d'alerte d'altitude" },
+        { "code": "022-12-08", "name": "Radioaltimètre" },
+        { "code": "022-12-09", "name": "Systèmes d'avertissement de proximité du sol (GPWS)" },
+        { "code": "022-12-10", "name": "ACAS/TCAS" },
+        { "code": "022-12-11", "name": "Système d'alerte de survitesse rotor/moteur" }
+      ]
+    },
+    {
+      "code": "022-13",
+      "name": "Instruments intégrés – Affichages électroniques",
+      "subtopics": [
+        { "code": "022-13-01", "name": "Unités d'affichage électroniques" },
+        { "code": "022-13-03", "name": "Systèmes d'instruments de vol électroniques (EFIS)" },
+        { "code": "022-13-04", "name": "Paramètres moteur, avertissements de l'équipage, systèmes de bord, systèmes d'affichage des procédures et des missions" },
+        { "code": "022-13-06", "name": "Organiseur de poste de pilotage électronique (EFB)" },
+        { "code": "022-13-07", "name": "Affichage tête haute (HUD), système de vision synthétique (SVS) et système visuel amélioré (EVS)" }
+      ]
+    },
+    {
+      "code": "022-14",
+      "name": "Systèmes de maintenance, de surveillance et d'enregistrement",
+      "subtopics": [
+        { "code": "022-14-01", "name": "Enregistreur de conversations de poste de pilotage (CVR)" },
+        { "code": "022-14-03", "name": "Systèmes de maintenance et de surveillance" }
+      ]
+    },
+    {
+      "code": "022-15",
+      "name": "Circuits numériques et ordinateurs",
+      "subtopics": [
+        { "code": "022-15-01", "name": "Circuits numériques et ordinateurs" }
+      ]
+    }
+  ]

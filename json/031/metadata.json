@@ -1,0 +1,46 @@
+[
+  {
+    "code": "031-01",
+    "name": "Objectif des considérations relatives à la masse et à l'équilibre",
+    "subtopics": [
+      { "code": "031-01-01", "name": "Limitations de masse" },
+      { "code": "031-01-02", "name": "Limitations du centre de gravité (CG)" }
+    ]
+  },
+  {
+    "code": "031-02",
+    "name": "Chargement",
+    "subtopics": [
+      { "code": "031-02-01", "name": "Terminologie" },
+      { "code": "031-02-02", "name": "Limites de masse" },
+      { "code": "031-02-03", "name": "Calculs de masse" }
+    ]
+  },
+  {
+    "code": "031-04",
+    "name": "Détails de masse et d'équilibre des aéronefs",
+    "subtopics": [
+      { "code": "031-04-01", "name": "Contenu de la documentation de masse et centrage" },
+      { "code": "031-04-02", "name": "Détermination de la masse à vide et du centre de gravité de l'aéronef par pesée" },
+      { "code": "031-04-03", "name": "Extraction des données de masse à vide de base (BEM) et de centre de gravité à partir de la documentation de l'aéronef" }
+    ]
+  },
+  {
+    "code": "031-05",
+    "name": "Détermination de la position du centre de gravité",
+    "subtopics": [
+      { "code": "031-05-01", "name": "Méthodes" },
+      { "code": "031-05-02", "name": "Fiche de chargement et d'assiette" },
+      { "code": "031-05-03", "name": "Repositionnement du CG" }
+    ]
+  },
+  {
+    "code": "031-06",
+    "name": "Manutention du fret",
+    "subtopics": [
+      { "code": "031-06-01", "name": "Types de marchandises" },
+      { "code": "031-06-02", "name": "Limitations de charge au sol et de charge courante" },
+      { "code": "031-06-03", "name": "Arrimage du chargement" }
+    ]
+  }
+]
