@@ -28,7 +28,7 @@ To contribute questions, refer to the example `example.json` file in the `json` 
 **Instructions:**
 - Each question is an object in the array.
 - Fill :
-  - `subtopic`: with the correct subtopic or leave it blank if not sure, 
+  - `subtopic`: with the correct subtopic or `xxx` if unknown, 
   - `database` : add the letter A for Airplaine, H for Helicopter, or leave it blank for both, 
   - `id` : let the TBD value, it will be auto-assigned before merging
   - `question`, 
