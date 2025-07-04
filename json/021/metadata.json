@@ -180,5 +180,15 @@
         "name": "Conception du rotor de queue et des pales"
       }
     ]
+  }, 
+  {
+    "code": "XXX",
+    "name": "Non spécifié",
+    "subtopics": [
+      {
+        "code":"xxx",
+        "name": "Non spécifié"
+      }
+    ]
   }
 ]
