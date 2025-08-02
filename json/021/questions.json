@@ -675,7 +675,7 @@
     "id": "TBD",
     "subtopic": "xxx",
     "database": "H",
-    "question": "(Pour cette question utilisez Tannexe ECQB-021-031-v2019-11)<br><img src=\"bypass.png\" alt=\"Courbe Puissance\" style=\"max-width: 100%; margin-top: 10px;\"><br>Sur la représentation en annexe, quels sont les composants indiqués par (1) et (2)?",
+    "question": "(Pour cette question utilisez annexe ECQB-021-031-v2019-11) Sur la représentation en annexe, quels sont les composants indiqués par (1) et (2)?",
     "annexe": "",
     "options": [
       { "text": "(1) filtre à huile et “by-pass”<br>(2) contacteur de température", "correct": true },
