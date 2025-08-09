@@ -1,7 +1,7 @@
 [
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos du dépassement de l'enveloppe de conception définie par le constructeur, quelle proposition est correcte/incorrecte? <br> 1. Un dépassement de l'enveloppe de conception définie par le constructeur pendant une durée inférieure à 2 secondes reste à l'intérieur de la marge de sécurité additionnelle et ne provoque aucun dommage permanent à l'aéronef.<br> 2. Tout dépassement de l'enveloppe de conception définie par le constructeur doit être noté dans le livret de suivi technique, même si l'équipage ne détecte aucun dommage permanent.",
     "annexe": "",
@@ -15,7 +15,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des compas mobiles est d'assurer:<br>1. que la partie mobile du plateau cyclique reste au contact de la partie fixe du plateau cyclique<br>2. que la partie mobile du plateau cyclique a la même vitesse de rotation que le rotor principal<br>3. que le rotor principal est entraîné par la boîte de transmission principale<br>4. que la partie fixe du plateau cyclique a la même vitesse de rotation que le rotor principal",
     "annexe": "",
@@ -29,7 +29,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour corriger le 'track' et balourd du rotor principal...",
     "annexe": "",
@@ -43,7 +43,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Considérons un rotor principal totalement articulé dont les pales sont retenues par des articulations et/ou des roulements. Quels sont les mouvements permis par ses articulations?",
     "annexe": "",
@@ -57,7 +57,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans une turbine à gaz, les ailettes rotor d'un compresseur axial sont souvent montées sur un disque ou un tambour en utilisant une 'fixation souple' pour…",
     "annexe": "",
@@ -71,7 +71,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le réchauffage carburateur n'est en général pas utilisé avec la puissance de décollage ou de montée à cause...",
     "annexe": "",
@@ -85,7 +85,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le blindage séparé des fils électriques regroupés au sein d'un faisceau de câbles (harnais électrique) vise à...",
     "annexe": "",
@@ -99,7 +99,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la proposition correcte?<br>1- Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2- Le point éclair du JET A est une température supérieure à celui du JET B.",
     "annexe": "",
@@ -113,7 +113,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un hélicoptère multimoteur possède (1)___ qui tourne(nt) librement pendant (2)___",
     "annexe": "",
@@ -127,7 +127,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Lorsqu'une barre bus subit un court-circuit, elle est...",
     "annexe": "",
@@ -141,7 +141,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur pistons, les bielles et le vilebrequin convertissent le mouvement (1)___ (2)___ en un mouvement (3)___.",
     "annexe": "",
@@ -155,7 +155,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un clapet-navette hydraulique...",
     "annexe": "",
@@ -169,7 +169,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La commande pour décharger un agent extincteur incendie sur un moteur est activée...",
     "annexe": "",
@@ -183,7 +183,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une liaison 'k' (delta three effect) équipe certains rotors de queue pour:",
     "annexe": "",
@@ -197,7 +197,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des compas fixes est:",
     "annexe": "",
@@ -211,7 +211,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour une suppression de vibration active...",
     "annexe": "",
@@ -225,7 +225,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une turbine libre est une turbine qui (1)___ connectée au compresseur pour permettre (2) ___ de tourner à sa vitesse de rotation optimale.",
     "annexe": "",
@@ -239,7 +239,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur les avions équipés de générateurs (1)___ comme source principale d'énergie électrique, des transformateurs redresseurs (TR) sont utilisés pour obtenir la génération électrique (2)___.",
     "annexe": "",
@@ -253,7 +253,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "À propos du principe de fonctionnement d'une turbine axiale à réaction, les propositions suivantes sont-elles vraies ou fausses ?<br>1- Les aubes et les ailettes d’une turbine à réaction provoquent la rotation du rotor turbine par l'action aérodynamique de l'écoulement d'air qui est redressé pour circuler autour des ailettes selon un angle particulier.<br>2- Au sein d’un étage de turbine axiale à réaction, les aubes du stator et les ailettes du rotor se comportent toutes les deux comme un profil aérodynamique.",
     "annexe": "",
@@ -267,7 +267,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos de la conception des pales de rotor principal, quelle est l'affirmation correcte?",
     "annexe": "",
@@ -281,7 +281,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Certains avions et hélicoptères légers sont équipés d'un dispositif à gaz (“blow down”) pour la sortie du train d'atterrissage en secours, en cas de panne d'alimentation hydraulique du train.<br>Quel est le gaz utilisé par ce dispositif et comment est-il transmis au système de commande du train?",
     "annexe": "",
@@ -295,7 +295,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour une transmission d'hélicoptère, quels composants sont généralement utilisés pour surveiller la santé d'une boîte intermédiaire?<br>1. Un témoin de colmatage de filtre à huile<br>2. Un détecteur de particules (mécanique/ électrique)<br>3. Un indicateur de pression d'huile<br>4. Un indicateur visuel de niveau d'huile",
     "annexe": "",
@@ -309,7 +309,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un échangeur air-air (intercooler) est quelquefois monté entre le compresseur et le conduit d'admission afin...",
     "annexe": "",
@@ -323,7 +323,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un clapet de décharge (“waste gate”) est utilisé pour contrôler la puissance d'un turbocompresseur, en faisant varier la quantité de gaz d’échappement circulant dans (1)___ du turbocompresseur. Un clapet complètement (2)___ assurera une vitesse de rotation maximale du turbocompresseur.",
     "annexe": "",
@@ -337,7 +337,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Concernant le givrage du système d'admission d'un moteur à piston...",
     "annexe": "",
@@ -351,7 +351,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur un avion à moteur à pistons, parmi les servitudes suivantes, lesquelles sont susceptibles d'utiliser l'air du système pneumatique?<br>1. Chauffage cabine.<br>2. Génération électrique.<br>3. Pompes hydrauliques.<br>4. Système de dégivrage.<br>5. Instruments gyroscopiques.<br>6. Instruments pitot-statique.",
     "annexe": "",
@@ -365,7 +365,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur un avion à réaction un pillole observe des indications moteur anormales, avec des fluctuations des indications RPM et ITT (température turbine inter-étages), et des détonations.<br>La cause probable est...",
     "annexe": "",
@@ -379,7 +379,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un aéronef équipé d'un train d'atterrissage avec une sécurité anti-rétraction sur la manette de train, l'affirmation exacte est...",
     "annexe": "",
@@ -393,7 +393,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les équipages doivent être informés lorsque des quantités importantes de batteries au lithium sont chargées dans les soutes cargo. Ceci est lié au fait que ces batteries...",
     "annexe": "",
@@ -407,7 +407,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une des raisons de l'immersion dans le carburant des pompes de gavage du circuit carburant est:",
     "annexe": "",
@@ -421,7 +421,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelles sont au cockpit les indications possibles d'un feu moteur?",
     "annexe": "",
@@ -435,7 +435,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz de type à réaction pure, les forces de rotation résultent directement...",
     "annexe": "",
@@ -449,7 +449,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les turbocompresseurs installés sur les moteurs à pistons en tant que système d'augmentation des performances, sont utilisés pour...",
     "annexe": "",
@@ -463,7 +463,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos du système de lubrification d'un moteur. quelles indications et/ou alarmes sont les plus importantes quant à son fonctionnement, et doivent être surveillées avec attention au cours de la procédure de démarrage?",
     "annexe": "",
@@ -477,7 +477,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un avion moteur à pistons contrôlé par une régulation électronique à pleine autorité (FADEC) et équipé d'une hélice à calage variable, quelles sont les commandes moteur au poste de pilotage",
     "annexe": "",
@@ -491,7 +491,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz, les aubages directeurs d'entrée à calage variable (Inlet Guide Vanes IGV)...",
     "annexe": "",
@@ -505,7 +505,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Que peut-il se produire pour un moteur à piston pendant une montée continue avec un réglage du mélange plein riche?",
     "annexe": "",
@@ -519,7 +519,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Parmi ces propositions:<br>1. La boîte de transmission arrière contient les engrenages pour la rotation du rotor de queue.<br>2. Le mécanisme de contrôle de pas du rotor arrière est fixé sur la boîte de transmission arrière.",
     "annexe": "",
@@ -533,7 +533,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans la plupart des aéronefs de transport, les glaces du poste de pilotage sont protégées contre le givrage par...",
     "annexe": "",
@@ -547,7 +547,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des butées de commandes de vol est:",
     "annexe": "",
@@ -561,7 +561,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos d'un système rotor principal bipale :<br>1 - Une tête rotor avec axe de bascule est généralement utilisée dans un système de rotor bipale.<br>2 - Un système rotor bipale avec un axe de bascule est identifié comme rotor rigide.<br>Parmi ces propositions:",
     "annexe": "",
@@ -575,7 +575,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Si une batterie au lithium de forte puissance est exposée à des chocs mécaniques ou thermiques, cela peut provoquer...",
     "annexe": "",
@@ -589,7 +589,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le fait qu'un aéronef ne soit pas correctement 'métallisé' peut être mis en évidence par...",
     "annexe": "",
@@ -603,7 +603,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A fins de redondance, un système de régulation électronique à pleine autorité (FADEC) d'un moteur à pistons est équipé de...",
     "annexe": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur la plupart des hélicoptères. en vol normal, la (les) pompe(s) hydraulique(s) est(sont) entrainée(s) par...",
     "annexe": "",
@@ -631,7 +631,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Laquelle de ces affirmations concernant un rotor arrière de type Fenestron ou veine d'air carénée est exacte?",
     "annexe": "",
@@ -645,7 +645,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction principale d'un frein rotor est...",
     "annexe": "",
@@ -659,7 +659,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Concernant le réchauffage des prises d'air statique et dynamique...",
     "annexe": "",
@@ -673,7 +673,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "(Pour cette question utilisez annexe ECQB-021-031-v2019-11) Sur la représentation en annexe, quels sont les composants indiqués par (1) et (2)?",
     "annexe": "",
@@ -687,7 +687,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la fonction des amortisseurs de traînée sur un rotor articulé?<br>Les amortisseurs de traînée...",
     "annexe": "",
@@ -701,7 +701,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une alerte hydraulique de basse pression est la première indication...",
     "annexe": "",
@@ -715,7 +715,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La plupart des pales de rotor de queue ont un bord d'attaque renforcé, parce que...",
     "annexe": "",
@@ -729,7 +729,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Lorsqu'une génératrice a une panne, sa bus est...",
     "annexe": "",
@@ -743,7 +743,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les conditions d'exploitation présentant le risque de corrosion le plus élevé correspondent à des vols...",
     "annexe": "",
@@ -757,7 +757,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une friction des commandes est généralement intégrée dans:",
     "annexe": "",
@@ -771,7 +771,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz classique, le système de prélèvement d'air utilise de l'air en provenance...",
     "annexe": "",
@@ -785,7 +785,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la proposition correcte?<br>1 - Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2 - Le point éclair du JET A est à une température à peu près équivalente à celui du JET B",
     "annexe": "",
@@ -799,7 +799,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la définition de la puissance électrique (P) et quelle est son unité de mesure dans le système International?<br>La puissance électrique est définie par...",
     "annexe": "",
@@ -813,7 +813,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Parmi les propositions suivantes, lesquelles sont des exemples de sources pneumatiques pour le démarrage des turboréacteurs de grande taille?",
     "annexe": "",
@@ -827,7 +827,7 @@
   },
   {
     "id": "TBD",
-    "subtopic": "xxx",
+    "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un moteur à turbines, quel est l'effet possible d'un dépassement de la température limite EGT lié à un débit carburant excessif?",
     "annexe": "",

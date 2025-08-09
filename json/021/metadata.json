@@ -182,11 +182,11 @@
     ]
   }, 
   {
-    "code": "XXX",
+    "code": "021-XX",
     "name": "Non spécifié",
     "subtopics": [
       {
-        "code":"xxx",
+        "code":"021-XX-XX",
         "name": "Non spécifié"
       }
     ]
