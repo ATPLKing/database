@@ -1,841 +1,1561 @@
 [
   {
-    "id": "TBD",
+    "id": "0210001",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos du dépassement de l'enveloppe de conception définie par le constructeur, quelle proposition est correcte/incorrecte? <br> 1. Un dépassement de l'enveloppe de conception définie par le constructeur pendant une durée inférieure à 2 secondes reste à l'intérieur de la marge de sécurité additionnelle et ne provoque aucun dommage permanent à l'aéronef.<br> 2. Tout dépassement de l'enveloppe de conception définie par le constructeur doit être noté dans le livret de suivi technique, même si l'équipage ne détecte aucun dommage permanent.",
     "annexe": "",
     "options": [
-      { "text": "1 et 2 sont incorrectes", "correct": false },
-      { "text": "1 est incorrecte, 2 est correcte", "correct": true },
-      { "text": "1 et 2 sont correctes", "correct": false },
-      { "text": "1 est correcte, 2 est incorrecte", "correct": false }
+      {
+        "text": "1 et 2 sont incorrectes",
+        "correct": false
+      },
+      {
+        "text": "1 est incorrecte, 2 est correcte",
+        "correct": true
+      },
+      {
+        "text": "1 et 2 sont correctes",
+        "correct": false
+      },
+      {
+        "text": "1 est correcte, 2 est incorrecte",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210002",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des compas mobiles est d'assurer:<br>1. que la partie mobile du plateau cyclique reste au contact de la partie fixe du plateau cyclique<br>2. que la partie mobile du plateau cyclique a la même vitesse de rotation que le rotor principal<br>3. que le rotor principal est entraîné par la boîte de transmission principale<br>4. que la partie fixe du plateau cyclique a la même vitesse de rotation que le rotor principal",
     "annexe": "",
     "options": [
-      { "text": "que la partie mobile du plateau cyclique reste au contact de la partie fixe du plateau cyclique", "correct": false },
-      { "text": "que la partie mobile du plateau cyclique a la même vitesse de rotation que le rotor principal", "correct": true },
-      { "text": "que le rotor principal est entraîné par la boîte de transmission principale", "correct": false },
-      { "text": "que la partie fixe du plateau cyclique a la même vitesse de rotation que le rotor principal", "correct": false }
+      {
+        "text": "que la partie mobile du plateau cyclique reste au contact de la partie fixe du plateau cyclique",
+        "correct": false
+      },
+      {
+        "text": "que la partie mobile du plateau cyclique a la même vitesse de rotation que le rotor principal",
+        "correct": true
+      },
+      {
+        "text": "que le rotor principal est entraîné par la boîte de transmission principale",
+        "correct": false
+      },
+      {
+        "text": "que la partie fixe du plateau cyclique a la même vitesse de rotation que le rotor principal",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210003",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour corriger le 'track' et balourd du rotor principal...",
     "annexe": "",
     "options": [
-      { "text": "des petites masses peuvent être ajoutées sur la partie tournante du plateau cyclique.", "correct": false },
-      { "text": "la corde des pales du rotor peut être ajustée.", "correct": false },
-      { "text": "l'envergure des pales du rotor peut être ajustée.", "correct": false },
-      { "text": "la longueur des biellettes de pas peut être ajustée.", "correct": true }
+      {
+        "text": "des petites masses peuvent être ajoutées sur la partie tournante du plateau cyclique.",
+        "correct": false
+      },
+      {
+        "text": "la corde des pales du rotor peut être ajustée.",
+        "correct": false
+      },
+      {
+        "text": "l'envergure des pales du rotor peut être ajustée.",
+        "correct": false
+      },
+      {
+        "text": "la longueur des biellettes de pas peut être ajustée.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210004",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Considérons un rotor principal totalement articulé dont les pales sont retenues par des articulations et/ou des roulements. Quels sont les mouvements permis par ses articulations?",
     "annexe": "",
     "options": [
-      { "text": "Traînée, battement et variation de pas.", "correct": true },
-      { "text": "Trainee et battement seulement.", "correct": false },
-      { "text": "Battement et variation de pas seulement.", "correct": false },
-      { "text": "Variation de pas seulement.", "correct": false }
+      {
+        "text": "Traînée, battement et variation de pas.",
+        "correct": true
+      },
+      {
+        "text": "Trainee et battement seulement.",
+        "correct": false
+      },
+      {
+        "text": "Battement et variation de pas seulement.",
+        "correct": false
+      },
+      {
+        "text": "Variation de pas seulement.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210005",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans une turbine à gaz, les ailettes rotor d'un compresseur axial sont souvent montées sur un disque ou un tambour en utilisant une 'fixation souple' pour…",
     "annexe": "",
     "options": [
-      { "text": "limiter les dommages causés par des corps étrangers.", "correct": false },
-      { "text": "permettre une aisance de montage et de démontage.", "correct": false },
-      { "text": "limiter les dommages des ailettes dus aux vibrations.", "correct": true },
-      { "text": "limiter les dommages dus au fluage.", "correct": false }
+      {
+        "text": "limiter les dommages causés par des corps étrangers.",
+        "correct": false
+      },
+      {
+        "text": "permettre une aisance de montage et de démontage.",
+        "correct": false
+      },
+      {
+        "text": "limiter les dommages des ailettes dus aux vibrations.",
+        "correct": true
+      },
+      {
+        "text": "limiter les dommages dus au fluage.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210006",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le réchauffage carburateur n'est en général pas utilisé avec la puissance de décollage ou de montée à cause...",
     "annexe": "",
     "options": [
-      { "text": "de l'augmentation de la traînée.", "correct": false },
-      { "text": "de la baisse de puissance et de détonation possible.", "correct": true },
-      { "text": "de l'impossibilité pour le moteur de fournir assez de chaleur.", "correct": false },
-      { "text": "du risque de feu induit.", "correct": false }
+      {
+        "text": "de l'augmentation de la traînée.",
+        "correct": false
+      },
+      {
+        "text": "de la baisse de puissance et de détonation possible.",
+        "correct": true
+      },
+      {
+        "text": "de l'impossibilité pour le moteur de fournir assez de chaleur.",
+        "correct": false
+      },
+      {
+        "text": "du risque de feu induit.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210007",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le blindage séparé des fils électriques regroupés au sein d'un faisceau de câbles (harnais électrique) vise à...",
     "annexe": "",
     "options": [
-      { "text": "étiqueter les fils électriques au sein du harnais pour faciliter la maintenance.", "correct": false },
-      { "text": "renforcer physiquement les fils afin d'empêcher leur rupture en cas de vibrations en vol.", "correct": false },
-      { "text": "éliminer l’induction électromagnétique provoquée par les autres fils électriques du harnais.", "correct": true },
-      { "text": "garantir l'isolation entre les fils électriques au sein du harnais.", "correct": false }
+      {
+        "text": "étiqueter les fils électriques au sein du harnais pour faciliter la maintenance.",
+        "correct": false
+      },
+      {
+        "text": "renforcer physiquement les fils afin d'empêcher leur rupture en cas de vibrations en vol.",
+        "correct": false
+      },
+      {
+        "text": "éliminer l’induction électromagnétique provoquée par les autres fils électriques du harnais.",
+        "correct": true
+      },
+      {
+        "text": "garantir l'isolation entre les fils électriques au sein du harnais.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210008",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la proposition correcte?<br>1- Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2- Le point éclair du JET A est une température supérieure à celui du JET B.",
     "annexe": "",
     "options": [
-      { "text": "1 est vrai, 2 est faux.", "correct": false },
-      { "text": "1 est faux, 2 est vrai.", "correct": true },
-      { "text": "1 est vrai, 2 est vrai.", "correct": false },
-      { "text": "1 est faux,2 est faux.", "correct": false }
+      {
+        "text": "1 est vrai, 2 est faux.",
+        "correct": false
+      },
+      {
+        "text": "1 est faux, 2 est vrai.",
+        "correct": true
+      },
+      {
+        "text": "1 est vrai, 2 est vrai.",
+        "correct": false
+      },
+      {
+        "text": "1 est faux,2 est faux.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210009",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un hélicoptère multimoteur possède (1)___ qui tourne(nt) librement pendant (2)___",
     "annexe": "",
     "options": [
-      { "text": "(1) une roue libre par le moteur<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation.", "correct": true },
-      { "text": "(1) une roue libre<br>(2) l’autorotation.", "correct": false },
-      { "text": "(1) deux roues libres par moteur<br>(2) l'autorotation.", "correct": false },
-      { "text": "(1) une roue libre sur l'arbre d'entraînement du rotor principal<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation.", "correct": false }
+      {
+        "text": "(1) une roue libre par le moteur<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation.",
+        "correct": true
+      },
+      {
+        "text": "(1) une roue libre<br>(2) l’autorotation.",
+        "correct": false
+      },
+      {
+        "text": "(1) deux roues libres par moteur<br>(2) l'autorotation.",
+        "correct": false
+      },
+      {
+        "text": "(1) une roue libre sur l'arbre d'entraînement du rotor principal<br>(2) le démarrage, les opérations monomoteur (OEI) et l'autorotation.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210010",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Lorsqu'une barre bus subit un court-circuit, elle est...",
     "annexe": "",
     "options": [
-      { "text": "isolée mais les servitudes sont transférées à une autre bus.", "correct": false },
-      { "text": "isolée et les servitudes ne sont plus alimentées.", "correct": true },
-      { "text": "automatiquement transférée à une autre bus.", "correct": false },
-      { "text": "manuellement transférée à une autre génératrice.", "correct": false }
+      {
+        "text": "isolée mais les servitudes sont transférées à une autre bus.",
+        "correct": false
+      },
+      {
+        "text": "isolée et les servitudes ne sont plus alimentées.",
+        "correct": true
+      },
+      {
+        "text": "automatiquement transférée à une autre bus.",
+        "correct": false
+      },
+      {
+        "text": "manuellement transférée à une autre génératrice.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210011",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur pistons, les bielles et le vilebrequin convertissent le mouvement (1)___ (2)___ en un mouvement (3)___.",
     "annexe": "",
     "options": [
-      { "text": "(1) rotatif<br>(2) de l’arbre à cames<br>(3) linéaire", "correct": false },
-      { "text": "(1) linéaire<br>(2) des pistons<br>(3) rotatif", "correct": true },
-      { "text": "(1)linéaire<br>(2) de l’arbre à cames<br>(3) rotatif", "correct": false },
-      { "text": "(1)rotatif<br>(2) des pistons<br>(3) linéaire", "correct": false }
+      {
+        "text": "(1) rotatif<br>(2) de l’arbre à cames<br>(3) linéaire",
+        "correct": false
+      },
+      {
+        "text": "(1) linéaire<br>(2) des pistons<br>(3) rotatif",
+        "correct": true
+      },
+      {
+        "text": "(1)linéaire<br>(2) de l’arbre à cames<br>(3) rotatif",
+        "correct": false
+      },
+      {
+        "text": "(1)rotatif<br>(2) des pistons<br>(3) linéaire",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210012",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un clapet-navette hydraulique...",
     "annexe": "",
     "options": [
-      { "text": "permet à deux systèmes d'être alimentés par une seule source de pression.", "correct": false },
-      { "text": "est une vanne d’anti-retour.", "correct": false },
-      { "text": "permet à une source secondaire d'alimenter un équipement.", "correct": true },
-      { "text": "régule la pression délivrée par une pompe hydraulique.", "correct": false }
+      {
+        "text": "permet à deux systèmes d'être alimentés par une seule source de pression.",
+        "correct": false
+      },
+      {
+        "text": "est une vanne d’anti-retour.",
+        "correct": false
+      },
+      {
+        "text": "permet à une source secondaire d'alimenter un équipement.",
+        "correct": true
+      },
+      {
+        "text": "régule la pression délivrée par une pompe hydraulique.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210013",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La commande pour décharger un agent extincteur incendie sur un moteur est activée...",
     "annexe": "",
     "options": [
-      { "text": "manuellement par l’équipage de conduite.", "correct": true },
-      { "text": "automatiquement lorsqu'un feu est détecté.", "correct": false },
-      { "text": "automatiquement lorsqu'une surchauffe est détectée.", "correct": false },
-      { "text": "manuellement en cas d'indication de température d'huile élevée.", "correct": false }
+      {
+        "text": "manuellement par l’équipage de conduite.",
+        "correct": true
+      },
+      {
+        "text": "automatiquement lorsqu'un feu est détecté.",
+        "correct": false
+      },
+      {
+        "text": "automatiquement lorsqu'une surchauffe est détectée.",
+        "correct": false
+      },
+      {
+        "text": "manuellement en cas d'indication de température d'huile élevée.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210014",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une liaison 'k' (delta three effect) équipe certains rotors de queue pour:",
     "annexe": "",
     "options": [
-      { "text": "permettre une variation pilotée du pas sans la nécessité de l'installation d'un plateau cyclique.", "correct": false },
-      { "text": "permettre au rotor de queue de se mouvoir en battement et en traînée.", "correct": false },
-      { "text": "assurer le pilotage pendant l'autorotation.", "correct": false },
-      { "text": "changer automatiquement l’angle de pas lorsque l'angle de battement de la pale de rotor arrière change.", "correct": true }
+      {
+        "text": "permettre une variation pilotée du pas sans la nécessité de l'installation d'un plateau cyclique.",
+        "correct": false
+      },
+      {
+        "text": "permettre au rotor de queue de se mouvoir en battement et en traînée.",
+        "correct": false
+      },
+      {
+        "text": "assurer le pilotage pendant l'autorotation.",
+        "correct": false
+      },
+      {
+        "text": "changer automatiquement l’angle de pas lorsque l'angle de battement de la pale de rotor arrière change.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210015",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des compas fixes est:",
     "annexe": "",
     "options": [
-      { "text": "de s'opposer à la rotation du plateau cyclique inférieur.", "correct": true },
-      { "text": "d'agir en tant que mâchoire inférieure dans le dispositif de cisaille du treuil.", "correct": false },
-      { "text": "d'entraîner le rotor principal au moyen de la boîte de transmission.", "correct": false },
-      { "text": "de s'opposer à la rotation du plateau cyclique supérieur.", "correct": false }
+      {
+        "text": "de s'opposer à la rotation du plateau cyclique inférieur.",
+        "correct": true
+      },
+      {
+        "text": "d'agir en tant que mâchoire inférieure dans le dispositif de cisaille du treuil.",
+        "correct": false
+      },
+      {
+        "text": "d'entraîner le rotor principal au moyen de la boîte de transmission.",
+        "correct": false
+      },
+      {
+        "text": "de s'opposer à la rotation du plateau cyclique supérieur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210016",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour une suppression de vibration active...",
     "annexe": "",
     "options": [
-      { "text": "des vérins oscillants agissant sur les fixations de la boîte de transmission principale annulent les vibrations transmises à la cellule de l'hélicoptère.", "correct": true },
-      { "text": "des masses lourdes sur le moyeu oscillent de manière à réduire les vibrations provenant des pales.", "correct": false },
-      { "text": "des vérins à haute vitesse sollicitent les pales précisément en opposition de phase de leur vibration normale.", "correct": false },
-      { "text": "des amortisseurs pendulaires proche du pied des pales annulent le mouvement de battement des pales qui apparaissent à celle d'une fréquence supérieure à une par révolution.", "correct": false }
+      {
+        "text": "des vérins oscillants agissant sur les fixations de la boîte de transmission principale annulent les vibrations transmises à la cellule de l'hélicoptère.",
+        "correct": true
+      },
+      {
+        "text": "des masses lourdes sur le moyeu oscillent de manière à réduire les vibrations provenant des pales.",
+        "correct": false
+      },
+      {
+        "text": "des vérins à haute vitesse sollicitent les pales précisément en opposition de phase de leur vibration normale.",
+        "correct": false
+      },
+      {
+        "text": "des amortisseurs pendulaires proche du pied des pales annulent le mouvement de battement des pales qui apparaissent à celle d'une fréquence supérieure à une par révolution.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210017",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une turbine libre est une turbine qui (1)___ connectée au compresseur pour permettre (2) ___ de tourner à sa vitesse de rotation optimale.",
     "annexe": "",
     "options": [
-      { "text": "(1) est<br>(2) au compresseur", "correct": false },
-      { "text": "(1) n'est pas<br>(2) à la turbine", "correct": true },
-      { "text": "(1) n'est pas<br>(2) au compresseur", "correct": false },
-      { "text": "(1) est<br>2) à la turbine", "correct": false }
+      {
+        "text": "(1) est<br>(2) au compresseur",
+        "correct": false
+      },
+      {
+        "text": "(1) n'est pas<br>(2) à la turbine",
+        "correct": true
+      },
+      {
+        "text": "(1) n'est pas<br>(2) au compresseur",
+        "correct": false
+      },
+      {
+        "text": "(1) est<br>2) à la turbine",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210018",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur les avions équipés de générateurs (1)___ comme source principale d'énergie électrique, des transformateurs redresseurs (TR) sont utilisés pour obtenir la génération électrique (2)___.",
     "annexe": "",
     "options": [
-      { "text": "(1) 28 V DC<br>(2) 28 V AC", "correct": false },
-      { "text": "(1) 115 V DC<br>(2) 28 V AC", "correct": false },
-      { "text": "(1) 28 V AC<br>(2) 28 V DC", "correct": false },
-      { "text": "(1) 115 V AC<br>(2) 28 V DC", "correct": true }
+      {
+        "text": "(1) 28 V DC<br>(2) 28 V AC",
+        "correct": false
+      },
+      {
+        "text": "(1) 115 V DC<br>(2) 28 V AC",
+        "correct": false
+      },
+      {
+        "text": "(1) 28 V AC<br>(2) 28 V DC",
+        "correct": false
+      },
+      {
+        "text": "(1) 115 V AC<br>(2) 28 V DC",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210019",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "À propos du principe de fonctionnement d'une turbine axiale à réaction, les propositions suivantes sont-elles vraies ou fausses ?<br>1- Les aubes et les ailettes d’une turbine à réaction provoquent la rotation du rotor turbine par l'action aérodynamique de l'écoulement d'air qui est redressé pour circuler autour des ailettes selon un angle particulier.<br>2- Au sein d’un étage de turbine axiale à réaction, les aubes du stator et les ailettes du rotor se comportent toutes les deux comme un profil aérodynamique.",
     "annexe": "",
     "options": [
-      { "text": "1 et 2 sont fausses.", "correct": false },
-      { "text": "1 est fausse, 2 est vraie.", "correct": false },
-      { "text": "1 et 2 sont vraies.", "correct": true },
-      { "text": "1 est vraie, 2 est fausse.", "correct": false }
+      {
+        "text": "1 et 2 sont fausses.",
+        "correct": false
+      },
+      {
+        "text": "1 est fausse, 2 est vraie.",
+        "correct": false
+      },
+      {
+        "text": "1 et 2 sont vraies.",
+        "correct": true
+      },
+      {
+        "text": "1 est vraie, 2 est fausse.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210020",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos de la conception des pales de rotor principal, quelle est l'affirmation correcte?",
     "annexe": "",
     "options": [
-      { "text": "L'utilisation de fibre de carbone augmente la rigidité des pales et réduit les vibrations.", "correct": false },
-      { "text": "Les pales de rotor en aluminium sont légères, sont très rigides et ont une grande résistance à la fatigue.", "correct": false },
-      { "text": "Les dommages sur les pales en composite sont facilement réparables, en découpant la partie abîmée pour la remplacer par une nouvelle section.", "correct": false },
-      { "text": "Les pales en bois sont faciles à fabriquer sont légères et ont une forte rigidité, un désavantage étant la sensibilité à l'humidité.", "correct": true }
+      {
+        "text": "L'utilisation de fibre de carbone augmente la rigidité des pales et réduit les vibrations.",
+        "correct": false
+      },
+      {
+        "text": "Les pales de rotor en aluminium sont légères, sont très rigides et ont une grande résistance à la fatigue.",
+        "correct": false
+      },
+      {
+        "text": "Les dommages sur les pales en composite sont facilement réparables, en découpant la partie abîmée pour la remplacer par une nouvelle section.",
+        "correct": false
+      },
+      {
+        "text": "Les pales en bois sont faciles à fabriquer sont légères et ont une forte rigidité, un désavantage étant la sensibilité à l'humidité.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210021",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Certains avions et hélicoptères légers sont équipés d'un dispositif à gaz (“blow down”) pour la sortie du train d'atterrissage en secours, en cas de panne d'alimentation hydraulique du train.<br>Quel est le gaz utilisé par ce dispositif et comment est-il transmis au système de commande du train?",
     "annexe": "",
     "options": [
-      { "text": "De l'azote ou de l’air comprimé, qui est envoyé à travers un clapet-navette commandé manuellement.", "correct": true },
-      { "text": "D'hélium ou du dioxyde de carbone, qui est envoyé à travers un clapet-navette commandé manuellement.", "correct": false },
-      { "text": "De l'azote ou de l'air comprimé, qui est envoyé à des vérins de commande montés en parallèle sur le train.", "correct": false },
-      { "text": "De l'hélium ou de l'azote, qui est envoyé à des vérins de commande montés en parallèle sur le train.", "correct": false }
+      {
+        "text": "De l'azote ou de l’air comprimé, qui est envoyé à travers un clapet-navette commandé manuellement.",
+        "correct": true
+      },
+      {
+        "text": "D'hélium ou du dioxyde de carbone, qui est envoyé à travers un clapet-navette commandé manuellement.",
+        "correct": false
+      },
+      {
+        "text": "De l'azote ou de l'air comprimé, qui est envoyé à des vérins de commande montés en parallèle sur le train.",
+        "correct": false
+      },
+      {
+        "text": "De l'hélium ou de l'azote, qui est envoyé à des vérins de commande montés en parallèle sur le train.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210022",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour une transmission d'hélicoptère, quels composants sont généralement utilisés pour surveiller la santé d'une boîte intermédiaire?<br>1. Un témoin de colmatage de filtre à huile<br>2. Un détecteur de particules (mécanique/ électrique)<br>3. Un indicateur de pression d'huile<br>4. Un indicateur visuel de niveau d'huile",
     "annexe": "",
     "options": [
-      { "text": "1, 2, et 4.", "correct": false },
-      { "text": "2 et 4 seulement.", "correct": true },
-      { "text": "2, 3, et 4.", "correct": false },
-      { "text": "1 et 3 seulement.", "correct": false }
+      {
+        "text": "1, 2, et 4.",
+        "correct": false
+      },
+      {
+        "text": "2 et 4 seulement.",
+        "correct": true
+      },
+      {
+        "text": "2, 3, et 4.",
+        "correct": false
+      },
+      {
+        "text": "1 et 3 seulement.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210023",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un échangeur air-air (intercooler) est quelquefois monté entre le compresseur et le conduit d'admission afin...",
     "annexe": "",
     "options": [
-      { "text": "de réduire le pré-allumage.", "correct": false },
-      { "text": "d'augmenter la température de combustion.", "correct": false },
-      { "text": "de minimiser le risque de détonation.", "correct": true },
-      { "text": "de reduire le debit d'air traversant le moteur.", "correct": false }
+      {
+        "text": "de réduire le pré-allumage.",
+        "correct": false
+      },
+      {
+        "text": "d'augmenter la température de combustion.",
+        "correct": false
+      },
+      {
+        "text": "de minimiser le risque de détonation.",
+        "correct": true
+      },
+      {
+        "text": "de reduire le debit d'air traversant le moteur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210024",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Un clapet de décharge (“waste gate”) est utilisé pour contrôler la puissance d'un turbocompresseur, en faisant varier la quantité de gaz d’échappement circulant dans (1)___ du turbocompresseur. Un clapet complètement (2)___ assurera une vitesse de rotation maximale du turbocompresseur.",
     "annexe": "",
     "options": [
-      { "text": "(1) le compresseur<br>(2) fermé", "correct": true },
-      { "text": "(1) la turbine<br>(2) fermé", "correct": false },
-      { "text": "(1) le compresseur<br>(2) ouvert", "correct": false },
-      { "text": "(1) la turbine<br>(2) ouvert", "correct": false }
+      {
+        "text": "(1) le compresseur<br>(2) fermé",
+        "correct": true
+      },
+      {
+        "text": "(1) la turbine<br>(2) fermé",
+        "correct": false
+      },
+      {
+        "text": "(1) le compresseur<br>(2) ouvert",
+        "correct": false
+      },
+      {
+        "text": "(1) la turbine<br>(2) ouvert",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210025",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Concernant le givrage du système d'admission d'un moteur à piston...",
     "annexe": "",
     "options": [
-      { "text": "le givrage du système d'admission affecte seulement les moteurs équipés de carburateurs.", "correct": false },
-      { "text": "du carburant congelé est normalement formé dans le systèmes d'admission des moteurs injection.", "correct": false },
-      { "text": "les accrétions de glace affectent les systèmes à injection ainsi que les moteurs équipés de carburateurs.", "correct": true },
-      { "text": "de la glace sur le papillon des gaz est généralement formée dans le système d'admission des moteurs à injection.", "correct": false }
+      {
+        "text": "le givrage du système d'admission affecte seulement les moteurs équipés de carburateurs.",
+        "correct": false
+      },
+      {
+        "text": "du carburant congelé est normalement formé dans le systèmes d'admission des moteurs injection.",
+        "correct": false
+      },
+      {
+        "text": "les accrétions de glace affectent les systèmes à injection ainsi que les moteurs équipés de carburateurs.",
+        "correct": true
+      },
+      {
+        "text": "de la glace sur le papillon des gaz est généralement formée dans le système d'admission des moteurs à injection.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210026",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur un avion à moteur à pistons, parmi les servitudes suivantes, lesquelles sont susceptibles d'utiliser l'air du système pneumatique?<br>1. Chauffage cabine.<br>2. Génération électrique.<br>3. Pompes hydrauliques.<br>4. Système de dégivrage.<br>5. Instruments gyroscopiques.<br>6. Instruments pitot-statique.",
     "annexe": "",
     "options": [
-      { "text": "4, 5 et 6.", "correct": false },
-      { "text": "1, 3, 4 et 6.", "correct": false },
-      { "text": "1, 4 et 5.", "correct": true },
-      { "text": "2, 3, 5 et 6.", "correct": false }
+      {
+        "text": "4, 5 et 6.",
+        "correct": false
+      },
+      {
+        "text": "1, 3, 4 et 6.",
+        "correct": false
+      },
+      {
+        "text": "1, 4 et 5.",
+        "correct": true
+      },
+      {
+        "text": "2, 3, 5 et 6.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210027",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur un avion à réaction un pillole observe des indications moteur anormales, avec des fluctuations des indications RPM et ITT (température turbine inter-étages), et des détonations.<br>La cause probable est...",
     "annexe": "",
     "options": [
-      { "text": "un pompage compresseur.", "correct": false },
-      { "text": "un feu moteur.", "correct": false },
-      { "text": "une survitesse turbine.", "correct": false },
-      { "text": "une panne du boitier de régulation moteur.", "correct": true }
+      {
+        "text": "un pompage compresseur.",
+        "correct": false
+      },
+      {
+        "text": "un feu moteur.",
+        "correct": false
+      },
+      {
+        "text": "une survitesse turbine.",
+        "correct": false
+      },
+      {
+        "text": "une panne du boitier de régulation moteur.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210028",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un aéronef équipé d'un train d'atterrissage avec une sécurité anti-rétraction sur la manette de train, l'affirmation exacte est...",
     "annexe": "",
     "options": [
-      { "text": "Ce système bloque la rétraction à IAS trop faible.", "correct": false },
-      { "text": "Ce système ne peut jamais être surpassé car un train avant mal aligné peut endommager la structure de la baie de train.", "correct": false },
-      { "text": "Ce système peut être surpassé sous certaines conditions.", "correct": true },
-      { "text": "Ce système bloque la rétraction IAS trop élevée.", "correct": false }
+      {
+        "text": "Ce système bloque la rétraction à IAS trop faible.",
+        "correct": false
+      },
+      {
+        "text": "Ce système ne peut jamais être surpassé car un train avant mal aligné peut endommager la structure de la baie de train.",
+        "correct": false
+      },
+      {
+        "text": "Ce système peut être surpassé sous certaines conditions.",
+        "correct": true
+      },
+      {
+        "text": "Ce système bloque la rétraction IAS trop élevée.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210029",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les équipages doivent être informés lorsque des quantités importantes de batteries au lithium sont chargées dans les soutes cargo. Ceci est lié au fait que ces batteries...",
     "annexe": "",
     "options": [
-      { "text": "explosent lorsque l'altitude cabine est trop élevée, compte tenu de la pression différentielle.", "correct": false },
-      { "text": "peuvent potentiellement produire de la chaleur, ce qui necessite la presence des pompiers lors des opérations de chargement et déchargement.", "correct": false },
-      { "text": "gèlent aux basses températures ambiantes, ce qui provoque des fissures dans leur boitier de protection métallique.", "correct": false },
-      { "text": "peuvent potentiellement subir une réaction en chaîne dès lors qu'une cellule est endommagée.", "correct": true }
+      {
+        "text": "explosent lorsque l'altitude cabine est trop élevée, compte tenu de la pression différentielle.",
+        "correct": false
+      },
+      {
+        "text": "peuvent potentiellement produire de la chaleur, ce qui necessite la presence des pompiers lors des opérations de chargement et déchargement.",
+        "correct": false
+      },
+      {
+        "text": "gèlent aux basses températures ambiantes, ce qui provoque des fissures dans leur boitier de protection métallique.",
+        "correct": false
+      },
+      {
+        "text": "peuvent potentiellement subir une réaction en chaîne dès lors qu'une cellule est endommagée.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210030",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une des raisons de l'immersion dans le carburant des pompes de gavage du circuit carburant est:",
     "annexe": "",
     "options": [
-      { "text": "le refroidissement des pompes.", "correct": true },
-      { "text": "l’augmentation de la précision du jaugeage du carburant.", "correct": false },
-      { "text": "l’amélioration de leur efficacité.", "correct": false },
-      { "text": "le raccourcissement de la longueur des tuyaux pour réduire les pertes de charge.", "correct": false }
+      {
+        "text": "le refroidissement des pompes.",
+        "correct": true
+      },
+      {
+        "text": "l’augmentation de la précision du jaugeage du carburant.",
+        "correct": false
+      },
+      {
+        "text": "l’amélioration de leur efficacité.",
+        "correct": false
+      },
+      {
+        "text": "le raccourcissement de la longueur des tuyaux pour réduire les pertes de charge.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210031",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelles sont au cockpit les indications possibles d'un feu moteur?",
     "annexe": "",
     "options": [
-      { "text": "Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en rouge de la manette coupe-feu moteur.", "correct": true },
-      { "text": "Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en ambre de la manette coupe-feu moteur.", "correct": false },
-      { "text": "Un signal sonore de type 'bip', un message d’alarme ambre, l'allumage en rouge de la manette coupe-feu moteur.", "correct": false },
-      { "text": "Un signal sonore de type 'bip', un message d'alarme ambre, l'allumage en ambre de la manette coupe-feu moteur.", "correct": false }
+      {
+        "text": "Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en rouge de la manette coupe-feu moteur.",
+        "correct": true
+      },
+      {
+        "text": "Un signal sonore de type 'cloche', un message d'alarme rouge, l’allumage en ambre de la manette coupe-feu moteur.",
+        "correct": false
+      },
+      {
+        "text": "Un signal sonore de type 'bip', un message d’alarme ambre, l'allumage en rouge de la manette coupe-feu moteur.",
+        "correct": false
+      },
+      {
+        "text": "Un signal sonore de type 'bip', un message d'alarme ambre, l'allumage en ambre de la manette coupe-feu moteur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210032",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz de type à réaction pure, les forces de rotation résultent directement...",
     "annexe": "",
     "options": [
-      { "text": "de l'action aérodynamique générée par les canaux divergents entre les ailettes du rotor.", "correct": false },
-      { "text": "de la diminution de la vitesse des gaz au niveau des canaux convergents entre les aubes du stator.", "correct": false },
-      { "text": "de l'action aérodynamique générée par les canaux convergents entre les ailettes du rotor.", "correct": true },
-      { "text": "de l'augmentation de la vitesse des gaz au niveau des canaux divergents entre les ailettes du rotor.", "correct": false }
+      {
+        "text": "de l'action aérodynamique générée par les canaux divergents entre les ailettes du rotor.",
+        "correct": false
+      },
+      {
+        "text": "de la diminution de la vitesse des gaz au niveau des canaux convergents entre les aubes du stator.",
+        "correct": false
+      },
+      {
+        "text": "de l'action aérodynamique générée par les canaux convergents entre les ailettes du rotor.",
+        "correct": true
+      },
+      {
+        "text": "de l'augmentation de la vitesse des gaz au niveau des canaux divergents entre les ailettes du rotor.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210033",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les turbocompresseurs installés sur les moteurs à pistons en tant que système d'augmentation des performances, sont utilisés pour...",
     "annexe": "",
     "options": [
-      { "text": "compenser la diminution de la pression d'admission avec l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer.", "correct": true },
-      { "text": "augmenter la puissance délivrée par le moteur jusqu'à l’altitude critique, en comparaison de celle délivrée au niveau de la mer.", "correct": false },
-      { "text": "augmenter la puissance délivrée par le moteur avec l'augmentation de l'altitude, en comparaison de celle délivrée au niveau de la mer.", "correct": false },
-      { "text": "compenser la baisse de température au niveau de l'entrée d'air du moteur liée à l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer.", "correct": false }
+      {
+        "text": "compenser la diminution de la pression d'admission avec l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer.",
+        "correct": true
+      },
+      {
+        "text": "augmenter la puissance délivrée par le moteur jusqu'à l’altitude critique, en comparaison de celle délivrée au niveau de la mer.",
+        "correct": false
+      },
+      {
+        "text": "augmenter la puissance délivrée par le moteur avec l'augmentation de l'altitude, en comparaison de celle délivrée au niveau de la mer.",
+        "correct": false
+      },
+      {
+        "text": "compenser la baisse de température au niveau de l'entrée d'air du moteur liée à l'augmentation de l'altitude, en comparaison de la puissance délivrée au niveau de la mer.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210034",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos du système de lubrification d'un moteur. quelles indications et/ou alarmes sont les plus importantes quant à son fonctionnement, et doivent être surveillées avec attention au cours de la procédure de démarrage?",
     "annexe": "",
     "options": [
-      { "text": "Les voyants d'alarme du détecteur de limaille du moteur.", "correct": false },
-      { "text": "Les voyants d'alarme de dérivation de filtre d'huile moteur.", "correct": false },
-      { "text": "L'indicateur de température et/ou le voyant d'alarme de basse température d'huile moteur.", "correct": false },
-      { "text": "L'indicateur de pression et/ou le voyant d'alarme de basse pression d'huile moteur.", "correct": true }
+      {
+        "text": "Les voyants d'alarme du détecteur de limaille du moteur.",
+        "correct": false
+      },
+      {
+        "text": "Les voyants d'alarme de dérivation de filtre d'huile moteur.",
+        "correct": false
+      },
+      {
+        "text": "L'indicateur de température et/ou le voyant d'alarme de basse température d'huile moteur.",
+        "correct": false
+      },
+      {
+        "text": "L'indicateur de pression et/ou le voyant d'alarme de basse pression d'huile moteur.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210035",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un avion moteur à pistons contrôlé par une régulation électronique à pleine autorité (FADEC) et équipé d'une hélice à calage variable, quelles sont les commandes moteur au poste de pilotage",
     "annexe": "",
     "options": [
-      { "text": "Une manette des gaz et une manette de richesse.", "correct": false },
-      { "text": "Une manette des gaz une manette de richesse et une manette d'hélice.", "correct": false },
-      { "text": "Une seule et unique manette.", "correct": true },
-      { "text": "Une manette de puissance et une manette d'hélice.", "correct": false }
+      {
+        "text": "Une manette des gaz et une manette de richesse.",
+        "correct": false
+      },
+      {
+        "text": "Une manette des gaz une manette de richesse et une manette d'hélice.",
+        "correct": false
+      },
+      {
+        "text": "Une seule et unique manette.",
+        "correct": true
+      },
+      {
+        "text": "Une manette de puissance et une manette d'hélice.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210036",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz, les aubages directeurs d'entrée à calage variable (Inlet Guide Vanes IGV)...",
     "annexe": "",
     "options": [
-      { "text": "diminuent la vitesse de l'air entrant dans la section de combustion.", "correct": false },
-      { "text": "augmentent la vitesse de l'air entrant dans le compresseur.", "correct": false },
-      { "text": "orientent l'écoulement à un angle optimal vers le premier étage du compresseur.", "correct": true },
-      { "text": "orientent l’écoulement à un angle optimal vers le diffuseur.", "correct": false }
+      {
+        "text": "diminuent la vitesse de l'air entrant dans la section de combustion.",
+        "correct": false
+      },
+      {
+        "text": "augmentent la vitesse de l'air entrant dans le compresseur.",
+        "correct": false
+      },
+      {
+        "text": "orientent l'écoulement à un angle optimal vers le premier étage du compresseur.",
+        "correct": true
+      },
+      {
+        "text": "orientent l’écoulement à un angle optimal vers le diffuseur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210037",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Que peut-il se produire pour un moteur à piston pendant une montée continue avec un réglage du mélange plein riche?",
     "annexe": "",
     "options": [
-      { "text": "Un encrassement des bougies d allumage.", "correct": true },
-      { "text": "Une augmentation de la puissance disponible.", "correct": false },
-      { "text": "Le moteur fonctionnera mieux au détriment d'une consommation de carburant accrue.", "correct": false },
-      { "text": "Le moteur chauffera de façon excessive.", "correct": false }
+      {
+        "text": "Un encrassement des bougies d allumage.",
+        "correct": true
+      },
+      {
+        "text": "Une augmentation de la puissance disponible.",
+        "correct": false
+      },
+      {
+        "text": "Le moteur fonctionnera mieux au détriment d'une consommation de carburant accrue.",
+        "correct": false
+      },
+      {
+        "text": "Le moteur chauffera de façon excessive.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210038",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Parmi ces propositions:<br>1. La boîte de transmission arrière contient les engrenages pour la rotation du rotor de queue.<br>2. Le mécanisme de contrôle de pas du rotor arrière est fixé sur la boîte de transmission arrière.",
     "annexe": "",
     "options": [
-      { "text": "1 est fausse, 2 est vraie.", "correct": false },
-      { "text": "1 et 2 sont fausses.", "correct": false },
-      { "text": "1 est vraie, 2 est fausse.", "correct": false },
-      { "text": "1 et 2 sont vraies.", "correct": true }
+      {
+        "text": "1 est fausse, 2 est vraie.",
+        "correct": false
+      },
+      {
+        "text": "1 et 2 sont fausses.",
+        "correct": false
+      },
+      {
+        "text": "1 est vraie, 2 est fausse.",
+        "correct": false
+      },
+      {
+        "text": "1 et 2 sont vraies.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210039",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans la plupart des aéronefs de transport, les glaces du poste de pilotage sont protégées contre le givrage par...",
     "annexe": "",
     "options": [
-      { "text": "un liquide anti-formation de glace.", "correct": false },
-      { "text": "un revêtement de vinyle.", "correct": false },
-      { "text": "un système avec liquide anti-mouillant.", "correct": false },
-      { "text": "un réchauffage électrique.", "correct": true }
+      {
+        "text": "un liquide anti-formation de glace.",
+        "correct": false
+      },
+      {
+        "text": "un revêtement de vinyle.",
+        "correct": false
+      },
+      {
+        "text": "un système avec liquide anti-mouillant.",
+        "correct": false
+      },
+      {
+        "text": "un réchauffage électrique.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210040",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction des butées de commandes de vol est:",
     "annexe": "",
     "options": [
-      { "text": "de limiter le débattement des commandes de vol dans la plage appropriée.", "correct": true },
-      { "text": "d'éviter que le système ne soit endommagé lorsque l'appareil est stationné avec des conditions de vent fort.", "correct": false },
-      { "text": "d'agir comme une butée en cas de vibrations des commandes.", "correct": false },
-      { "text": "de placer le rotor principal et le rotor anti-couple en positions de repos dès que possible après l'arrêt moteur.", "correct": false }
+      {
+        "text": "de limiter le débattement des commandes de vol dans la plage appropriée.",
+        "correct": true
+      },
+      {
+        "text": "d'éviter que le système ne soit endommagé lorsque l'appareil est stationné avec des conditions de vent fort.",
+        "correct": false
+      },
+      {
+        "text": "d'agir comme une butée en cas de vibrations des commandes.",
+        "correct": false
+      },
+      {
+        "text": "de placer le rotor principal et le rotor anti-couple en positions de repos dès que possible après l'arrêt moteur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210041",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A propos d'un système rotor principal bipale :<br>1 - Une tête rotor avec axe de bascule est généralement utilisée dans un système de rotor bipale.<br>2 - Un système rotor bipale avec un axe de bascule est identifié comme rotor rigide.<br>Parmi ces propositions:",
     "annexe": "",
     "options": [
-      { "text": "1 est fausse, 2 est vraie.", "correct": false },
-      { "text": "1 est vraie, 2 est fausse.", "correct": true },
-      { "text": "1 et 2 sont fausses.", "correct": false },
-      { "text": "1 et 2 sont vraies.", "correct": false }
+      {
+        "text": "1 est fausse, 2 est vraie.",
+        "correct": false
+      },
+      {
+        "text": "1 est vraie, 2 est fausse.",
+        "correct": true
+      },
+      {
+        "text": "1 et 2 sont fausses.",
+        "correct": false
+      },
+      {
+        "text": "1 et 2 sont vraies.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210042",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Si une batterie au lithium de forte puissance est exposée à des chocs mécaniques ou thermiques, cela peut provoquer...",
     "annexe": "",
     "options": [
-      { "text": "des tensions induites élevées, conduisant à des interférences radio.", "correct": false },
-      { "text": "des champs électriques importants, conduisant à des incidents liés à des arcs électriques.", "correct": false },
-      { "text": "des champs magnétiques importants, conduisant à des erreurs de compas.", "correct": false },
-      { "text": "des courants électriques importants. conduisant à un emballement thermique.", "correct": true }
+      {
+        "text": "des tensions induites élevées, conduisant à des interférences radio.",
+        "correct": false
+      },
+      {
+        "text": "des champs électriques importants, conduisant à des incidents liés à des arcs électriques.",
+        "correct": false
+      },
+      {
+        "text": "des champs magnétiques importants, conduisant à des erreurs de compas.",
+        "correct": false
+      },
+      {
+        "text": "des courants électriques importants. conduisant à un emballement thermique.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210043",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Le fait qu'un aéronef ne soit pas correctement 'métallisé' peut être mis en évidence par...",
     "annexe": "",
     "options": [
-      { "text": "des interférences avec le récepteur VOR.", "correct": false },
-      { "text": "une profonde corrosion au niveau de l’assemblage du revêtement du fuselage.", "correct": false },
-      { "text": "des parasites à la radio.", "correct": true },
-      { "text": "le déclenchement d’un disjoncteur.", "correct": false }
+      {
+        "text": "des interférences avec le récepteur VOR.",
+        "correct": false
+      },
+      {
+        "text": "une profonde corrosion au niveau de l’assemblage du revêtement du fuselage.",
+        "correct": false
+      },
+      {
+        "text": "des parasites à la radio.",
+        "correct": true
+      },
+      {
+        "text": "le déclenchement d’un disjoncteur.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210044",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "A fins de redondance, un système de régulation électronique à pleine autorité (FADEC) d'un moteur à pistons est équipé de...",
     "annexe": "",
     "options": [
-      { "text": "deux alimentations électriques et de deux canaux identiques séparés.", "correct": true },
-      { "text": "deux injecteurs et de deux bougies d allumage par cylindre.", "correct": false },
-      { "text": "deux moteurs de démarrage et de deux alternateurs.", "correct": false },
-      { "text": "deux magnétos à accouplement par impulsion et double capteurs.", "correct": false }
+      {
+        "text": "deux alimentations électriques et de deux canaux identiques séparés.",
+        "correct": true
+      },
+      {
+        "text": "deux injecteurs et de deux bougies d allumage par cylindre.",
+        "correct": false
+      },
+      {
+        "text": "deux moteurs de démarrage et de deux alternateurs.",
+        "correct": false
+      },
+      {
+        "text": "deux magnétos à accouplement par impulsion et double capteurs.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210045",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Sur la plupart des hélicoptères. en vol normal, la (les) pompe(s) hydraulique(s) est(sont) entrainée(s) par...",
     "annexe": "",
     "options": [
-      { "text": "la boîte de transmission principale.", "correct": true },
-      { "text": "une source supplémentaire comme un groupe de puissance auxiliaire (APU).", "correct": false },
-      { "text": "le système électrique.", "correct": false },
-      { "text": "le(s) moteur(s).", "correct": false }
+      {
+        "text": "la boîte de transmission principale.",
+        "correct": true
+      },
+      {
+        "text": "une source supplémentaire comme un groupe de puissance auxiliaire (APU).",
+        "correct": false
+      },
+      {
+        "text": "le système électrique.",
+        "correct": false
+      },
+      {
+        "text": "le(s) moteur(s).",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210046",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Laquelle de ces affirmations concernant un rotor arrière de type Fenestron ou veine d'air carénée est exacte?",
     "annexe": "",
     "options": [
-      { "text": "Les Fenestrons sont entraînés par de longs arbres sans boite intermédiaire. Le rotor se trouve alors plus proche du sol, ce qui diminue la sécurité des personnes à proximité.", "correct": false },
-      { "text": "La circulation d'air à travers le Fenestron est obstruée par la dérive verticale.", "correct": false },
-      { "text": "Le brut typique du Fenestron est diminué en positionnant les pales de façon asymétrique.", "correct": true },
-      { "text": "Afin d'obtenir le maximum d'efficacité, l'espace entre l'extrémité des pales et le carénage doit être d'approximativement 4 cm.", "correct": false }
+      {
+        "text": "Les Fenestrons sont entraînés par de longs arbres sans boite intermédiaire. Le rotor se trouve alors plus proche du sol, ce qui diminue la sécurité des personnes à proximité.",
+        "correct": false
+      },
+      {
+        "text": "La circulation d'air à travers le Fenestron est obstruée par la dérive verticale.",
+        "correct": false
+      },
+      {
+        "text": "Le brut typique du Fenestron est diminué en positionnant les pales de façon asymétrique.",
+        "correct": true
+      },
+      {
+        "text": "Afin d'obtenir le maximum d'efficacité, l'espace entre l'extrémité des pales et le carénage doit être d'approximativement 4 cm.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210047",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La fonction principale d'un frein rotor est...",
     "annexe": "",
     "options": [
-      { "text": "de protéger les transmissions (principale et arrière) à grande vitesse de rotation.", "correct": false },
-      { "text": "de réduire le temps d'arrêt du rotor après la coupure moteur.", "correct": true },
-      { "text": "d'éviter une survitesse du rotor.", "correct": false },
-      { "text": "de démarrer le moteur sans entraîner la transmission.", "correct": false }
+      {
+        "text": "de protéger les transmissions (principale et arrière) à grande vitesse de rotation.",
+        "correct": false
+      },
+      {
+        "text": "de réduire le temps d'arrêt du rotor après la coupure moteur.",
+        "correct": true
+      },
+      {
+        "text": "d'éviter une survitesse du rotor.",
+        "correct": false
+      },
+      {
+        "text": "de démarrer le moteur sans entraîner la transmission.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210048",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Concernant le réchauffage des prises d'air statique et dynamique...",
     "annexe": "",
     "options": [
-      { "text": "le réchauffage des tubes pitot et des prises d'air statique sont activés automatiquement lorsque les conditions de givrage surviennent.", "correct": false },
-      { "text": "les tubes pitot et les prises d'air statique sont toujours pourvus d'un réchauffage.", "correct": false },
-      { "text": "les tubes pitot sont toujours pourvus d'un réchauffage alors que les prises d'air statique ne le sont pas toujours.", "correct": true },
-      { "text": "les tubes pitot munis de prises d'air statiques sont toujours pourvus de réchauffage alors que les prises d'air statique ne le sont jamais.", "correct": false }
+      {
+        "text": "le réchauffage des tubes pitot et des prises d'air statique sont activés automatiquement lorsque les conditions de givrage surviennent.",
+        "correct": false
+      },
+      {
+        "text": "les tubes pitot et les prises d'air statique sont toujours pourvus d'un réchauffage.",
+        "correct": false
+      },
+      {
+        "text": "les tubes pitot sont toujours pourvus d'un réchauffage alors que les prises d'air statique ne le sont pas toujours.",
+        "correct": true
+      },
+      {
+        "text": "les tubes pitot munis de prises d'air statiques sont toujours pourvus de réchauffage alors que les prises d'air statique ne le sont jamais.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210049",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "(Pour cette question utilisez annexe ECQB-021-031-v2019-11) Sur la représentation en annexe, quels sont les composants indiqués par (1) et (2)?",
     "annexe": "",
     "options": [
-      { "text": "(1) filtre à huile et “by-pass”<br>(2) contacteur de température", "correct": true },
-      { "text": "(1) radiateur d'huile<br>(2) transmetteur de température", "correct": false },
-      { "text": "(1) radiateur d'huile et by-pass<br>(2) transmetteur de pression", "correct": false },
-      { "text": "(1) pompe de récupération<br>(2) contacteur de pression", "correct": false }
+      {
+        "text": "(1) filtre à huile et “by-pass”<br>(2) contacteur de température",
+        "correct": true
+      },
+      {
+        "text": "(1) radiateur d'huile<br>(2) transmetteur de température",
+        "correct": false
+      },
+      {
+        "text": "(1) radiateur d'huile et by-pass<br>(2) transmetteur de pression",
+        "correct": false
+      },
+      {
+        "text": "(1) pompe de récupération<br>(2) contacteur de pression",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210050",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la fonction des amortisseurs de traînée sur un rotor articulé?<br>Les amortisseurs de traînée...",
     "annexe": "",
     "options": [
-      { "text": "protègent la tête rotor des dommages causés par les fortes rafales de vent lorsque le rotor ne tourne pas.", "correct": false },
-      { "text": "amortissent les actions du pilote dans le système rotor pour empêcher les oscillations induites par le pilote (PIO).", "correct": false },
-      { "text": "empêchent les mouvement excessifs d'avancement et de recul des pales du rotor en vol.", "correct": true },
-      { "text": "contrent les mouvements de battement des pales du rotor en vol.", "correct": false }
+      {
+        "text": "protègent la tête rotor des dommages causés par les fortes rafales de vent lorsque le rotor ne tourne pas.",
+        "correct": false
+      },
+      {
+        "text": "amortissent les actions du pilote dans le système rotor pour empêcher les oscillations induites par le pilote (PIO).",
+        "correct": false
+      },
+      {
+        "text": "empêchent les mouvement excessifs d'avancement et de recul des pales du rotor en vol.",
+        "correct": true
+      },
+      {
+        "text": "contrent les mouvements de battement des pales du rotor en vol.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210051",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une alerte hydraulique de basse pression est la première indication...",
     "annexe": "",
     "options": [
-      { "text": "du dégonflement de l’accumulateur de pression de la pompe.", "correct": false },
-      { "text": "d’un niveau du réservoir hydraulique a son niveau minimal acceptable.", "correct": false },
-      { "text": "d’une fuite sur le circuit retour du réservoir.", "correct": false },
-      { "text": "d’une pression de sortie de la pompe insuffisante.", "correct": true }
+      {
+        "text": "du dégonflement de l’accumulateur de pression de la pompe.",
+        "correct": false
+      },
+      {
+        "text": "d’un niveau du réservoir hydraulique a son niveau minimal acceptable.",
+        "correct": false
+      },
+      {
+        "text": "d’une fuite sur le circuit retour du réservoir.",
+        "correct": false
+      },
+      {
+        "text": "d’une pression de sortie de la pompe insuffisante.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210052",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "La plupart des pales de rotor de queue ont un bord d'attaque renforcé, parce que...",
     "annexe": "",
     "options": [
-      { "text": "leur vitesse de rotation est plus élevée que celles du rotor principal et qu'elles approchent la vitesse du son plus tôt. Les ondes de chocs peuvent endommager le bord d'attaque des pales.", "correct": true },
-      { "text": "par conception les pales de rotor de queue, plus petites, sont moins rigides que celles du rotor principal.", "correct": false },
-      { "text": "leur position à proximité du sol les rend vulnérables aux dommages causés par la poussière et les débris.", "correct": false },
-      { "text": "les pales pourraient ne pas être endommagées lors d'un contact avec le sol.", "correct": false }
+      {
+        "text": "leur vitesse de rotation est plus élevée que celles du rotor principal et qu'elles approchent la vitesse du son plus tôt. Les ondes de chocs peuvent endommager le bord d'attaque des pales.",
+        "correct": true
+      },
+      {
+        "text": "par conception les pales de rotor de queue, plus petites, sont moins rigides que celles du rotor principal.",
+        "correct": false
+      },
+      {
+        "text": "leur position à proximité du sol les rend vulnérables aux dommages causés par la poussière et les débris.",
+        "correct": false
+      },
+      {
+        "text": "les pales pourraient ne pas être endommagées lors d'un contact avec le sol.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210053",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Lorsqu'une génératrice a une panne, sa bus est...",
     "annexe": "",
     "options": [
-      { "text": "transférée à une autre bus et la génératrice est déconnectée de son mécanisme d'entraînement.", "correct": false },
-      { "text": "transférée à une autre source et la génératrice est déconnectée de sa bus.", "correct": true },
-      { "text": "isolée mais les servitudes sont transférées à une autre source.", "correct": false },
-      { "text": "isolée et les servitudes ne sont plus alimentées.", "correct": false }
+      {
+        "text": "transférée à une autre bus et la génératrice est déconnectée de son mécanisme d'entraînement.",
+        "correct": false
+      },
+      {
+        "text": "transférée à une autre source et la génératrice est déconnectée de sa bus.",
+        "correct": true
+      },
+      {
+        "text": "isolée mais les servitudes sont transférées à une autre source.",
+        "correct": false
+      },
+      {
+        "text": "isolée et les servitudes ne sont plus alimentées.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210054",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Les conditions d'exploitation présentant le risque de corrosion le plus élevé correspondent à des vols...",
     "annexe": "",
     "options": [
-      { "text": "à basse altitude au-dessus d'une surface d’eau chaude et salée.", "correct": true },
-      { "text": "à haute altitude en conditions givrantes.", "correct": false },
-      { "text": "à haute altitude dans un nuage de cendres volcaniques.", "correct": false },
-      { "text": "à basse altitude au-dessus de déserts de sable chaud.", "correct": false }
+      {
+        "text": "à basse altitude au-dessus d'une surface d’eau chaude et salée.",
+        "correct": true
+      },
+      {
+        "text": "à haute altitude en conditions givrantes.",
+        "correct": false
+      },
+      {
+        "text": "à haute altitude dans un nuage de cendres volcaniques.",
+        "correct": false
+      },
+      {
+        "text": "à basse altitude au-dessus de déserts de sable chaud.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210055",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Une friction des commandes est généralement intégrée dans:",
     "annexe": "",
     "options": [
-      { "text": "les commandes de pas cyclique et de pas général et les frictions sont toutes deux réglables en vol.", "correct": false },
-      { "text": "la commande de pas cyclique uniquement.", "correct": false },
-      { "text": "les commandes de pas cyclique et de pas général mais seule celle du pas général est réglable en vol.", "correct": true },
-      { "text": "la commande de pas général uniquement.", "correct": false }
+      {
+        "text": "les commandes de pas cyclique et de pas général et les frictions sont toutes deux réglables en vol.",
+        "correct": false
+      },
+      {
+        "text": "la commande de pas cyclique uniquement.",
+        "correct": false
+      },
+      {
+        "text": "les commandes de pas cyclique et de pas général mais seule celle du pas général est réglable en vol.",
+        "correct": true
+      },
+      {
+        "text": "la commande de pas général uniquement.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210056",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Dans un moteur à turbine à gaz classique, le système de prélèvement d'air utilise de l'air en provenance...",
     "annexe": "",
     "options": [
-      { "text": "de la tuyère.", "correct": false },
-      { "text": "de l'entrée d'air.", "correct": false },
-      { "text": "de la turbine.", "correct": false },
-      { "text": "du compresseur.", "correct": true }
+      {
+        "text": "de la tuyère.",
+        "correct": false
+      },
+      {
+        "text": "de l'entrée d'air.",
+        "correct": false
+      },
+      {
+        "text": "de la turbine.",
+        "correct": false
+      },
+      {
+        "text": "du compresseur.",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210057",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la proposition correcte?<br>1 - Le point de congélation du JET A est à une température inférieure à celui du JET B.<br>2 - Le point éclair du JET A est à une température à peu près équivalente à celui du JET B",
     "annexe": "",
     "options": [
-      { "text": "1 est vraie, 2 est vraie.", "correct": false },
-      { "text": "1 est vraie, 2 est fausse.", "correct": false },
-      { "text": "1 est fausse, 2 est fausse.", "correct": true },
-      { "text": "1 est fausse, 2 est vraie.", "correct": false }
+      {
+        "text": "1 est vraie, 2 est vraie.",
+        "correct": false
+      },
+      {
+        "text": "1 est vraie, 2 est fausse.",
+        "correct": false
+      },
+      {
+        "text": "1 est fausse, 2 est fausse.",
+        "correct": true
+      },
+      {
+        "text": "1 est fausse, 2 est vraie.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210058",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Quelle est la définition de la puissance électrique (P) et quelle est son unité de mesure dans le système International?<br>La puissance électrique est définie par...",
     "annexe": "",
     "options": [
-      { "text": "l'énergie électrique multipliée par le temps (t) (P = Energie x t). Elle est mesurée en Watts (W).", "correct": false },
-      { "text": "la tension électrique (U) divisée par l'intensité électrique (I) (P = U / I). Elle est mesurée en Watts (W).", "correct": false },
-      { "text": "l’intensité électrique (I) divisée par la tension électrique (U) (P = I / U). Elle est mesurée en Ampères (A).", "correct": false },
-      { "text": "l'énergie électrique divisée par le temps (I) (P = Energie / I). Elle est mesurée en Watts (W).", "correct": true }
+      {
+        "text": "l'énergie électrique multipliée par le temps (t) (P = Energie x t). Elle est mesurée en Watts (W).",
+        "correct": false
+      },
+      {
+        "text": "la tension électrique (U) divisée par l'intensité électrique (I) (P = U / I). Elle est mesurée en Watts (W).",
+        "correct": false
+      },
+      {
+        "text": "l’intensité électrique (I) divisée par la tension électrique (U) (P = I / U). Elle est mesurée en Ampères (A).",
+        "correct": false
+      },
+      {
+        "text": "l'énergie électrique divisée par le temps (I) (P = Energie / I). Elle est mesurée en Watts (W).",
+        "correct": true
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210059",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Parmi les propositions suivantes, lesquelles sont des exemples de sources pneumatiques pour le démarrage des turboréacteurs de grande taille?",
     "annexe": "",
     "options": [
-      { "text": "Un groupe démarreur pneumatique au sol ou une batterie.", "correct": false },
-      { "text": "Un groupe auxiliaire de puissance (APU) ou une batterie.", "correct": true },
-      { "text": "Un groupe auxiliaire de puissance (APU) ou une turbine à air dynamique (RAT).", "correct": false },
-      { "text": "Un groupe démarreur pneumatique au sol ou un autre moteur en fonctionnement sur le même aéronef.", "correct": false }
+      {
+        "text": "Un groupe démarreur pneumatique au sol ou une batterie.",
+        "correct": false
+      },
+      {
+        "text": "Un groupe auxiliaire de puissance (APU) ou une batterie.",
+        "correct": true
+      },
+      {
+        "text": "Un groupe auxiliaire de puissance (APU) ou une turbine à air dynamique (RAT).",
+        "correct": false
+      },
+      {
+        "text": "Un groupe démarreur pneumatique au sol ou un autre moteur en fonctionnement sur le même aéronef.",
+        "correct": false
+      }
     ],
     "explanation": ""
   },
   {
-    "id": "TBD",
+    "id": "0210060",
     "subtopic": "021-XX-XX",
     "database": "H",
     "question": "Pour un moteur à turbines, quel est l'effet possible d'un dépassement de la température limite EGT lié à un débit carburant excessif?",
     "annexe": "",
     "options": [
-      { "text": "Des dommages structuraux ou une déformation de pièces métalliques au niveau de la turbine.", "correct": true },
-      { "text": "Le moteur continuera de fonctionner normalement dans le mesure ou l'excès de carburant est évacué via des drains au niveau de la chambre de combustion.", "correct": false },
-      { "text": "Une augmentation soudaine du régime N2 provoquant une survitesse moteur.", "correct": false },
-      { "text": "Un pompage au niveau du compresseur haute pression.", "correct": false }
+      {
+        "text": "Des dommages structuraux ou une déformation de pièces métalliques au niveau de la turbine.",
+        "correct": true
+      },
+      {
+        "text": "Le moteur continuera de fonctionner normalement dans le mesure ou l'excès de carburant est évacué via des drains au niveau de la chambre de combustion.",
+        "correct": false
+      },
+      {
+        "text": "Une augmentation soudaine du régime N2 provoquant une survitesse moteur.",
+        "correct": false
+      },
+      {
+        "text": "Un pompage au niveau du compresseur haute pression.",
+        "correct": false
+      }
     ],
     "explanation": ""
   }
