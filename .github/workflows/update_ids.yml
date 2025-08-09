@@ -1,4 +1,4 @@
-name: Run Node Script
+name: Autoassign question's IDS.
 
 on:
   workflow_dispatch: # allows manual trigger
@@ -32,5 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "chore: new ids assigned by github actions" || echo "No changes to commit"
+          git commit -m "data: new ids assigned by github actions" || echo "No changes to commit"
           git push
