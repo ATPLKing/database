@@ -1,1141 +1,653 @@
 [
-  {
-    "id": "TBD",
-    "subtopic": "040-01-01",
-    "database": "",
-    "question": "Selon I'annexe 1 de la Convention relative a aviation civile internationale, la compétence est définie comme...",
-    "annexe": "",
-    "options": [
-      {
-        "text": "un ensemble de connaissances pratiques et théoriques, de compétences cognitives, de comportements et de valeurs utilisés pour améliorer les performances.",
-        "correct": false
-      },
-      {
-        "text": "une combinaison de compétences, de connaissances et d'attitudes requises pour effectuer une tache selon la norme prescrite.",
-        "correct": true
-      },
-      {
-        "text": "un ensemble de comportements qui fournissent un guide structuré pour I'identification, 'évaluation et le développement des comportements chez les individus.",
-        "correct": false
-      },
-      {
-        "text": "un état mental ou une qualité d'étre adéquatement ou bien qualifié, ayant la capacité d'exécuter un role spécifique",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><strong>Annexe 1 de l'OACI,<br>Chapitre 1. Définitions et règles générales concernant les licences</strong></p><p><strong><em>Compétence</em></strong>. Dimension de la performance humaine permettant de prédire avec fiabilité la réussite au travail. Une compétence se manifeste et s'observe par des comportements qui mobilisent <u>les connaissances, les aptitudes et les attitudes nécessaires à la réalisation d'activités ou de tâches</u> dans des conditions précises.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-01",
-    "database": "",
-    "question": "Considérez la formation et l'évaluation des pilotes. Laquelle des compétences suivantes fait partie des huit compétences essentielles ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "synergie",
-        "correct": false
-      },
-      {
-        "text": "Conscience de la situation",
-        "correct": true
-      },
-      {
-        "text": "Jugement et détermination",
-        "correct": false
-      },
-      {
-        "text": "Grade de capitaine",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Objectif d'apprentissage 040.01.01.01.01 : Énoncer que la compétence est basée sur les connaissances, les aptitudes et les attitudes du pilote individuel, et énumérer les huit compétences de base de l'OACI :</p><ul><li>application des procédures;</li><li>communication;</li><li>gestion et automatisation des trajectoires de vol des avions ;</li><li>gestion de la trajectoire de vol de l'avion, contrôle manuel ;</li><li>leadership et travail d'équipe;</li><li>résolution de problèmes et prise de décision;</li><li>conscience de la situation;</li><li>gestion de la charge de travail.</li></ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-01",
-    "database": "",
-    "question": "La compétence d'un pilote individuel est basée sur...",
-    "annexe": "",
-    "options": [
-      {
-        "text": "L'âge, la compétence et la détermination",
-        "correct": false
-      },
-      {
-        "text": "Connaissances, compétences et attitudes",
-        "correct": true
-      },
-      {
-        "text": "Règles, caractère et éducation",
-        "correct": false
-      },
-      {
-        "text": "Concentration, âge et connaissances",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><strong>Annexe 1 de l'OACI,<br>Chapitre 1. Définitions et règles générales concernant les licences</strong></p><p><em><strong>Compétence</strong></em> . Dimension de la performance humaine permettant de prédire avec fiabilité la réussite au travail. Une compétence se manifeste et s'observe par des comportements qui mobilisent <u>les connaissances, les aptitudes et les attitudes nécessaires à la réalisation d'activités ou de tâches</u> dans des conditions précises."
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "En route vers sa destination, le commandant de bord effectue un briefing sur la procédure d'approche appropriée, tandis que le copilote surveille attentivement l'altitude et la vitesse pendant l'approche. Cependant, à l'approche de l'atterrissage, la vitesse dépasse involontairement la vitesse requise par la procédure d'approche publiée. Cette situation illustre...",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Une erreur de procédure du commandant, une erreur de communication du copilote",
-        "correct": false
-      },
-      {
-        "text": "Une erreur de pilotage du commandant de bord, une erreur de procédure du copilote",
-        "correct": true
-      },
-      {
-        "text": "Une erreur de pilotage du commandant, une erreur de communication du copilote.",
-        "correct": false
-      },
-      {
-        "text": "Erreurs de procédure commises par les deux pilotes.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "La gestion des menaces et des erreurs (GME) est un concept de sécurité global concernant les opérations aériennes et la performance humaine. Dans le cadre de la GME, et conformément à l'Annexe 1 de l'OACI sur les licences du personnel, l'erreur est définie comme.",
-    "annexe": "",
-    "options": [
-      {
-        "text": "une action ou une inaction d'une personne opérationnelle qui conduit à des écarts par rapport aux intentions ou aux attentes de l'organisation ou de la personne opérationnelle.",
-        "correct": true
-      },
-      {
-        "text": "un événement qui se produit au-delà de l'influence d'une personne opérationnelle et qui doit être géré pour maintenir la marge de sécurité.",
-        "correct": false
-      },
-      {
-        "text": "un écart intentionnel d'un opérateur par rapport à un processus ou à des procédures connues, avec des conséquences indésirables.",
-        "correct": false
-      },
-      {
-        "text": "une perception, une croyance ou un état mental erroné d'une personne opérationnelle qui n'est pas conforme à la réalité objective d'une organisation.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Laquelle des propositions suivantes constitue une menace environnementale selon le modèle TEM (Threat and Error Management)",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Une piste contaminée",
-        "correct": true
-      },
-      {
-        "text": "Une erreur de planification de l'équipage",
-        "correct": false
-      },
-      {
-        "text": "Conception de matériel aéronautique",
-        "correct": false
-      },
-      {
-        "text": "Une erreur de maintenance",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><u>Les composants du modèle TEM</u></p> <p>Les menaces sont définies comme des « événements ou erreurs indépendants de la volonté de l'équipage, augmentant la complexité opérationnelle et devant être gérés afin de maintenir les marges de sécurité ». Lors d'opérations aériennes classiques, les équipages doivent gérer diverses complexités contextuelles. Les menaces peuvent être regroupées en deux catégories principales issues du modèle TEM.</p> <ul> <li><strong>Les menaces environnementales</strong> découlent de l'environnement dans lequel se déroulent les opérations aériennes. Certaines peuvent être anticipées, d'autres surviendront spontanément, mais elles doivent toutes être gérées en temps réel par les équipages.</li> <li><strong>Les menaces organisationnelles</strong>, en revanche, peuvent être contrôlées (c'est-à-dire supprimées ou, du moins, minimisées) à la source par les organisations aéronautiques. Elles sont généralement de nature latente.</li> </ul> <p><em><strong>Tableau 1. Exemples de menaces (liste non exhaustive)</strong></em></p> <table> <tbody> <tr> <td><strong>Menaces environnementales</strong></td> <td><strong>Menaces organisationnelles</strong></td> </tr> <tr> <td> <ul> <li>Météo : orages, turbulences, givrage, cisaillement du vent, vent latéral/arrière, températures très basses/élevées.</li> <li>ATC : congestion du trafic, TCAS RA/TA, commande ATC, erreur ATC, difficulté de langage ATC, phraséologie non standard ATC, changement de piste ATC, communication ATIS, unités de mesure (QFE/mètres).</li> <li><u>Aéroport</u> : <strong>piste contaminée/courte</strong> ; voie de circulation contaminée, signalisation/marquages absents/déroutants/décolorés, oiseaux, aides U/S, procédures de navigation de surface complexes, constructions aéroportuaires.</li> <li>Terrain : Terrain élevé, pente, manque de repères, « trou noir ».</li> <li>Autre : indicatifs d'appel similaires.</li> </ul> </td> <td> <ul> <li>Pression opérationnelle : retards, arrivées tardives, changements de matériel.</li> <li>Aéronef : dysfonctionnement de l'aéronef, événement/anomalie d'automatisation, MEL/CDL.</li> <li>Cabine : erreur d'agent de bord, distraction liée à un événement en cabine, interruption, sécurité des portes de la cabine.</li> <li>Maintenance : événement/erreur de maintenance.</li> <li>Sol : événement de manutention au sol, dégivrage, erreur de l'équipe au sol.</li> <li>Expédition : événement/erreur de documentation d'expédition.</li> <li>Documentation : erreur manuelle, erreur graphique.</li> <li>Autre : événement de planification d'équipage</li> </ul> </td> </tr> </tbody> </table>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Laquelle des options suivantes répertorie les éléments du concept SHELL ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Liveware, Logiciel, Environnement, Matériel",
-        "correct": true
-      },
-      {
-        "text": "Facteurs humains, Liveware, Logiciel, Environnement.",
-        "correct": false
-      },
-      {
-        "text": "Environnement, Système, Liveware, Matériel. ",
-        "correct": false
-      },
-      {
-        "text": "Logiciels, matériel, événements, liveware.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le modèle SHELL est un outil conceptuel permettant d'analyser l'interaction de plusieurs composants d'un système. Il comprend les quatre composants suivants :</p><ul><li><strong><u>Liveware</u></strong> (L). Au centre du modèle se trouve le pilote. L'homme est le composant le plus précieux et le plus flexible du système. Le deuxième « L » représente les autres personnes, qu'elles soient à l'intérieur ou à l'extérieur de l'avion.</li><li><strong><u>Logiciels</u></strong> (S). Comprend les procédures, la formation, l'assistance, les manuels, les modèles de listes de contrôle, les cartes et graphiques, ainsi que les programmes informatiques.</li><li><strong><u>Matériel</u></strong> (H). Concerne les machines et équipements. Comprend l'agencement du poste de pilotage, la structure physique de l'avion, la présentation des instruments et la position des commandes.</li><li><strong><u>Environnement</u></strong> (E). Environnement de travail dans lequel le reste du système LHS doit fonctionner – conditions à l'intérieur et à l'extérieur du cockpit.</li></ul><hr><p><em>Interaction des différents composants du modèle SHELL :</em></p><p><u>Interface homme-machine</u> (LH). L'interface homme-machine (LH), aussi appelée « interface homme-machine », désigne la relation entre les attributs humains et physiques des équipements, machines et installations.</p><p><u>Interface Logiciel-Live</u> (LS). L'interface LS est la relation entre l'humain et les systèmes de support présents sur le lieu de travail, tels que les réglementations, les manuels, les listes de contrôle, les publications, les procédures opérationnelles normalisées (PON) et les logiciels. Elle inclut des aspects tels que la récence de l'expérience, l'exactitude, le format et la présentation, le vocabulaire, la clarté et la symbologie.</p><p><u>Interface entre les équipes</u> (LL). L'interface LL désigne les relations entre les personnes au travail. Étant donné que les équipages, les contrôleurs aériens, les techniciens de maintenance aéronautique et les autres personnels opérationnels travaillent en groupe, il est important de reconnaître que la communication, les compétences interpersonnelles et la dynamique de groupe jouent un rôle déterminant dans la performance humaine.</p><p><u>Environnement Liveware</u> (LE). Cette interface implique la relation entre l'humain et les environnements internes et externes. L'environnement de travail interne inclut des considérations physiques telles que la température, la lumière ambiante, le bruit, les vibrations et la qualité de l'air. L'environnement externe inclut des aspects opérationnels tels que les facteurs météorologiques, l'infrastructure aéronautique et le relief. Cette interface implique également la relation entre l'environnement interne et l'environnement externe de l'humain.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Selon le modèle TEM, quelles sont les contre-mesures efficaces utilisées pour détecter et gérer les menaces prévisibles",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Briefings et connaissance de la situation",
-        "correct": true
-      },
-      {
-        "text": "Connaissance de la situation et discussion des procédures",
-        "correct": false
-      },
-      {
-        "text": "Gestion et briefings de la prise de décision aéronautique",
-        "correct": false
-      },
-      {
-        "text": "Discussions des procédures et de la gestion de la prise de décision aéronautique",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><em>Le modèle Tem part du principe que les menaces et les erreurs font partie intégrante de l'aviation. Elles doivent être gérées par les équipages afin d'éviter les situations indésirables. <strong>Ces situations peuvent être gérées par des briefings et une connaissance approfondie de la situation.</strong></em></p><p>L'objectif principal des briefings d'équipage est que tous les membres comprennent la séquence d'événements et d'actions souhaitée, l'état de l'avion et toute circonstance particulière affectant le vol prévu. À la fin du briefing, tous les membres d'équipage doivent partager une représentation mentale commune de la situation. Les briefings peuvent être un puissant moyen de transmission d'informations ; s'ils sont bien menés, ils peuvent s'avérer extrêmement efficaces.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Lors de l'approche finale d'un avion monopilote, le pilote reçoit une alerte de cisaillement de vent dans le cockpit. Il décide, à tort, de poursuivre l'approche. L'enquête conclut que le pilote n'était pas conscient de la procédure imposant une remise des gaz. Cette erreur humaine peut être attribuée à la paire suivante du mode SHELL : Liveware, représentant le Commandant et",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Logiciel représentant les procédures",
-        "correct": true
-      },
-      {
-        "text": " Matériel représentant l'avertissement du cockpit. ",
-        "correct": false
-      },
-      {
-        "text": "Environnement représentant les conditions météorologiques.",
-        "correct": false
-      },
-      {
-        "text": "Erreur représentant le manque de familiarité des pilotes avec les procédures.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le modèle SHELL est un outil conceptuel permettant d'analyser l'interaction de plusieurs composants d'un système. Il comprend les quatre composants suivants :</p><ul><li><strong><u>Liveware</u></strong> (L). Au centre du modèle se trouve le pilote. L'homme est le composant le plus précieux et le plus flexible du système. Le deuxième « L » représente les autres personnes, qu'elles soient à l'intérieur ou à l'extérieur de l'avion.</li><li><strong><u>Logiciels</u></strong> (S). Comprend les procédures, la formation, l'assistance, les manuels, les modèles de listes de contrôle, les cartes et graphiques, ainsi que les programmes informatiques.</li><li><strong><u>Matériel</u></strong> (H). Concerne les machines et équipements. Comprend l'agencement du poste de pilotage, la structure physique de l'avion, la présentation des instruments et la position des commandes.</li><li><strong><u>Environnement</u></strong> (E). Environnement de travail dans lequel le reste du système LHS doit fonctionner – conditions à l'intérieur et à l'extérieur du cockpit.</li></ul><hr><p><em>Interaction des différents composants du modèle SHELL :</em></p><p><u>Interface homme-machine</u> (LH). L'interface homme-machine (LH), aussi appelée « interface homme-machine », désigne la relation entre les attributs humains et physiques des équipements, machines et installations.</p><p><u>Interface Logiciel-Live</u> (LS). L'interface LS est la relation entre l'humain et les systèmes de support présents sur le lieu de travail, tels que les réglementations, les manuels, les listes de contrôle, les publications, les procédures opérationnelles normalisées (PON) et les logiciels. Elle inclut des aspects tels que la récence de l'expérience, l'exactitude, le format et la présentation, le vocabulaire, la clarté et la symbologie.</p><p><u>Interface entre les équipes</u> (LL). L'interface LL désigne les relations entre les personnes au travail. Étant donné que les équipages, les contrôleurs aériens, les techniciens de maintenance aéronautique et les autres personnels opérationnels travaillent en groupe, il est important de reconnaître que la communication, les compétences interpersonnelles et la dynamique de groupe jouent un rôle déterminant dans la performance humaine.</p><p><u>Environnement Liveware</u> (LE). Cette interface implique la relation entre l'humain et les environnements internes et externes. L'environnement de travail interne inclut des considérations physiques telles que la température, la lumière ambiante, le bruit, les vibrations et la qualité de l'air. L'environnement externe inclut des aspects opérationnels tels que les facteurs météorologiques, l'infrastructure aéronautique et le relief. Cette interface implique également la relation entre l'environnement interne et l'environnement externe de l'humain.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Sélectionnez un exemple typique d'erreur de procédure selon le modèle TEM",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Appliquer une règle non adaptée à la situation.",
-        "correct": true
-      },
-      {
-        "text": "Appel manqué de l'ATC.",
-        "correct": false
-      },
-      {
-        "text": "Voler en dessous de la pente de descente correcte",
-        "correct": false
-      },
-      {
-        "text": "Rouler sur la mauvaise voie de circulation.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Le commandant de bord exécute la liste de contrôle de descente par cœur, sans s'y référer. I! s'agit d'une violation des SOP. Comment le copilote doit-il réagir selon le modèle TEM ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Informez le capitaine de l'infraction et insistez pour qu'il effectue à nouveau correctement la liste de contrôle, afin de ne rien oublier.",
-        "correct": true
-      },
-      {
-        "text": "Ignorez la violation puisque le capitaine a plus d'expérience et est convaincu que tout est sous contrôle.",
-        "correct": false
-      },
-      {
-        "text": "Attendez une phase de vol plus appropriée, confrontez le commandant de bord et, après l'atterrissage, signalez l'infraction au service de sécurité.",
-        "correct": false
-      },
-      {
-        "text": "Effectuez la liste de contrôle en silence sans en informer le commandant de bord pour éviter toute confrontation potentielle pendant le vol",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><u>MODÈLE TEM - ERREURS</u></p><p>Le modèle TEM (Threats and Errors Management) est un concept de sécurité des vols qui définit <u>les menaces, les erreurs et les états indésirables des aéronefs,</u> et suggère des contre-mesures pour les trois composants.</p><p>Selon le modèle TEM, certaines menaces dans l'aviation peuvent conduire à des erreurs humaines, et ces dernières peuvent conduire à des états indésirables de l'avion.</p><ul><li>Si <u>les menaces</u> sont éliminées, <u>les erreurs</u> seront minimisées.</li><li>Si des erreurs sont détectées, <u>les états indésirables de l'avion</u> seront également minimisés.</li></ul><p><strong>Les erreurs</strong> sont définies comme des actions ou inactions de l'équipage entraînant des écarts par rapport aux intentions ou aux attentes de l'organisation ou de l'équipage. Dans le cadre de leurs fonctions opérationnelles normales, les équipages doivent <u>mettre en œuvre des contre-mesures pour empêcher les menaces, les erreurs et les états indésirables de l'aéronef de réduire les marges de sécurité des opérations aériennes</u>. Parmi ces contre-mesures, on peut citer <strong><u>les listes de contrôle</u></strong>, les briefings, les appels et <strong><u>les SOP</u></strong>, ainsi que les stratégies et tactiques personnelles.</p><hr><p>Le non-respect des SOP par le commandant de bord constitue une erreur (« déviation par rapport aux attentes de l'organisation ou de l'équipage ») susceptible d'entraîner un état indésirable de l'avion. <strong><u>Le copilote ayant reconnu l'erreur, il doit en informer le commandant de bord et prendre des mesures correctives en insistant pour refaire correctement la liste de contrôle, afin de ne rien manquer.</u></strong></p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Que dit la loi de Murphy",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Tout ce qui peut mal tourner tournera mal.",
-        "correct": true
-      },
-      {
-        "text": "Les mesures de sécurité sont compensées par une prise de risque accrue.",
-        "correct": false
-      },
-      {
-        "text": "Pour comprendre ce que quelqu'un vous dit, vous devez supposer que la personne dit la vérité, puis imaginer ce qui pourrait être vrai à ce sujet.",
-        "correct": false
-      },
-      {
-        "text": "Une opportunité de s'engager dans des comportements (ou activités) plus probables renforcera des comportements (ou activités) moins probables.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>LOI DE MURPHY</p><p>Dans sa forme la plus simple, la loi de Murphy stipule : «<strong> Si quelque chose peut mal tourner, cela se produira</strong> . » Son sens originel est qu'il faut identifier tout ce qui peut mal tourner et y remédier afin que rien ne se passe mal.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Les trois composantes fondamentales du modèle de gestion des menaces et des erreurs (TEM) sont, du point de vue des équipages, les menaces, les erreurs et les états indésirables de l'avion. Concernant les erreurs, le modèle TEM...",
-    "annexe": "",
-    "options": [
-      {
-        "text": "considère trois catégories d'erreurs, à savoir les erreurs de pilotage, les erreurs de procédure et les erreurs de communication.",
-        "correct": true
-      },
-      {
-        "text": "distingue trois classes d'erreurs, à savoir opérationnelles, organisationnelles et environnementales.",
-        "correct": false
-      },
-      {
-        "text": "reconnaît trois types d'erreurs humaines, à savoir les erreurs anticipées, imprévues et latentes.",
-        "correct": false
-      },
-      {
-        "text": "fait la distinction entre trois types d'erreurs, à savoir la conduite de l'avion, la navigation et la configuration de l'avion.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Une compagnie aérienne décide d'ignorer la loi et de ne pas inclure d'exercices de décrochage dans son programme de formation des pilotes. Comment qualifier cette décision ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Il s'agit d'un manquement actif de la gestion car c'est une obligation légale, et c'est un manquement de la surveillance des autorités.",
-        "correct": true
-      },
-      {
-        "text": "Il ne s'agit pas d'un échec puisque les pilotes sont compétents et que des situations de décrochage ne devraient pas se produire lors d'opérations régulières.",
-        "correct": false
-      },
-      {
-        "text": "Il s’agit d'un échec latent, car la décision crée des risques potentiels qui peuvent être immédiatement apparents et qui pourraient avoir de graves conséquences.",
-        "correct": false
-      },
-      {
-        "text": "Il s'agit d'une menace latente pour les pilotes qui subissent un décrochage, mais PAS pour ceux qui n'en souffrent pas.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><em><u>Erreurs actives</u> : elles ont des conséquences quasi immédiates, ce qui permet de les détecter. Les violations sont des erreurs actives.</em></p><p><em><u>Erreurs latentes</u> : leurs conséquences restent latentes et sont difficiles à reconnaître ou à prévoir en raison du décalage temporel entre leur génération et leur apparition.</em></p><p><em><u>Menaces latentes :</u> menaces qui ne sont pas directement évidentes et qui peuvent nécessiter d'être décelées par une analyse de sécurité. Parmi les exemples de menaces latentes, on peut citer les problèmes de conception des équipements, les illusions visuelles et les délais d'exécution réduits, susceptibles de créer des situations propices à des erreurs humaines.</em></p><hr><p>La direction commet une <strong>infraction</strong> qualifiée de manquement actif. Ce manquement crée une menace latente pour tous les pilotes (une menace non évidente pouvant entraîner une erreur humaine, voire un accident). Examinons les options proposées :</p><ul><li><em>« Il s'agit d'une défaillance active de la direction, car la loi l'exige, et d'une défaillance de la surveillance des autorités. »</em> Cette affirmation est correcte, car la direction commet une infraction (défaillance active).</li><li><em>Il s'agit d'une défaillance latente, car la décision crée des risques potentiels qui peuvent être immédiatement apparents et avoir de graves conséquences.</em> Une défaillance latente engendre des risques qui ne sont PAS immédiatement apparents. Cette affirmation est inexacte, car une défaillance latente ne peut pas être immédiatement apparente par définition.</li><li><em>« Il ne s'agit pas d'un manquement, car les pilotes sont compétents et il est peu probable que des situations de décrochage se produisent en exploitation normale. » Le fait que</em> les pilotes soient compétents ne signifie pas que la direction n'a pas commis de manquement en n'appliquant pas la loi."
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Le copilote est chargé de communiquer avec l'ATC. L'ATC lui transmet l'autorisation, et ce dernier répond par une autorisation erronée. Le contrôleur ATC et le commandant de bord ne remarquent pas que le copilote effectue une relecture erronée. Quelles erreurs se sont produites ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Erreur de communication entre le copilote, le commandant de bord et l'ATC.",
-        "correct": true
-      },
-      {
-        "text": "Erreur de communication du copilote et de l'ATC, erreur de manipulation du PIC.",
-        "correct": false
-      },
-      {
-        "text": "Erreur de pilotage du copilote et erreur de procédure de l'ATC et du PIC.",
-        "correct": false
-      },
-      {
-        "text": "Erreur de pilotage du copilote et erreur de procédure du PIC.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "En route vers sa destination, le commandant de bord, aux commandes de l'avion, explique la procédure d'approche correcte, tandis que le copilote surveille l'altitude et la vitesse. Lors de l'approche pour l'atterrissage, l'équipage a involontairement laissé la vitesse dépasser celle requise par la procédure d'approche publiée. De plus, le copilote a manqué un appel du contrôle aérien. Cette situation est un exemple",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Une erreur de manipulation du commandant de bord et une erreur de procédure et de communication du copilote.",
-        "correct": true
-      },
-      {
-        "text": "Erreurs de procédure commises par les deux pilotes.",
-        "correct": false
-      },
-      {
-        "text": "Une erreur de procédure du commandant et une erreur de procédure opérationnelle standard du copilote.",
-        "correct": false
-      },
-      {
-        "text": "Une erreur de manipulation du commandant et une erreur de communication du copilote.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Selon le modèle de gestion des menaces et des erreurs (TEM), quelle est la définition correcte d'un « état indésirable de l'aéronef » ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Il s'agit d'une situation de vol indésirable associée à une réduction des marges de sécurité.",
-        "correct": true
-      },
-      {
-        "text": "Actions ou inactions de l'équipage de conduite qui entraînent des écarts par rapport aux intentions ou aux attentes de l’organisation ou de l'équipage de conduite.",
-        "correct": false
-      },
-      {
-        "text": "Il s'agit d'un événement ou d'une erreur qui se produit au-delà de l'influence de l'équipage de conduite, qui augmente la complexité opérationnelle et qui doit être géré pour maintenir une marge de sécurité acceptable",
-        "correct": false
-      },
-      {
-        "text": "Accidents résultant d'actions ou d'inactions indésirables de la part de l'équipage de conduite.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le modèle TEM définit les états indésirables de l'aéronef (UAS) comme une position, une condition ou une attitude de l'aéronef <strong>réduisant clairement la marge de sécurité</strong> et résultant du comportement (actions ou inactions) de l'équipage. Afin d'éviter que la séquence d'événements ne conduise à un accident, l'équipage doit gérer les états indésirables de l'aéronef.</p><p>Tous les équipages de conduite DOIVENT employer des contre-mesures afin d'empêcher les menaces, les erreurs et les états indésirables de l'avion de réduire les marges de sécurité dans les opérations de vol.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Lors d'un vol commercial multi-équipage, le pilote de surveillance est occupé à communiquer avec le contrôle aérien lorsque le pilote aux commandes modifie le mode de pilotage automatique et lance l'appel approprié, mais il ne l'entend pas. Que s'est-il passé ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Une menace de communication, car la perturbation a empêché l'équipage de communiquer les changements pour maintenir une image mentale partagée.",
-        "correct": true
-      },
-      {
-        "text": "Une erreur de procédure du pilote surveillant, qui ne doit pas diriger son attention vers l'ATC pendant que le pilote aux commandes effectue des réglages sur l'automatisation de l'avion.",
-        "correct": false
-      },
-      {
-        "text": "Une menace de communication, car la communication avec l'ATC utilise les ressources du cockpit et crée un risque de surcharge humaine.",
-        "correct": false
-      },
-      {
-        "text": "Une erreur de communication du pilote aux commandes, qui ne doit pas faire d'appels pendant que le pilote de surveillance est occupé à d'autres tâches.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui permet de comprendre, d'un point de vue opérationnel, l'interrelation entre sécurité et performance humaine dans des contextes opérationnels dynamiques et exigeants. Il repose sur trois composantes : les menaces, les erreurs et les états indésirables des aéronefs.</p><ul><li><strong><u>Les menaces</u></strong> constituent la première ligne de défense et se situent à des moments ou des lieux où une erreur potentielle peut facilement être commise. Elles peuvent être classées comme menaces latentes, environnementales ou organisationnelles, selon la manière dont elles se sont manifestées.</li><li><u>Les erreurs</u> sont classées selon l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Elles peuvent donc être classées comme <u>erreurs de pilotage, </u><u>erreurs de procédure</u> ou <u>erreurs de communication</u>, selon les circonstances qui ont conduit à l'erreur. Il s'agit des trois principaux types d'erreurs.</li><li><u>Les états indésirables de l'avion</u> surviennent en raison d'erreurs qui peuvent mettre l'avion dans un état où il ne devrait pas être, une attitude ou un emplacement indésirable, un manque de carburant, etc. Il s'agit d'une conséquence, mais si la menace et l'erreur de suivi n'ont pas déjà été détectées par l'équipage de conduite, alors l'état indésirable de l'avion est le moment où l'équipage de conduite doit se rendre compte qu'il y a un problème et prendre des mesures pour revenir à des opérations sûres.</li></ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Prenons l'exemple du modèle de gestion des menaces et des erreurs (TEM). Un équipage de conduite est confronté à un état indésirable de l'aéronef (UAS). La meilleure solution consiste à ",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Prendre des contre-mesures immédiates pour revenir à un état de fonctionnement normal.",
-        "correct": true
-      },
-      {
-        "text": "Continuez avec la configuration actuelle et déposez un rapport de sécurité à l'atterrissage.",
-        "correct": false
-      },
-      {
-        "text": "Continuer avec la configuration actuelle en tant que UAS n'est pas une issue et donc la sécurité du vol reste inchangée.",
-        "correct": false
-      },
-      {
-        "text": "Contactez l'opérateur et demandez-lui de pratiquer cette situation spécifique lors de la prochaine session de formation.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le modèle TEM définit les états indésirables de l'aéronef (UAS) comme une position, une condition ou une attitude de l'aéronef <strong>réduisant clairement la marge de sécurité</strong> et résultant du comportement (actions ou inactions) de l'équipage. Afin d'éviter que la séquence d'événements ne conduise à un accident, l'équipage doit gérer les états indésirables de l'aéronef.</p><p>Tous les équipages de conduite DOIVENT employer des contre-mesures afin d'empêcher les menaces, les erreurs et les états indésirables de l'avion de réduire les marges de sécurité dans les opérations de vol.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Les systèmes GPWS et les SOP sont des exemples de quel type de contre-mesures dans le modèle de gestion des menaces et des erreurs (TEM) ",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Systémqiue",
-        "correct": true
-      },
-      {
-        "text": "Basé sur le Liveware",
-        "correct": false
-      },
-      {
-        "text": "Basé sur l'automatisation",
-        "correct": false
-      },
-      {
-        "text": "Basé sur le matériel",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui permet de comprendre, d'un point de vue opérationnel, l'interrelation entre sécurité et performance humaine dans des contextes opérationnels dynamiques et exigeants. Il repose sur trois composantes : les menaces, les erreurs et les états indésirables des aéronefs.</p><p><u>Les menaces</u> constituent la première ligne de défense et se situent à des moments ou des lieux où une erreur potentielle peut facilement être commise. Elles peuvent être classées comme menaces latentes, environnementales ou organisationnelles, selon la manière dont elles se sont manifestées.</p><p><u>Les erreurs</u> sont classées selon l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Elles peuvent donc être classées comme <u>erreurs de pilotage, </u><u>erreurs de procédure</u> ou <u>erreurs de communication</u>, selon les circonstances qui ont conduit à l'erreur. Il s'agit des trois principaux types d'erreurs.</p><p><u>Les états indésirables de l'avion</u> se produisent en raison d'erreurs qui peuvent se produire et qui peuvent mettre l'avion dans un état où il ne devrait pas être, une attitude indésirable, un emplacement indésirable, un manque de carburant, etc. Il s'agit d'une conséquence, mais si la menace et l'erreur de suivi n'ont pas déjà été détectées par l'équipage de conduite, alors l'état indésirable de l'avion est le moment où l'équipage de conduite doit se rendre compte qu'il y a un problème et prendre des mesures pour revenir à des opérations sûres.</p><p>Il existe des contre-mesures pouvant être mises en place pour faciliter la gestion des menaces et des erreurs, la plus importante étant probablement l'ensemble des <strong>contre-mesures systémiques</strong> mises en place par tous les opérateurs. Il s'agit <u>d'éléments du système</u> créés ou développés spécifiquement pour faciliter la gestion des menaces et des erreurs (TEM) et les procédures de sécurité. Il peut s'agir, par exemple :</p><ul><li>Systèmes anticollision embarqués (ACAS/TCAS)</li><li><strong>Systèmes d'alerte de proximité du sol (GPWS)</strong></li><li><strong>Procédures opérationnelles standard (SOP)</strong></li><li>Formation TEM (formation CRM également)</li><li>Briefings</li><li>Listes de contrôle</li></ul><p>Tous ces éléments favorisent et aident le TEM car ils offrent à l'équipage de conduite <u>davantage d'opportunités de remarquer les menaces, les erreurs et les états indésirables de l'avion</u>, ainsi que de bons <u>outils pour atténuer ces erreurs et sortir des états indésirables</u>.</p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Laquelle des situations suivantes peut être classée comme une menace latente pour l'équipage de conduite ",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Un problème de conception d'équipement",
-        "correct": true
-      },
-      {
-        "text": "Arrivée dans un aéroport connu et encombré",
-        "correct": false
-      },
-      {
-        "text": "Un dysfonctionnement d'un avion en vol",
-        "correct": false
-      },
-      {
-        "text": "Un orage prévu",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><strong>EASA PART FCL</strong><br><strong>Principes de gestion des menaces et des erreurs (TEM)</strong></p><p>1. MODÈLE TEM<br>1.2 Menaces<br>La première composante du modèle TEM est la menace. Les menaces sont des événements indépendants de la volonté de l'équipage, qui accroissent la complexité opérationnelle et doivent être gérés afin de préserver les marges de sécurité.<br>Le modèle TEM considère trois catégories de menaces : anticipées, imprévues et latentes, qui peuvent toutes nuire aux opérations aériennes en réduisant les marges de sécurité.<br>(...)</p><p><strong>Latent</strong></p><p>Enfin, certaines menaces peuvent ne pas être directement évidentes ou observables par les équipages immergés dans les opérations aériennes, et peuvent nécessiter d'être décelées par une analyse de sécurité. Ces menaces sont considérées comme latentes et peuvent inclure des faiblesses organisationnelles et l'état psychologique du pilote, telles que :</p><ul><li>Culture organisationnelle/changements;</li><li>Documentation incorrecte/incomplète ;</li><li><strong><u>Problèmes de conception des équipements ;</u></strong></li><li>Pressions/retards opérationnels ;</li><li>Illusions d'optique;</li><li>Fatigue/affectation;</li><li>Stresser;</li><li>Complaisance;</li><li>Trop ou pas assez de confiance;</li><li>Manque d'expérience et de compétence récentes</li></ul><p><em>Que les menaces soient anticipées, imprévues ou latentes, une mesure de l'efficacité de la capacité d'un équipage de conduite à gérer les menaces est de savoir si les menaces sont détectées suffisamment rapidement pour permettre à l'équipage de conduite d'y répondre avant qu'un UAS ne se développe en prenant les mesures appropriées</em></p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "En quoi le modèle SHELL est-il pertinent pour le travail dans le cockpit ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Il permet d'identifier les sources d'erreur possibles et d'éliminer les causes possibles d'erreur dans l'exécution des tâches de vol",
-        "correct": true
-      },
-      {
-        "text": "L'interface Liveware-Environment fait référence à l'environnement de l'avion et l'équipage utilise des procédures opérationnelles standard pour y fonctionner.",
-        "correct": false
-      },
-      {
-        "text": "L'interface Software-Liveware fait uniquement référence à l'automatisation du cockpit, ce qui peut être une source d'erreur lorsque l'équipage de conduite n'a pas une connaissance suffisante des systèmes informatiques.",
-        "correct": false
-      },
-      {
-        "text": "L'interface matériel-Liveware répond à la capacité de l'équipage à s'adapter à l'environnement physique, comme les sièges, le placement des commandes de l'avion et la qualité de l'air.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "En quoi consiste la gestion des menaces et des erreurs (TEM) ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Menaces, erreurs et états indésirables des aéronefs.",
-        "correct": true
-      },
-      {
-        "text": "Prévention des erreurs, des incidents et des accidents.",
-        "correct": false
-      },
-      {
-        "text": "Prévention des erreurs, des incidents et des accidents.",
-        "correct": false
-      },
-      {
-        "text": "Menaces, état des aéronefs et des normes opérationnelles",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le modèle TEM (Threats and Errors Management) est un concept de sécurité aérienne qui définit <strong><u>les menaces, les erreurs et les états indésirables des aéronefs</u></strong><u>,</u> et propose des contre-mesures pour ces <strong><u>trois composantes</u>.</strong> Selon ce modèle, certaines menaces dans l'aviation peuvent entraîner des erreurs humaines, lesquelles peuvent également engendrer des états indésirables des aéronefs.</p><ul><li>Si les menaces sont éliminées, les erreurs seront minimisées.</li><li>Si des erreurs sont détectées, les états indésirables de l'avion seront également minimisés.</li></ul>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "Un avion biplace est autorisé à prendre le cap 180. Le copilote, aux commandes, place le bouton de cap sur 190. Le commandant de bord, en tant que pilote de surveillance, remarque immédiatement le dérapage et le signale au copilote, qui corrige le réglage. Quelle contre-mesure le commandant de bord a-t-il appliquée ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Revoir les contre-mesures",
-        "correct": true
-      },
-      {
-        "text": "Planification d'une contre-mesure.",
-        "correct": false
-      },
-      {
-        "text": "Contre-mesure d'exécution.",
-        "correct": false
-      },
-      {
-        "text": "Contre-mesure systémique",
-        "correct": false
-      }
-    ],
-    "explanation": "<p><strong>RÈGLEMENT DE L'AESA SUR LE PERSONNEL NAVIGANT</strong><br><em>Contre-mesures directement liées à la contribution humaine à la sécurité des opérations aériennes :</em><br>il s'agit de stratégies et tactiques personnelles, ainsi que de contre-mesures individuelles et collectives, qui incluent généralement des compétences, des connaissances et des attitudes acquises lors de formations en performance humaine, notamment en CRM. Il existe essentiellement trois catégories de contre-mesures individuelles et collectives :</p><ul><li><u>Planification des contre-mesures</u> : essentielle pour gérer les menaces anticipées et inattendues ;</li><li><u>Contre-mesures d'exécution</u> : essentielles pour la détection et la réponse aux erreurs ;</li><li><u>Revoir les contre-mesures</u> : essentielles pour gérer les conditions changeantes d'un vol.</li></ul><p><em><strong>Planification des contre-mesures</strong></em></p><table><tbody><tr><td>Briefing sur les SOP</td><td>Le briefing requis était interactif et opérationnel complet</td><td>(A) Concis, pas précipité et conforme aux exigences des procédures opérationnelles standard (SOP) ;<br>(B) Les lignes de fond ont été établies</td></tr><tr><td>Plans énoncés</td><td>Les plans et décisions opérationnels ont été communiqués et reconnus</td><td>Compréhension partagée des plans : « Tout le monde est sur la même longueur d'onde »</td></tr><tr><td>Répartition de la charge de travail</td><td>Les rôles et responsabilités ont été définis pour les situations normales et non normales</td><td>Les attributions de charge de travail ont été communiquées et reconnues</td></tr><tr><td>Gestion des imprévus</td><td>Les membres de l'équipage ont développé des stratégies efficaces pour gérer les menaces à la sécurité</td><td>(A) Les menaces et leurs conséquences ont été anticipées ;<br>(B) Toutes les ressources disponibles ont été utilisées pour gérer les menaces</td></tr></tbody></table><p><em><strong>Contre-mesures d'exécution</strong></em></p><table><tbody><tr><td>Surveiller et vérifier</td><td>Les membres de l'équipage ont surveillé et vérifié activement les systèmes et les autres membres de l'équipage</td><td>La position de l'avion, les réglages et les actions de l'équipage ont été vérifiés</td></tr><tr><td>Gestion de la charge de travail</td><td>Les tâches opérationnelles ont été priorisées et correctement gérées pour assurer les principales tâches de vol</td><td>(A) Éviter la fixation sur la tâche ;<br>(B) Ne pas autoriser la surcharge de travail</td></tr><tr><td>Gestion de l'automatisation</td><td>L'automatisation a été correctement gérée pour équilibrer les exigences situationnelles et de charge de travail</td><td>(A) La configuration de l'automatisation a été présentée aux autres membres<br>(B) Techniques de récupération efficaces des anomalies d'automatisation</td></tr></tbody></table><p><em><strong>Examiner les contre-mesures</strong></em></p><table><tbody><tr><td>Évaluation et modification des plans</td><td>Les plans existants ont été révisés et modifiés si nécessaire</td><td>Les décisions et les actions de l'équipage ont été analysées ouvertement pour s'assurer que le plan existant était le meilleur plan</td></tr><tr><td>Enquête</td><td>Les membres de l'équipage ont posé des questions pour enquêter et/ou clarifier les plans d'action actuels</td><td>Les membres d'équipage n'ont pas peur d'exprimer leur manque de connaissances : « Rien n'est acquis »</td></tr><tr><td>Assurance</td><td>Les membres de l'équipage ont indiqué des informations ou des solutions critiques avec la persistance appropriée</td><td>Les membres de l'équipage ont pris la parole sans hésitation</td></tr></tbody></table><p><em><strong>Tableau 4. Exemples de contre-mesures individuelles et collectives</strong></em></p>"
-  },
-  {
-    "id": "TBD",
-    "subtopic": "040-01-03",
-    "database": "",
-    "question": "<p>Un avion décolle d'un grand aéroport. Conformément au briefing pré-vol, le commandant de bord exécute la procédure de départ et le copilote surveille la vitesse, le niveau et les communications. Après le départ, distrait par les transmissions du contrôle aérien, le copilote rentre les volets sans remarquer que la vitesse est inférieure à celle requise pour la rentrée des volets. Tout en répondant à l'avertissement de vitesse qui suit, le commandant de bord laisse l'avion monter au-dessus de son altitude autorisée.</p><p>Quels sont les types d'erreurs illustrés dans ce scénario ?</p><ul><li>1. Erreur de communication : Le copilote n'informe pas le commandant de bord de la vitesse avant de rentrer les volets.</li><li>2. Erreur de communication : Le copilote n'informe pas le commandant de bord de l'écart d'altitude</li><li>3. Erreur de pilotage : Le commandant de bord ne contrôle ni la vitesse ni le taux de montée</li><li>4. Erreur de procédure : Le copilote ne surveille ni la vitesse ni l'altitude</li><li>5. Erreur de procédure : Le commandant de bord n'atteint pas la vitesse de rentrée des volets correcte.</li><li>6. Erreur de procédure : Le commandant de bord et le copilote ne parviennent pas à mettre l'avion à l'horizontale à l'altitude autorisée.</li></ul>",
-    "annexe": "",
-    "options": [
-      {
-        "text": "3 et 4.",
-        "correct": true
-      },
-      {
-        "text": "2, 5 et 6.",
-        "correct": false
-      },
-      {
-        "text": "1, 4 et 5.",
-        "correct": false
-      },
-      {
-        "text": "1, 2, 3 et 5.",
-        "correct": false
-      }
-    ],
-    "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
-  },{
-    "id": "TBD-1",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Les pilotes commettent une erreur de procédure pendant le vol et n'en parlent ni pendant ni après le vol. C'est typique pour.",
-    "annexe": "",
-    "options": [
-      {
-        "text": "culture ouverte.",
-        "correct": false
-      },
-      {
-        "text": "culture fermée.",
-        "correct": true
-      },
-      {
-        "text": "culture non punitive.",
-        "correct": false
-      },
-      {
-        "text": "culture du reporting.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-2",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Quelle affirmation décrit une politique de « sécurité avant tout » ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Les questions de sécurité doivent être discutées uniquement au sein des services concernés afin d'éviter de consommer des ressources inutiles.",
-        "correct": false
-      },
-      {
-        "text": "Tout le personnel est sensibilisé à sa responsabilité en matière de sécurité.",
-        "correct": true
-      },
-      {
-        "text": "La sécurité est la seule responsabilité du service de sécurité.",
-        "correct": false
-      },
-      {
-        "text": "La sécurité est principalement le résultat de pressions politiques et d'influences extérieures.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-3",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Selon James Reason, une organisation qui collecte et analyse des données pertinentes se rapporte à quelle composante de la culture de sécurité ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Informé",
-        "correct": true
-      },
-      {
-        "text": "Apprentissage",
-        "correct": false
-      },
-      {
-        "text": "Juste",
-        "correct": false
-      },
-      {
-        "text": "Rapports",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-4",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Lequel des facteurs suivants contribue à une culture de sécurité ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "La sécurité étant avant tout une question imposée aux employés par divers systèmes administratifs.",
-        "correct": false
-      },
-      {
-        "text": "Développer la confiance en récompensant les bons employés et en punissant ceux qui font des erreurs.",
-        "correct": false
-      },
-      {
-        "text": "Les plus hauts niveaux de gestion mettent à disposition les ressources nécessaires.",
-        "correct": true
-      },
-      {
-        "text": "Encourager les employés à signaler les erreurs tout en prenant un minimum de mesures correctives.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-6",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Qu'est-ce qui est vrai à propos d’une culture ouverte ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "L'équipage peut discuter et se plaindre ouvertement de son salaire.",
-        "correct": false
-      },
-      {
-        "text": "L'organisation évite toute influence gouvernementale ou externe pour améliorer la sécurité.",
-        "correct": false
-      },
-      {
-        "text": "Tous les niveaux d’une organisation jouent un rôle actif dans l'amélioration de la sécurité.",
-        "correct": true
-      },
-      {
-        "text": "Les incidents sont communiqués avec les noms des personnes impliquées.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-7",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Quelle composante d’une culture de sécurité rend la gestion des risques plus efficace ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Culture réactive",
-        "correct": false
-      },
-      {
-        "text": "La culture du non-blâme",
-        "correct": false
-      },
-      {
-        "text": "Culture informée",
-        "correct": true
-      },
-      {
-        "text": "La culture de la justification",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-9",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Quelle est l’affirmation correcte concernant les erreurs pour une culture de sécurité efficace ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Ceux qui commettent des erreurs doivent être sévèrement punis.",
-        "correct": false
-      },
-      {
-        "text": "Les erreurs doivent être imputées à des facteurs externes échappant au contrôle de l'individu.",
-        "correct": false
-      },
-      {
-        "text": "Les erreurs doivent être discutées ouvertement.",
-        "correct": true
-      },
-      {
-        "text": "Les erreurs doivent être ignorées et non traitées.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-11",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Évaluer ce qui est possible de réaliser dans l'aviation commerciale en matière de sécurité des vols.",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Le risque doit être reconnu et considéré comme inévitable dans l'aviation commerciale.",
-        "correct": false
-      },
-      {
-        "text": "Dans l'aviation commerciale, les risques doivent être réduits autant que possible.",
-        "correct": false
-      },
-      {
-        "text": "Le risque doit être réduit autant que possible sur le plan commercial.",
-        "correct": true
-      },
-      {
-        "text": "Le risque doit être éliminé autant que possible.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-12",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "L'un des principaux composants d'un SMS est :",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Gestion des menaces et des erreurs.",
-        "correct": false
-      },
-      {
-        "text": "Assurance qualité.",
-        "correct": false
-      },
-      {
-        "text": "Contrôle de qualité.",
-        "correct": false
-      },
-      {
-        "text": "Gestion des risques de sécurité.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-13",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Un copilote a oublié d'activer l'antigivrage avant d'atteindre des conditions givrantes. Le commandant de bord s'en rend compte et le réprimande. Par la suite, il n'y a aucune discussion sur l'incident. Quel type de culture le commandant de bord incarne-t-il ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Une culture fermée.",
-        "correct": true
-      },
-      {
-        "text": "Une culture punitive.",
-        "correct": false
-      },
-      {
-        "text": "Une culture démocratique.",
-        "correct": false
-      },
-      {
-        "text": "Une culture du reporting.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-14",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Dans une entreprise, une culture de sécurité s'instaure là où une personne commettant\nune erreur involontaire n'est pas poursuivie en justice, mais où les violations intentionnelles ou les comportements négligents ne sont pas tolérés. Cette culture de sécurité s'appelle",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Culture juste",
-        "correct": true
-      },
-      {
-        "text": "Culture ouverte",
-        "correct": false
-      },
-      {
-        "text": "Culture flexible",
-        "correct": false
-      },
-      {
-        "text": "Culture non punitive",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-17",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Le système de gestion des risques liés à la fatigue (SGRF) est un outil de surveillance et de gestion continue des risques liés à la fatigue, basé sur des données et des connaissances scientifiques, ainsi que sur l'expérience opérationnelle. Il vise à garantir que le personnel concerné conserve un niveau de vigilance adéquat. Quel type de culture de sécurité est instauré dans une entreprise utilisant un SGRF ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Culture fermée.",
-        "correct": false
-      },
-      {
-        "text": "Culture non punitive.",
-        "correct": false
-      },
-      {
-        "text": "La culture de l'apprentissage.",
-        "correct": true
-      },
-      {
-        "text": "Anti-autorité.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-19",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Considérant un environnement typique de l'aviation civile, que peut-on dire de l'affirmation suivante ? \n « La culture de sécurité est relativement durable, stable et résistante au changement. »",
-    "annexe": "",
-    "options": [
-      {
-        "text": "C'est vrai.",
-        "correct": true
-      },
-      {
-        "text": "Ni vrai ni faux. Les caractéristiques des cultures de sécurité varient considérablement selon les organisations et dépendent de nombreux facteurs. Dans de nombreuses organisations, la culture de sécurité peut être stable et\nrésistante au changement, tandis que dans d'autres, elle peut être relativement\ninstable et non résistante au changement.",
-        "correct": false
-      },
-      {
-        "text": "Ni vrai ni faux. La culture de sécurité n'a rien à voir avec l'aviation, car elle est toujours définie principalement par les attitudes généralement dominantes dans une région géographique ou un pays spécifique.",
-        "correct": false
-      },
-      {
-        "text": "C'est faux.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-5",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Dans une organisation où une bonne culture de sécurité prédomine, la responsabilité incombe en grande partie à. ",
-    "annexe": "",
-    "options": [
-      {
-        "text": "individus.",
-        "correct": false
-      },
-      {
-        "text": "les membres du conseil d'administration.",
-        "correct": false
-      },
-      {
-        "text": "actionnaires.",
-        "correct": false
-      },
-      {
-        "text": "gestion.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-8",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Une compagnie aérienne avec une culture de sécurité « non punitive » signifie :",
-    "annexe": "",
-    "options": [
-      {
-        "text": "La responsabilité des erreurs incombe à la direction de l'entreprise qui n'encourage pas une culture de sécurité.",
-        "correct": false
-      },
-      {
-        "text": "Punir un pilote après une erreur ou un dérapage, afin de l'inciter à signaler l'incident.",
-        "correct": false
-      },
-      {
-        "text": "Les erreurs et les actes dangereux ne sont pas sanctionnés s'ils sont commis involontairement. En revanche, ceux qui agissent avec imprudence ou prennent délibérément des risques injustifiés s'exposent à des sanctions disciplinaires.   Après qu'un pilote aît fait une erreur, il ne devrait PAS être blâämé ou puni.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-10",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Dans le modèle du fromage suisse, que représentent les trous ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Données manquantes dans le système de gestion des risques.",
-        "correct": false
-      },
-      {
-        "text": "Systèmes ou processus conçus pour prévenir les dommages",
-        "correct": false
-      },
-      {
-        "text": "Systèmes ou processus mis en place pour réduire les risques.",
-        "correct": false
-      },
-      {
-        "text": "Erreurs dans le système ou le processus.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-15",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "La culture de sécurité est… ",
-    "annexe": "",
-    "options": [
-      {
-        "text": "PAS un sous-ensemble de la culture nationale.",
-        "correct": false
-      },
-      {
-        "text": "considérée comme indépendante de la culture nationale.",
-        "correct": false
-      },
-      {
-        "text": "PAS un produit de la culture nationale.",
-        "correct": false
-      },
-      {
-        "text": "considéré comme un sous-ensemble de la culture nationale.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-16",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "Quelle culture de sécurité serait la mieux adaptée à une entreprise utilisant un système de gestion des risques liés à la fatigue (FRMS) ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Culture fermée.",
-        "correct": false
-      },
-      {
-        "text": "Culture réactive.",
-        "correct": false
-      },
-      {
-        "text": "Culture non punitive.",
-        "correct": false
-      },
-      {
-        "text": "Culture de l'apprentissage.",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "id": "TBD-18",
-    "subtopic": "040-01-04",
-    "database": "",
-    "question": "L'exploitant d'un aéronef prend des mesures disciplinaires contre le commandant de bord, affirmant qu'il a enfreint les procédures d'exploitation établies en atterrissant avec une quantité insuffisante de carburant à bord. Le commandant de bord peut démontrer de manière plausible qu'il a commis une erreur uniquement lors de la consignation de la masse de carburant dans le carnet de bord technique après le vol, alors que la quantité réelle de carburant à bord après l'atterrissage était largement inférieure aux limites opérationnelles. L'exploitant décide de suspendre le pilote de ses fonctions pour dix jours. Laquelle des affirmations suivantes est correcte en ce qui concerne la culture de sécurité de l'opérateur ?",
-    "annexe": "",
-    "options": [
-      {
-        "text": "Dans un environnement de « culture juste », punir un employé pour avoir commis une erreur est un exemple de mauvaise gestion ; les erreurs et les violations ne doivent pas être punies afin de promouvoir un climat de confiance.",
-        "correct": false
-      },
-      {
-        "text": "L'exploitant fait preuve d'une préoccupation suffisante pour la sécurité et considère toute négligence comme inacceptable. Cette négligence témoigne d'une méconnaissance des risques et des dangers, réduisant probablement la marge de sécurité en vol.",
-        "correct": false
-      },
-      {
-        "text": "L'opérateur n'applique pas le principe de culture juste visant à favoriser la confiance et la collaboration. Un tel écart involontaire doit être signalé et discuté   L'opérateur n'applique pas le principe de « culture juste » visant à favoriser la afin d'éviter qu'il ne se reproduise ; il ne doit pas être sanctionné.",
-        "correct": true
-      },
-      {
-        "text": "L'opérateur applique efficacement le principe de « culture juste » en sanctionnant équitablement les comportements négligents comme une forme de contrôle positif. Cela peut inciter les employés à être plus prudents avant d'agir et à mieux sensibiliser aux risques.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  }
+    {
+        "id": "TBD",
+        "subtopic": "040-01-01",
+        "database": "",
+        "question": "Selon I'annexe 1 de la Convention relative a aviation civile internationale, la compétence est définie comme...",
+        "annexe": "",
+        "options": [
+            {
+                "text": "un ensemble de connaissances pratiques et théoriques, de compétences cognitives, de comportements et de valeurs utilisés pour améliorer les performances.",
+                "correct": false
+            },
+            {
+                "text": "une combinaison de compétences, de connaissances et d'attitudes requises pour effectuer une tache selon la norme prescrite.",
+                "correct": true
+            },
+            {
+                "text": "un ensemble de comportements qui fournissent un guide structuré pour I'identification, 'évaluation et le développement des comportements chez les individus.",
+                "correct": false
+            },
+            {
+                "text": "un état mental ou une qualité d'étre adéquatement ou bien qualifié, ayant la capacité d'exécuter un role spécifique",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><strong>Annexe 1 de l'OACI,<br>Chapitre 1. Définitions et règles générales concernant les licences</strong></p><p><strong><em>Compétence</em></strong>. Dimension de la performance humaine permettant de prédire avec fiabilité la réussite au travail. Une compétence se manifeste et s'observe par des comportements qui mobilisent <u>les connaissances, les aptitudes et les attitudes nécessaires à la réalisation d'activités ou de tâches</u> dans des conditions précises.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-01",
+        "database": "",
+        "question": "Considérez la formation et l'évaluation des pilotes. Laquelle des compétences suivantes fait partie des huit compétences essentielles ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "synergie",
+                "correct": false
+            },
+            {
+                "text": "Conscience de la situation",
+                "correct": true
+            },
+            {
+                "text": "Jugement et détermination",
+                "correct": false
+            },
+            {
+                "text": "Grade de capitaine",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Objectif d'apprentissage 040.01.01.01.01 : Énoncer que la compétence est basée sur les connaissances, les aptitudes et les attitudes du pilote individuel, et énumérer les huit compétences de base de l'OACI :</p><ul><li>application des procédures;</li><li>communication;</li><li>gestion et automatisation des trajectoires de vol des avions ;</li><li>gestion de la trajectoire de vol de l'avion, contrôle manuel ;</li><li>leadership et travail d'équipe;</li><li>résolution de problèmes et prise de décision;</li><li>conscience de la situation;</li><li>gestion de la charge de travail.</li></ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-01",
+        "database": "",
+        "question": "La compétence d'un pilote individuel est basée sur...",
+        "annexe": "",
+        "options": [
+            {
+                "text": "L'âge, la compétence et la détermination",
+                "correct": false
+            },
+            {
+                "text": "Connaissances, compétences et attitudes",
+                "correct": true
+            },
+            {
+                "text": "Règles, caractère et éducation",
+                "correct": false
+            },
+            {
+                "text": "Concentration, âge et connaissances",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><strong>Annexe 1 de l'OACI,<br>Chapitre 1. Définitions et règles générales concernant les licences</strong></p><p><em><strong>Compétence</strong></em> . Dimension de la performance humaine permettant de prédire avec fiabilité la réussite au travail. Une compétence se manifeste et s'observe par des comportements qui mobilisent <u>les connaissances, les aptitudes et les attitudes nécessaires à la réalisation d'activités ou de tâches</u> dans des conditions précises."
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "En route vers sa destination, le commandant de bord effectue un briefing sur la procédure d'approche appropriée, tandis que le copilote surveille attentivement l'altitude et la vitesse pendant l'approche. Cependant, à l'approche de l'atterrissage, la vitesse dépasse involontairement la vitesse requise par la procédure d'approche publiée. Cette situation illustre...",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Une erreur de procédure du commandant, une erreur de communication du copilote",
+                "correct": false
+            },
+            {
+                "text": "Une erreur de pilotage du commandant de bord, une erreur de procédure du copilote",
+                "correct": true
+            },
+            {
+                "text": "Une erreur de pilotage du commandant, une erreur de communication du copilote.",
+                "correct": false
+            },
+            {
+                "text": "Erreurs de procédure commises par les deux pilotes.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "La gestion des menaces et des erreurs (GME) est un concept de sécurité global concernant les opérations aériennes et la performance humaine. Dans le cadre de la GME, et conformément à l'Annexe 1 de l'OACI sur les licences du personnel, l'erreur est définie comme.",
+        "annexe": "",
+        "options": [
+            {
+                "text": "une action ou une inaction d'une personne opérationnelle qui conduit à des écarts par rapport aux intentions ou aux attentes de l'organisation ou de la personne opérationnelle.",
+                "correct": true
+            },
+            {
+                "text": "un événement qui se produit au-delà de l'influence d'une personne opérationnelle et qui doit être géré pour maintenir la marge de sécurité.",
+                "correct": false
+            },
+            {
+                "text": "un écart intentionnel d'un opérateur par rapport à un processus ou à des procédures connues, avec des conséquences indésirables.",
+                "correct": false
+            },
+            {
+                "text": "une perception, une croyance ou un état mental erroné d'une personne opérationnelle qui n'est pas conforme à la réalité objective d'une organisation.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Laquelle des propositions suivantes constitue une menace environnementale selon le modèle TEM (Threat and Error Management)",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Une piste contaminée",
+                "correct": true
+            },
+            {
+                "text": "Une erreur de planification de l'équipage",
+                "correct": false
+            },
+            {
+                "text": "Conception de matériel aéronautique",
+                "correct": false
+            },
+            {
+                "text": "Une erreur de maintenance",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><u>Les composants du modèle TEM</u></p> <p>Les menaces sont définies comme des « événements ou erreurs indépendants de la volonté de l'équipage, augmentant la complexité opérationnelle et devant être gérés afin de maintenir les marges de sécurité ». Lors d'opérations aériennes classiques, les équipages doivent gérer diverses complexités contextuelles. Les menaces peuvent être regroupées en deux catégories principales issues du modèle TEM.</p> <ul> <li><strong>Les menaces environnementales</strong> découlent de l'environnement dans lequel se déroulent les opérations aériennes. Certaines peuvent être anticipées, d'autres surviendront spontanément, mais elles doivent toutes être gérées en temps réel par les équipages.</li> <li><strong>Les menaces organisationnelles</strong>, en revanche, peuvent être contrôlées (c'est-à-dire supprimées ou, du moins, minimisées) à la source par les organisations aéronautiques. Elles sont généralement de nature latente.</li> </ul> <p><em><strong>Tableau 1. Exemples de menaces (liste non exhaustive)</strong></em></p> <table> <tbody> <tr> <td><strong>Menaces environnementales</strong></td> <td><strong>Menaces organisationnelles</strong></td> </tr> <tr> <td> <ul> <li>Météo : orages, turbulences, givrage, cisaillement du vent, vent latéral/arrière, températures très basses/élevées.</li> <li>ATC : congestion du trafic, TCAS RA/TA, commande ATC, erreur ATC, difficulté de langage ATC, phraséologie non standard ATC, changement de piste ATC, communication ATIS, unités de mesure (QFE/mètres).</li> <li><u>Aéroport</u> : <strong>piste contaminée/courte</strong> ; voie de circulation contaminée, signalisation/marquages absents/déroutants/décolorés, oiseaux, aides U/S, procédures de navigation de surface complexes, constructions aéroportuaires.</li> <li>Terrain : Terrain élevé, pente, manque de repères, « trou noir ».</li> <li>Autre : indicatifs d'appel similaires.</li> </ul> </td> <td> <ul> <li>Pression opérationnelle : retards, arrivées tardives, changements de matériel.</li> <li>Aéronef : dysfonctionnement de l'aéronef, événement/anomalie d'automatisation, MEL/CDL.</li> <li>Cabine : erreur d'agent de bord, distraction liée à un événement en cabine, interruption, sécurité des portes de la cabine.</li> <li>Maintenance : événement/erreur de maintenance.</li> <li>Sol : événement de manutention au sol, dégivrage, erreur de l'équipe au sol.</li> <li>Expédition : événement/erreur de documentation d'expédition.</li> <li>Documentation : erreur manuelle, erreur graphique.</li> <li>Autre : événement de planification d'équipage</li> </ul> </td> </tr> </tbody> </table>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Laquelle des options suivantes répertorie les éléments du concept SHELL ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Liveware, Logiciel, Environnement, Matériel",
+                "correct": true
+            },
+            {
+                "text": "Facteurs humains, Liveware, Logiciel, Environnement.",
+                "correct": false
+            },
+            {
+                "text": "Environnement, Système, Liveware, Matériel. ",
+                "correct": false
+            },
+            {
+                "text": "Logiciels, matériel, événements, liveware.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le modèle SHELL est un outil conceptuel permettant d'analyser l'interaction de plusieurs composants d'un système. Il comprend les quatre composants suivants :</p><ul><li><strong><u>Liveware</u></strong> (L). Au centre du modèle se trouve le pilote. L'homme est le composant le plus précieux et le plus flexible du système. Le deuxième « L » représente les autres personnes, qu'elles soient à l'intérieur ou à l'extérieur de l'avion.</li><li><strong><u>Logiciels</u></strong> (S). Comprend les procédures, la formation, l'assistance, les manuels, les modèles de listes de contrôle, les cartes et graphiques, ainsi que les programmes informatiques.</li><li><strong><u>Matériel</u></strong> (H). Concerne les machines et équipements. Comprend l'agencement du poste de pilotage, la structure physique de l'avion, la présentation des instruments et la position des commandes.</li><li><strong><u>Environnement</u></strong> (E). Environnement de travail dans lequel le reste du système LHS doit fonctionner – conditions à l'intérieur et à l'extérieur du cockpit.</li></ul><hr><p><em>Interaction des différents composants du modèle SHELL :</em></p><p><u>Interface homme-machine</u> (LH). L'interface homme-machine (LH), aussi appelée « interface homme-machine », désigne la relation entre les attributs humains et physiques des équipements, machines et installations.</p><p><u>Interface Logiciel-Live</u> (LS). L'interface LS est la relation entre l'humain et les systèmes de support présents sur le lieu de travail, tels que les réglementations, les manuels, les listes de contrôle, les publications, les procédures opérationnelles normalisées (PON) et les logiciels. Elle inclut des aspects tels que la récence de l'expérience, l'exactitude, le format et la présentation, le vocabulaire, la clarté et la symbologie.</p><p><u>Interface entre les équipes</u> (LL). L'interface LL désigne les relations entre les personnes au travail. Étant donné que les équipages, les contrôleurs aériens, les techniciens de maintenance aéronautique et les autres personnels opérationnels travaillent en groupe, il est important de reconnaître que la communication, les compétences interpersonnelles et la dynamique de groupe jouent un rôle déterminant dans la performance humaine.</p><p><u>Environnement Liveware</u> (LE). Cette interface implique la relation entre l'humain et les environnements internes et externes. L'environnement de travail interne inclut des considérations physiques telles que la température, la lumière ambiante, le bruit, les vibrations et la qualité de l'air. L'environnement externe inclut des aspects opérationnels tels que les facteurs météorologiques, l'infrastructure aéronautique et le relief. Cette interface implique également la relation entre l'environnement interne et l'environnement externe de l'humain.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Selon le modèle TEM, quelles sont les contre-mesures efficaces utilisées pour détecter et gérer les menaces prévisibles",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Briefings et connaissance de la situation",
+                "correct": true
+            },
+            {
+                "text": "Connaissance de la situation et discussion des procédures",
+                "correct": false
+            },
+            {
+                "text": "Gestion et briefings de la prise de décision aéronautique",
+                "correct": false
+            },
+            {
+                "text": "Discussions des procédures et de la gestion de la prise de décision aéronautique",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><em>Le modèle Tem part du principe que les menaces et les erreurs font partie intégrante de l'aviation. Elles doivent être gérées par les équipages afin d'éviter les situations indésirables. <strong>Ces situations peuvent être gérées par des briefings et une connaissance approfondie de la situation.</strong></em></p><p>L'objectif principal des briefings d'équipage est que tous les membres comprennent la séquence d'événements et d'actions souhaitée, l'état de l'avion et toute circonstance particulière affectant le vol prévu. À la fin du briefing, tous les membres d'équipage doivent partager une représentation mentale commune de la situation. Les briefings peuvent être un puissant moyen de transmission d'informations ; s'ils sont bien menés, ils peuvent s'avérer extrêmement efficaces.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Lors de l'approche finale d'un avion monopilote, le pilote reçoit une alerte de cisaillement de vent dans le cockpit. Il décide, à tort, de poursuivre l'approche. L'enquête conclut que le pilote n'était pas conscient de la procédure imposant une remise des gaz. Cette erreur humaine peut être attribuée à la paire suivante du mode SHELL : Liveware, représentant le Commandant et",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Logiciel représentant les procédures",
+                "correct": true
+            },
+            {
+                "text": " Matériel représentant l'avertissement du cockpit. ",
+                "correct": false
+            },
+            {
+                "text": "Environnement représentant les conditions météorologiques.",
+                "correct": false
+            },
+            {
+                "text": "Erreur représentant le manque de familiarité des pilotes avec les procédures.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le modèle SHELL est un outil conceptuel permettant d'analyser l'interaction de plusieurs composants d'un système. Il comprend les quatre composants suivants :</p><ul><li><strong><u>Liveware</u></strong> (L). Au centre du modèle se trouve le pilote. L'homme est le composant le plus précieux et le plus flexible du système. Le deuxième « L » représente les autres personnes, qu'elles soient à l'intérieur ou à l'extérieur de l'avion.</li><li><strong><u>Logiciels</u></strong> (S). Comprend les procédures, la formation, l'assistance, les manuels, les modèles de listes de contrôle, les cartes et graphiques, ainsi que les programmes informatiques.</li><li><strong><u>Matériel</u></strong> (H). Concerne les machines et équipements. Comprend l'agencement du poste de pilotage, la structure physique de l'avion, la présentation des instruments et la position des commandes.</li><li><strong><u>Environnement</u></strong> (E). Environnement de travail dans lequel le reste du système LHS doit fonctionner – conditions à l'intérieur et à l'extérieur du cockpit.</li></ul><hr><p><em>Interaction des différents composants du modèle SHELL :</em></p><p><u>Interface homme-machine</u> (LH). L'interface homme-machine (LH), aussi appelée « interface homme-machine », désigne la relation entre les attributs humains et physiques des équipements, machines et installations.</p><p><u>Interface Logiciel-Live</u> (LS). L'interface LS est la relation entre l'humain et les systèmes de support présents sur le lieu de travail, tels que les réglementations, les manuels, les listes de contrôle, les publications, les procédures opérationnelles normalisées (PON) et les logiciels. Elle inclut des aspects tels que la récence de l'expérience, l'exactitude, le format et la présentation, le vocabulaire, la clarté et la symbologie.</p><p><u>Interface entre les équipes</u> (LL). L'interface LL désigne les relations entre les personnes au travail. Étant donné que les équipages, les contrôleurs aériens, les techniciens de maintenance aéronautique et les autres personnels opérationnels travaillent en groupe, il est important de reconnaître que la communication, les compétences interpersonnelles et la dynamique de groupe jouent un rôle déterminant dans la performance humaine.</p><p><u>Environnement Liveware</u> (LE). Cette interface implique la relation entre l'humain et les environnements internes et externes. L'environnement de travail interne inclut des considérations physiques telles que la température, la lumière ambiante, le bruit, les vibrations et la qualité de l'air. L'environnement externe inclut des aspects opérationnels tels que les facteurs météorologiques, l'infrastructure aéronautique et le relief. Cette interface implique également la relation entre l'environnement interne et l'environnement externe de l'humain.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Sélectionnez un exemple typique d'erreur de procédure selon le modèle TEM",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Appliquer une règle non adaptée à la situation.",
+                "correct": true
+            },
+            {
+                "text": "Appel manqué de l'ATC.",
+                "correct": false
+            },
+            {
+                "text": "Voler en dessous de la pente de descente correcte",
+                "correct": false
+            },
+            {
+                "text": "Rouler sur la mauvaise voie de circulation.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Le commandant de bord exécute la liste de contrôle de descente par cœur, sans s'y référer. I! s'agit d'une violation des SOP. Comment le copilote doit-il réagir selon le modèle TEM ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Informez le capitaine de l'infraction et insistez pour qu'il effectue à nouveau correctement la liste de contrôle, afin de ne rien oublier.",
+                "correct": true
+            },
+            {
+                "text": "Ignorez la violation puisque le capitaine a plus d'expérience et est convaincu que tout est sous contrôle.",
+                "correct": false
+            },
+            {
+                "text": "Attendez une phase de vol plus appropriée, confrontez le commandant de bord et, après l'atterrissage, signalez l'infraction au service de sécurité.",
+                "correct": false
+            },
+            {
+                "text": "Effectuez la liste de contrôle en silence sans en informer le commandant de bord pour éviter toute confrontation potentielle pendant le vol",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><u>MODÈLE TEM - ERREURS</u></p><p>Le modèle TEM (Threats and Errors Management) est un concept de sécurité des vols qui définit <u>les menaces, les erreurs et les états indésirables des aéronefs,</u> et suggère des contre-mesures pour les trois composants.</p><p>Selon le modèle TEM, certaines menaces dans l'aviation peuvent conduire à des erreurs humaines, et ces dernières peuvent conduire à des états indésirables de l'avion.</p><ul><li>Si <u>les menaces</u> sont éliminées, <u>les erreurs</u> seront minimisées.</li><li>Si des erreurs sont détectées, <u>les états indésirables de l'avion</u> seront également minimisés.</li></ul><p><strong>Les erreurs</strong> sont définies comme des actions ou inactions de l'équipage entraînant des écarts par rapport aux intentions ou aux attentes de l'organisation ou de l'équipage. Dans le cadre de leurs fonctions opérationnelles normales, les équipages doivent <u>mettre en œuvre des contre-mesures pour empêcher les menaces, les erreurs et les états indésirables de l'aéronef de réduire les marges de sécurité des opérations aériennes</u>. Parmi ces contre-mesures, on peut citer <strong><u>les listes de contrôle</u></strong>, les briefings, les appels et <strong><u>les SOP</u></strong>, ainsi que les stratégies et tactiques personnelles.</p><hr><p>Le non-respect des SOP par le commandant de bord constitue une erreur (« déviation par rapport aux attentes de l'organisation ou de l'équipage ») susceptible d'entraîner un état indésirable de l'avion. <strong><u>Le copilote ayant reconnu l'erreur, il doit en informer le commandant de bord et prendre des mesures correctives en insistant pour refaire correctement la liste de contrôle, afin de ne rien manquer.</u></strong></p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Que dit la loi de Murphy",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Tout ce qui peut mal tourner tournera mal.",
+                "correct": true
+            },
+            {
+                "text": "Les mesures de sécurité sont compensées par une prise de risque accrue.",
+                "correct": false
+            },
+            {
+                "text": "Pour comprendre ce que quelqu'un vous dit, vous devez supposer que la personne dit la vérité, puis imaginer ce qui pourrait être vrai à ce sujet.",
+                "correct": false
+            },
+            {
+                "text": "Une opportunité de s'engager dans des comportements (ou activités) plus probables renforcera des comportements (ou activités) moins probables.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>LOI DE MURPHY</p><p>Dans sa forme la plus simple, la loi de Murphy stipule : «<strong> Si quelque chose peut mal tourner, cela se produira</strong> . » Son sens originel est qu'il faut identifier tout ce qui peut mal tourner et y remédier afin que rien ne se passe mal.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Les trois composantes fondamentales du modèle de gestion des menaces et des erreurs (TEM) sont, du point de vue des équipages, les menaces, les erreurs et les états indésirables de l'avion. Concernant les erreurs, le modèle TEM...",
+        "annexe": "",
+        "options": [
+            {
+                "text": "considère trois catégories d'erreurs, à savoir les erreurs de pilotage, les erreurs de procédure et les erreurs de communication.",
+                "correct": true
+            },
+            {
+                "text": "distingue trois classes d'erreurs, à savoir opérationnelles, organisationnelles et environnementales.",
+                "correct": false
+            },
+            {
+                "text": "reconnaît trois types d'erreurs humaines, à savoir les erreurs anticipées, imprévues et latentes.",
+                "correct": false
+            },
+            {
+                "text": "fait la distinction entre trois types d'erreurs, à savoir la conduite de l'avion, la navigation et la configuration de l'avion.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Une compagnie aérienne décide d'ignorer la loi et de ne pas inclure d'exercices de décrochage dans son programme de formation des pilotes. Comment qualifier cette décision ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Il s'agit d'un manquement actif de la gestion car c'est une obligation légale, et c'est un manquement de la surveillance des autorités.",
+                "correct": true
+            },
+            {
+                "text": "Il ne s'agit pas d'un échec puisque les pilotes sont compétents et que des situations de décrochage ne devraient pas se produire lors d'opérations régulières.",
+                "correct": false
+            },
+            {
+                "text": "Il s’agit d'un échec latent, car la décision crée des risques potentiels qui peuvent être immédiatement apparents et qui pourraient avoir de graves conséquences.",
+                "correct": false
+            },
+            {
+                "text": "Il s'agit d'une menace latente pour les pilotes qui subissent un décrochage, mais PAS pour ceux qui n'en souffrent pas.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><em><u>Erreurs actives</u> : elles ont des conséquences quasi immédiates, ce qui permet de les détecter. Les violations sont des erreurs actives.</em></p><p><em><u>Erreurs latentes</u> : leurs conséquences restent latentes et sont difficiles à reconnaître ou à prévoir en raison du décalage temporel entre leur génération et leur apparition.</em></p><p><em><u>Menaces latentes :</u> menaces qui ne sont pas directement évidentes et qui peuvent nécessiter d'être décelées par une analyse de sécurité. Parmi les exemples de menaces latentes, on peut citer les problèmes de conception des équipements, les illusions visuelles et les délais d'exécution réduits, susceptibles de créer des situations propices à des erreurs humaines.</em></p><hr><p>La direction commet une <strong>infraction</strong> qualifiée de manquement actif. Ce manquement crée une menace latente pour tous les pilotes (une menace non évidente pouvant entraîner une erreur humaine, voire un accident). Examinons les options proposées :</p><ul><li><em>« Il s'agit d'une défaillance active de la direction, car la loi l'exige, et d'une défaillance de la surveillance des autorités. »</em> Cette affirmation est correcte, car la direction commet une infraction (défaillance active).</li><li><em>Il s'agit d'une défaillance latente, car la décision crée des risques potentiels qui peuvent être immédiatement apparents et avoir de graves conséquences.</em> Une défaillance latente engendre des risques qui ne sont PAS immédiatement apparents. Cette affirmation est inexacte, car une défaillance latente ne peut pas être immédiatement apparente par définition.</li><li><em>« Il ne s'agit pas d'un manquement, car les pilotes sont compétents et il est peu probable que des situations de décrochage se produisent en exploitation normale. » Le fait que</em> les pilotes soient compétents ne signifie pas que la direction n'a pas commis de manquement en n'appliquant pas la loi."
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Le copilote est chargé de communiquer avec l'ATC. L'ATC lui transmet l'autorisation, et ce dernier répond par une autorisation erronée. Le contrôleur ATC et le commandant de bord ne remarquent pas que le copilote effectue une relecture erronée. Quelles erreurs se sont produites ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Erreur de communication entre le copilote, le commandant de bord et l'ATC.",
+                "correct": true
+            },
+            {
+                "text": "Erreur de communication du copilote et de l'ATC, erreur de manipulation du PIC.",
+                "correct": false
+            },
+            {
+                "text": "Erreur de pilotage du copilote et erreur de procédure de l'ATC et du PIC.",
+                "correct": false
+            },
+            {
+                "text": "Erreur de pilotage du copilote et erreur de procédure du PIC.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "En route vers sa destination, le commandant de bord, aux commandes de l'avion, explique la procédure d'approche correcte, tandis que le copilote surveille l'altitude et la vitesse. Lors de l'approche pour l'atterrissage, l'équipage a involontairement laissé la vitesse dépasser celle requise par la procédure d'approche publiée. De plus, le copilote a manqué un appel du contrôle aérien. Cette situation est un exemple",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Une erreur de manipulation du commandant de bord et une erreur de procédure et de communication du copilote.",
+                "correct": true
+            },
+            {
+                "text": "Erreurs de procédure commises par les deux pilotes.",
+                "correct": false
+            },
+            {
+                "text": "Une erreur de procédure du commandant et une erreur de procédure opérationnelle standard du copilote.",
+                "correct": false
+            },
+            {
+                "text": "Une erreur de manipulation du commandant et une erreur de communication du copilote.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Selon le modèle de gestion des menaces et des erreurs (TEM), quelle est la définition correcte d'un « état indésirable de l'aéronef » ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Il s'agit d'une situation de vol indésirable associée à une réduction des marges de sécurité.",
+                "correct": true
+            },
+            {
+                "text": "Actions ou inactions de l'équipage de conduite qui entraînent des écarts par rapport aux intentions ou aux attentes de l’organisation ou de l'équipage de conduite.",
+                "correct": false
+            },
+            {
+                "text": "Il s'agit d'un événement ou d'une erreur qui se produit au-delà de l'influence de l'équipage de conduite, qui augmente la complexité opérationnelle et qui doit être géré pour maintenir une marge de sécurité acceptable",
+                "correct": false
+            },
+            {
+                "text": "Accidents résultant d'actions ou d'inactions indésirables de la part de l'équipage de conduite.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le modèle TEM définit les états indésirables de l'aéronef (UAS) comme une position, une condition ou une attitude de l'aéronef <strong>réduisant clairement la marge de sécurité</strong> et résultant du comportement (actions ou inactions) de l'équipage. Afin d'éviter que la séquence d'événements ne conduise à un accident, l'équipage doit gérer les états indésirables de l'aéronef.</p><p>Tous les équipages de conduite DOIVENT employer des contre-mesures afin d'empêcher les menaces, les erreurs et les états indésirables de l'avion de réduire les marges de sécurité dans les opérations de vol.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Lors d'un vol commercial multi-équipage, le pilote de surveillance est occupé à communiquer avec le contrôle aérien lorsque le pilote aux commandes modifie le mode de pilotage automatique et lance l'appel approprié, mais il ne l'entend pas. Que s'est-il passé ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Une menace de communication, car la perturbation a empêché l'équipage de communiquer les changements pour maintenir une image mentale partagée.",
+                "correct": true
+            },
+            {
+                "text": "Une erreur de procédure du pilote surveillant, qui ne doit pas diriger son attention vers l'ATC pendant que le pilote aux commandes effectue des réglages sur l'automatisation de l'avion.",
+                "correct": false
+            },
+            {
+                "text": "Une menace de communication, car la communication avec l'ATC utilise les ressources du cockpit et crée un risque de surcharge humaine.",
+                "correct": false
+            },
+            {
+                "text": "Une erreur de communication du pilote aux commandes, qui ne doit pas faire d'appels pendant que le pilote de surveillance est occupé à d'autres tâches.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui permet de comprendre, d'un point de vue opérationnel, l'interrelation entre sécurité et performance humaine dans des contextes opérationnels dynamiques et exigeants. Il repose sur trois composantes : les menaces, les erreurs et les états indésirables des aéronefs.</p><ul><li><strong><u>Les menaces</u></strong> constituent la première ligne de défense et se situent à des moments ou des lieux où une erreur potentielle peut facilement être commise. Elles peuvent être classées comme menaces latentes, environnementales ou organisationnelles, selon la manière dont elles se sont manifestées.</li><li><u>Les erreurs</u> sont classées selon l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Elles peuvent donc être classées comme <u>erreurs de pilotage, </u><u>erreurs de procédure</u> ou <u>erreurs de communication</u>, selon les circonstances qui ont conduit à l'erreur. Il s'agit des trois principaux types d'erreurs.</li><li><u>Les états indésirables de l'avion</u> surviennent en raison d'erreurs qui peuvent mettre l'avion dans un état où il ne devrait pas être, une attitude ou un emplacement indésirable, un manque de carburant, etc. Il s'agit d'une conséquence, mais si la menace et l'erreur de suivi n'ont pas déjà été détectées par l'équipage de conduite, alors l'état indésirable de l'avion est le moment où l'équipage de conduite doit se rendre compte qu'il y a un problème et prendre des mesures pour revenir à des opérations sûres.</li></ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Prenons l'exemple du modèle de gestion des menaces et des erreurs (TEM). Un équipage de conduite est confronté à un état indésirable de l'aéronef (UAS). La meilleure solution consiste à ",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Prendre des contre-mesures immédiates pour revenir à un état de fonctionnement normal.",
+                "correct": true
+            },
+            {
+                "text": "Continuez avec la configuration actuelle et déposez un rapport de sécurité à l'atterrissage.",
+                "correct": false
+            },
+            {
+                "text": "Continuer avec la configuration actuelle en tant que UAS n'est pas une issue et donc la sécurité du vol reste inchangée.",
+                "correct": false
+            },
+            {
+                "text": "Contactez l'opérateur et demandez-lui de pratiquer cette situation spécifique lors de la prochaine session de formation.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le modèle TEM définit les états indésirables de l'aéronef (UAS) comme une position, une condition ou une attitude de l'aéronef <strong>réduisant clairement la marge de sécurité</strong> et résultant du comportement (actions ou inactions) de l'équipage. Afin d'éviter que la séquence d'événements ne conduise à un accident, l'équipage doit gérer les états indésirables de l'aéronef.</p><p>Tous les équipages de conduite DOIVENT employer des contre-mesures afin d'empêcher les menaces, les erreurs et les états indésirables de l'avion de réduire les marges de sécurité dans les opérations de vol.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Les systèmes GPWS et les SOP sont des exemples de quel type de contre-mesures dans le modèle de gestion des menaces et des erreurs (TEM) ",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Systémqiue",
+                "correct": true
+            },
+            {
+                "text": "Basé sur le Liveware",
+                "correct": false
+            },
+            {
+                "text": "Basé sur l'automatisation",
+                "correct": false
+            },
+            {
+                "text": "Basé sur le matériel",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui permet de comprendre, d'un point de vue opérationnel, l'interrelation entre sécurité et performance humaine dans des contextes opérationnels dynamiques et exigeants. Il repose sur trois composantes : les menaces, les erreurs et les états indésirables des aéronefs.</p><p><u>Les menaces</u> constituent la première ligne de défense et se situent à des moments ou des lieux où une erreur potentielle peut facilement être commise. Elles peuvent être classées comme menaces latentes, environnementales ou organisationnelles, selon la manière dont elles se sont manifestées.</p><p><u>Les erreurs</u> sont classées selon l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Elles peuvent donc être classées comme <u>erreurs de pilotage, </u><u>erreurs de procédure</u> ou <u>erreurs de communication</u>, selon les circonstances qui ont conduit à l'erreur. Il s'agit des trois principaux types d'erreurs.</p><p><u>Les états indésirables de l'avion</u> se produisent en raison d'erreurs qui peuvent se produire et qui peuvent mettre l'avion dans un état où il ne devrait pas être, une attitude indésirable, un emplacement indésirable, un manque de carburant, etc. Il s'agit d'une conséquence, mais si la menace et l'erreur de suivi n'ont pas déjà été détectées par l'équipage de conduite, alors l'état indésirable de l'avion est le moment où l'équipage de conduite doit se rendre compte qu'il y a un problème et prendre des mesures pour revenir à des opérations sûres.</p><p>Il existe des contre-mesures pouvant être mises en place pour faciliter la gestion des menaces et des erreurs, la plus importante étant probablement l'ensemble des <strong>contre-mesures systémiques</strong> mises en place par tous les opérateurs. Il s'agit <u>d'éléments du système</u> créés ou développés spécifiquement pour faciliter la gestion des menaces et des erreurs (TEM) et les procédures de sécurité. Il peut s'agir, par exemple :</p><ul><li>Systèmes anticollision embarqués (ACAS/TCAS)</li><li><strong>Systèmes d'alerte de proximité du sol (GPWS)</strong></li><li><strong>Procédures opérationnelles standard (SOP)</strong></li><li>Formation TEM (formation CRM également)</li><li>Briefings</li><li>Listes de contrôle</li></ul><p>Tous ces éléments favorisent et aident le TEM car ils offrent à l'équipage de conduite <u>davantage d'opportunités de remarquer les menaces, les erreurs et les états indésirables de l'avion</u>, ainsi que de bons <u>outils pour atténuer ces erreurs et sortir des états indésirables</u>.</p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Laquelle des situations suivantes peut être classée comme une menace latente pour l'équipage de conduite ",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Un problème de conception d'équipement",
+                "correct": true
+            },
+            {
+                "text": "Arrivée dans un aéroport connu et encombré",
+                "correct": false
+            },
+            {
+                "text": "Un dysfonctionnement d'un avion en vol",
+                "correct": false
+            },
+            {
+                "text": "Un orage prévu",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><strong>EASA PART FCL</strong><br><strong>Principes de gestion des menaces et des erreurs (TEM)</strong></p><p>1. MODÈLE TEM<br>1.2 Menaces<br>La première composante du modèle TEM est la menace. Les menaces sont des événements indépendants de la volonté de l'équipage, qui accroissent la complexité opérationnelle et doivent être gérés afin de préserver les marges de sécurité.<br>Le modèle TEM considère trois catégories de menaces : anticipées, imprévues et latentes, qui peuvent toutes nuire aux opérations aériennes en réduisant les marges de sécurité.<br>(...)</p><p><strong>Latent</strong></p><p>Enfin, certaines menaces peuvent ne pas être directement évidentes ou observables par les équipages immergés dans les opérations aériennes, et peuvent nécessiter d'être décelées par une analyse de sécurité. Ces menaces sont considérées comme latentes et peuvent inclure des faiblesses organisationnelles et l'état psychologique du pilote, telles que :</p><ul><li>Culture organisationnelle/changements;</li><li>Documentation incorrecte/incomplète ;</li><li><strong><u>Problèmes de conception des équipements ;</u></strong></li><li>Pressions/retards opérationnels ;</li><li>Illusions d'optique;</li><li>Fatigue/affectation;</li><li>Stresser;</li><li>Complaisance;</li><li>Trop ou pas assez de confiance;</li><li>Manque d'expérience et de compétence récentes</li></ul><p><em>Que les menaces soient anticipées, imprévues ou latentes, une mesure de l'efficacité de la capacité d'un équipage de conduite à gérer les menaces est de savoir si les menaces sont détectées suffisamment rapidement pour permettre à l'équipage de conduite d'y répondre avant qu'un UAS ne se développe en prenant les mesures appropriées</em></p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "En quoi le modèle SHELL est-il pertinent pour le travail dans le cockpit ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Il permet d'identifier les sources d'erreur possibles et d'éliminer les causes possibles d'erreur dans l'exécution des tâches de vol",
+                "correct": true
+            },
+            {
+                "text": "L'interface Liveware-Environment fait référence à l'environnement de l'avion et l'équipage utilise des procédures opérationnelles standard pour y fonctionner.",
+                "correct": false
+            },
+            {
+                "text": "L'interface Software-Liveware fait uniquement référence à l'automatisation du cockpit, ce qui peut être une source d'erreur lorsque l'équipage de conduite n'a pas une connaissance suffisante des systèmes informatiques.",
+                "correct": false
+            },
+            {
+                "text": "L'interface matériel-Liveware répond à la capacité de l'équipage à s'adapter à l'environnement physique, comme les sièges, le placement des commandes de l'avion et la qualité de l'air.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    },
+     {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "En quoi consiste la gestion des menaces et des erreurs (TEM) ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Menaces, erreurs et états indésirables des aéronefs.",
+                "correct": true
+            },
+            {
+                "text": "Prévention des erreurs, des incidents et des accidents.",
+                "correct": false
+            },
+            {
+                "text": "Prévention des erreurs, des incidents et des accidents.",
+                "correct": false
+            },
+            {
+                "text": "Menaces, état des aéronefs et des normes opérationnelles",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le modèle TEM (Threats and Errors Management) est un concept de sécurité aérienne qui définit <strong><u>les menaces, les erreurs et les états indésirables des aéronefs</u></strong><u>,</u> et propose des contre-mesures pour ces <strong><u>trois composantes</u>.</strong> Selon ce modèle, certaines menaces dans l'aviation peuvent entraîner des erreurs humaines, lesquelles peuvent également engendrer des états indésirables des aéronefs.</p><ul><li>Si les menaces sont éliminées, les erreurs seront minimisées.</li><li>Si des erreurs sont détectées, les états indésirables de l'avion seront également minimisés.</li></ul>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "Un avion biplace est autorisé à prendre le cap 180. Le copilote, aux commandes, place le bouton de cap sur 190. Le commandant de bord, en tant que pilote de surveillance, remarque immédiatement le dérapage et le signale au copilote, qui corrige le réglage. Quelle contre-mesure le commandant de bord a-t-il appliquée ?",
+        "annexe": "",
+        "options": [
+            {
+                "text": "Revoir les contre-mesures",
+                "correct": true
+            },
+            {
+                "text": "Planification d'une contre-mesure.",
+                "correct": false
+            },
+            {
+                "text": "Contre-mesure d'exécution.",
+                "correct": false
+            },
+            {
+                "text": "Contre-mesure systémique",
+                "correct": false
+            }
+        ],
+        "explanation": "<p><strong>RÈGLEMENT DE L'AESA SUR LE PERSONNEL NAVIGANT</strong><br><em>Contre-mesures directement liées à la contribution humaine à la sécurité des opérations aériennes :</em><br>il s'agit de stratégies et tactiques personnelles, ainsi que de contre-mesures individuelles et collectives, qui incluent généralement des compétences, des connaissances et des attitudes acquises lors de formations en performance humaine, notamment en CRM. Il existe essentiellement trois catégories de contre-mesures individuelles et collectives :</p><ul><li><u>Planification des contre-mesures</u> : essentielle pour gérer les menaces anticipées et inattendues ;</li><li><u>Contre-mesures d'exécution</u> : essentielles pour la détection et la réponse aux erreurs ;</li><li><u>Revoir les contre-mesures</u> : essentielles pour gérer les conditions changeantes d'un vol.</li></ul><p><em><strong>Planification des contre-mesures</strong></em></p><table><tbody><tr><td>Briefing sur les SOP</td><td>Le briefing requis était interactif et opérationnel complet</td><td>(A) Concis, pas précipité et conforme aux exigences des procédures opérationnelles standard (SOP) ;<br>(B) Les lignes de fond ont été établies</td></tr><tr><td>Plans énoncés</td><td>Les plans et décisions opérationnels ont été communiqués et reconnus</td><td>Compréhension partagée des plans : « Tout le monde est sur la même longueur d'onde »</td></tr><tr><td>Répartition de la charge de travail</td><td>Les rôles et responsabilités ont été définis pour les situations normales et non normales</td><td>Les attributions de charge de travail ont été communiquées et reconnues</td></tr><tr><td>Gestion des imprévus</td><td>Les membres de l'équipage ont développé des stratégies efficaces pour gérer les menaces à la sécurité</td><td>(A) Les menaces et leurs conséquences ont été anticipées ;<br>(B) Toutes les ressources disponibles ont été utilisées pour gérer les menaces</td></tr></tbody></table><p><em><strong>Contre-mesures d'exécution</strong></em></p><table><tbody><tr><td>Surveiller et vérifier</td><td>Les membres de l'équipage ont surveillé et vérifié activement les systèmes et les autres membres de l'équipage</td><td>La position de l'avion, les réglages et les actions de l'équipage ont été vérifiés</td></tr><tr><td>Gestion de la charge de travail</td><td>Les tâches opérationnelles ont été priorisées et correctement gérées pour assurer les principales tâches de vol</td><td>(A) Éviter la fixation sur la tâche ;<br>(B) Ne pas autoriser la surcharge de travail</td></tr><tr><td>Gestion de l'automatisation</td><td>L'automatisation a été correctement gérée pour équilibrer les exigences situationnelles et de charge de travail</td><td>(A) La configuration de l'automatisation a été présentée aux autres membres<br>(B) Techniques de récupération efficaces des anomalies d'automatisation</td></tr></tbody></table><p><em><strong>Examiner les contre-mesures</strong></em></p><table><tbody><tr><td>Évaluation et modification des plans</td><td>Les plans existants ont été révisés et modifiés si nécessaire</td><td>Les décisions et les actions de l'équipage ont été analysées ouvertement pour s'assurer que le plan existant était le meilleur plan</td></tr><tr><td>Enquête</td><td>Les membres de l'équipage ont posé des questions pour enquêter et/ou clarifier les plans d'action actuels</td><td>Les membres d'équipage n'ont pas peur d'exprimer leur manque de connaissances : « Rien n'est acquis »</td></tr><tr><td>Assurance</td><td>Les membres de l'équipage ont indiqué des informations ou des solutions critiques avec la persistance appropriée</td><td>Les membres de l'équipage ont pris la parole sans hésitation</td></tr></tbody></table><p><em><strong>Tableau 4. Exemples de contre-mesures individuelles et collectives</strong></em></p>"
+    },
+    {
+        "id": "TBD",
+        "subtopic": "040-01-03",
+        "database": "",
+        "question": "<p>Un avion décolle d'un grand aéroport. Conformément au briefing pré-vol, le commandant de bord exécute la procédure de départ et le copilote surveille la vitesse, le niveau et les communications. Après le départ, distrait par les transmissions du contrôle aérien, le copilote rentre les volets sans remarquer que la vitesse est inférieure à celle requise pour la rentrée des volets. Tout en répondant à l'avertissement de vitesse qui suit, le commandant de bord laisse l'avion monter au-dessus de son altitude autorisée.</p><p>Quels sont les types d'erreurs illustrés dans ce scénario ?</p><ul><li>1. Erreur de communication : Le copilote n'informe pas le commandant de bord de la vitesse avant de rentrer les volets.</li><li>2. Erreur de communication : Le copilote n'informe pas le commandant de bord de l'écart d'altitude</li><li>3. Erreur de pilotage : Le commandant de bord ne contrôle ni la vitesse ni le taux de montée</li><li>4. Erreur de procédure : Le copilote ne surveille ni la vitesse ni l'altitude</li><li>5. Erreur de procédure : Le commandant de bord n'atteint pas la vitesse de rentrée des volets correcte.</li><li>6. Erreur de procédure : Le commandant de bord et le copilote ne parviennent pas à mettre l'avion à l'horizontale à l'altitude autorisée.</li></ul>",
+        "annexe": "",
+        "options": [
+            {
+                "text": "3 et 4.",
+                "correct": true
+            },
+            {
+                "text": "2, 5 et 6.",
+                "correct": false
+            },
+            {
+                "text": "1, 4 et 5.",
+                "correct": false
+            },
+            {
+                "text": "1, 2, 3 et 5.",
+                "correct": false
+            }
+        ],
+        "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+    }
+
 ]
