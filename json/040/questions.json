@@ -648,5 +648,494 @@
       }
     ],
     "explanation": "<p>Le <u>modèle de gestion des menaces et des erreurs (TEM)</u> est un cadre conceptuel qui aide à comprendre, d'un point de vue opérationnel, l'interrelation entre la sécurité et la performance humaine dans des contextes opérationnels dynamiques et difficiles.</p> <p>Le modèle TEM classe les erreurs en fonction de l'interaction principale du pilote ou de l'équipage au moment où elles sont commises. Ainsi, pour être qualifiée d'<strong>erreur de pilotage</strong>, le pilote ou l'équipage doit interagir avec l'avion (par exemple, via ses commandes, ses automatismes ou ses systèmes). Pour être qualifiée d'<strong>erreur de procédure</strong>, le pilote ou l'équipage doit interagir avec une procédure (par exemple, listes de contrôle, SOP, etc.). Pour être qualifiée d'<strong>erreur de communication</strong>, le pilote ou l'équipage doit interagir avec des personnes (contrôleur aérien, personnel au sol, autres membres d'équipage, etc.).</p> <table> <tbody> <tr> <td><strong>Erreurs de pilotage des aéronefs</strong></td> <td> <ul> <li><u>Manipulation manuelle/commandes de vol</u> : écarts verticaux/latéraux et/ou de vitesse, réglages incorrects des volets/aérofreins, de l'inverseur de poussée ou de la puissance.</li> <li><u>Automatisation</u> : altitude, vitesse, cap, réglages de l'automanette incorrects, mode exécuté incorrect ou entrées incorrectes.</li> <li><u>Systèmes/radio/instruments</u> : packs incorrects, antigivrage incorrect, altimètre incorrect, réglages incorrects des commutateurs de carburant, bug de vitesse incorrect, fréquence radio incorrecte composée.</li> <li><u>Navigation au sol</u> : tentative de virage sur la mauvaise voie de circulation/piste, roulage trop rapide, incapacité à attendre à l'écart, voie de circulation/piste manquée.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de procédure</strong></td> <td> <ul> <li><u>SOP</u> : échec de vérification croisée des entrées d'automatisation.</li> <li><u>Listes de contrôle</u> : défi et réponse erronés ; éléments manqués, liste de contrôle exécutée en retard ou au mauvais moment.</li> <li><u>Légendes</u> : légendes omises/incorrectes</li> <li><u>Briefings</u> : briefings omis ; éléments manqués.</li> <li><u>Documentation</u> : poids et centrage erronés, informations sur le carburant, ATIS ou informations d'autorisation enregistrées, éléments mal interprétés sur les documents, entrées incorrectes dans le journal de bord, application incorrecte des procédures MEL.</li> </ul> </td> </tr> <tr> <td><strong>Erreurs de communication</strong></td> <td> <ul> <li><u>Équipage vers l'extérieur</u> : appels manqués, mauvaises interprétations des consignes, relecture incorrecte, mauvaise autorisation, voie de circulation, porte ou piste communiquée.</li> <li><u>Pilote à pilote</u> : mauvaise communication ou mauvaise interprétation au sein de l'équipage</li> </ul> </td> </tr> </tbody> </table> <ul> <li><strong>Dans ce cas</strong>, le <u>commandant de bord</u> a commis une <u>erreur de pilotage</u> en laissant la vitesse dépasser la vitesse requise, probablement en saisissant une vitesse incorrecte dans le MCP. Le <u>copilote</u>, quant à lui, dont la tâche consistait à surveiller l'altitude et la vitesse, a commis une <u>erreur de procédure</u> (<u>SOP</u> : absence de contre-vérification des entrées d'automatisation, voire omission ou erreur d'annonce).</li> </ul>"
+  },{
+    "id": "TBD-1",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Les pilotes commettent une erreur de procédure pendant le vol et n'en parlent ni pendant ni après le vol. C'est typique pour.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "culture ouverte.",
+        "correct": false
+      },
+      {
+        "text": "culture fermée.",
+        "correct": true
+      },
+      {
+        "text": "culture non punitive.",
+        "correct": false
+      },
+      {
+        "text": "culture du reporting.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-2",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Quelle affirmation décrit une politique de « sécurité avant tout » ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Les questions de sécurité doivent être discutées uniquement au sein des services concernés afin d'éviter de consommer des ressources inutiles.",
+        "correct": false
+      },
+      {
+        "text": "Tout le personnel est sensibilisé à sa responsabilité en matière de sécurité.",
+        "correct": true
+      },
+      {
+        "text": "La sécurité est la seule responsabilité du service de sécurité.",
+        "correct": false
+      },
+      {
+        "text": "La sécurité est principalement le résultat de pressions politiques et d'influences extérieures.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-3",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Selon James Reason, une organisation qui collecte et analyse des données pertinentes se rapporte à quelle composante de la culture de sécurité ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Informé",
+        "correct": true
+      },
+      {
+        "text": "Apprentissage",
+        "correct": false
+      },
+      {
+        "text": "Juste",
+        "correct": false
+      },
+      {
+        "text": "Rapports",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-4",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Lequel des facteurs suivants contribue à une culture de sécurité ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "La sécurité étant avant tout une question imposée aux employés par divers systèmes administratifs.",
+        "correct": false
+      },
+      {
+        "text": "Développer la confiance en récompensant les bons employés et en punissant ceux qui font des erreurs.",
+        "correct": false
+      },
+      {
+        "text": "Les plus hauts niveaux de gestion mettent à disposition les ressources nécessaires.",
+        "correct": true
+      },
+      {
+        "text": "Encourager les employés à signaler les erreurs tout en prenant un minimum de mesures correctives.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-6",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Qu'est-ce qui est vrai à propos d’une culture ouverte ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'équipage peut discuter et se plaindre ouvertement de son salaire.",
+        "correct": false
+      },
+      {
+        "text": "L'organisation évite toute influence gouvernementale ou externe pour améliorer la sécurité.",
+        "correct": false
+      },
+      {
+        "text": "Tous les niveaux d’une organisation jouent un rôle actif dans l'amélioration de la sécurité.",
+        "correct": true
+      },
+      {
+        "text": "Les incidents sont communiqués avec les noms des personnes impliquées.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-7",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Quelle composante d’une culture de sécurité rend la gestion des risques plus efficace ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Culture réactive",
+        "correct": false
+      },
+      {
+        "text": "La culture du non-blâme",
+        "correct": false
+      },
+      {
+        "text": "Culture informée",
+        "correct": true
+      },
+      {
+        "text": "La culture de la justification",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-9",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Quelle est l’affirmation correcte concernant les erreurs pour une culture de sécurité efficace ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Ceux qui commettent des erreurs doivent être sévèrement punis.",
+        "correct": false
+      },
+      {
+        "text": "Les erreurs doivent être imputées à des facteurs externes échappant au contrôle de l'individu.",
+        "correct": false
+      },
+      {
+        "text": "Les erreurs doivent être discutées ouvertement.",
+        "correct": true
+      },
+      {
+        "text": "Les erreurs doivent être ignorées et non traitées.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-11",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Évaluer ce qui est possible de réaliser dans l'aviation commerciale en matière de sécurité des vols.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le risque doit être reconnu et considéré comme inévitable dans l'aviation commerciale.",
+        "correct": false
+      },
+      {
+        "text": "Dans l'aviation commerciale, les risques doivent être réduits autant que possible.",
+        "correct": false
+      },
+      {
+        "text": "Le risque doit être réduit autant que possible sur le plan commercial.",
+        "correct": true
+      },
+      {
+        "text": "Le risque doit être éliminé autant que possible.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-12",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "L'un des principaux composants d'un SMS est :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Gestion des menaces et des erreurs.",
+        "correct": false
+      },
+      {
+        "text": "Assurance qualité.",
+        "correct": false
+      },
+      {
+        "text": "Contrôle de qualité.",
+        "correct": false
+      },
+      {
+        "text": "Gestion des risques de sécurité.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-13",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Un copilote a oublié d'activer l'antigivrage avant d'atteindre des conditions givrantes. Le commandant de bord s'en rend compte et le réprimande. Par la suite, il n'y a aucune discussion sur l'incident. Quel type de culture le commandant de bord incarne-t-il ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Une culture fermée.",
+        "correct": true
+      },
+      {
+        "text": "Une culture punitive.",
+        "correct": false
+      },
+      {
+        "text": "Une culture démocratique.",
+        "correct": false
+      },
+      {
+        "text": "Une culture du reporting.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-14",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Dans une entreprise, une culture de sécurité s'instaure là où une personne commettant\nune erreur involontaire n'est pas poursuivie en justice, mais où les violations intentionnelles ou les comportements négligents ne sont pas tolérés. Cette culture de sécurité s'appelle",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Culture juste",
+        "correct": true
+      },
+      {
+        "text": "Culture ouverte",
+        "correct": false
+      },
+      {
+        "text": "Culture flexible",
+        "correct": false
+      },
+      {
+        "text": "Culture non punitive",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-17",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Le système de gestion des risques liés à la fatigue (SGRF) est un outil de surveillance et de gestion continue des risques liés à la fatigue, basé sur des données et des connaissances scientifiques, ainsi que sur l'expérience opérationnelle. Il vise à garantir que le personnel concerné conserve un niveau de vigilance adéquat. Quel type de culture de sécurité est instauré dans une entreprise utilisant un SGRF ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Culture fermée.",
+        "correct": false
+      },
+      {
+        "text": "Culture non punitive.",
+        "correct": false
+      },
+      {
+        "text": "La culture de l'apprentissage.",
+        "correct": true
+      },
+      {
+        "text": "Anti-autorité.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-19",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Considérant un environnement typique de l'aviation civile, que peut-on dire de l'affirmation suivante ? \n « La culture de sécurité est relativement durable, stable et résistante au changement. »",
+    "annexe": "",
+    "options": [
+      {
+        "text": "C'est vrai.",
+        "correct": true
+      },
+      {
+        "text": "Ni vrai ni faux. Les caractéristiques des cultures de sécurité varient considérablement selon les organisations et dépendent de nombreux facteurs. Dans de nombreuses organisations, la culture de sécurité peut être stable et\nrésistante au changement, tandis que dans d'autres, elle peut être relativement\ninstable et non résistante au changement.",
+        "correct": false
+      },
+      {
+        "text": "Ni vrai ni faux. La culture de sécurité n'a rien à voir avec l'aviation, car elle est toujours définie principalement par les attitudes généralement dominantes dans une région géographique ou un pays spécifique.",
+        "correct": false
+      },
+      {
+        "text": "C'est faux.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-5",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Dans une organisation où une bonne culture de sécurité prédomine, la responsabilité incombe en grande partie à. ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "individus.",
+        "correct": false
+      },
+      {
+        "text": "les membres du conseil d'administration.",
+        "correct": false
+      },
+      {
+        "text": "actionnaires.",
+        "correct": false
+      },
+      {
+        "text": "gestion.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-8",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Une compagnie aérienne avec une culture de sécurité « non punitive » signifie :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "La responsabilité des erreurs incombe à la direction de l'entreprise qui n'encourage pas une culture de sécurité.",
+        "correct": false
+      },
+      {
+        "text": "Punir un pilote après une erreur ou un dérapage, afin de l'inciter à signaler l'incident.",
+        "correct": false
+      },
+      {
+        "text": "Les erreurs et les actes dangereux ne sont pas sanctionnés s'ils sont commis involontairement. En revanche, ceux qui agissent avec imprudence ou prennent délibérément des risques injustifiés s'exposent à des sanctions disciplinaires.   Après qu'un pilote aît fait une erreur, il ne devrait PAS être blâämé ou puni.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-10",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Dans le modèle du fromage suisse, que représentent les trous ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Données manquantes dans le système de gestion des risques.",
+        "correct": false
+      },
+      {
+        "text": "Systèmes ou processus conçus pour prévenir les dommages",
+        "correct": false
+      },
+      {
+        "text": "Systèmes ou processus mis en place pour réduire les risques.",
+        "correct": false
+      },
+      {
+        "text": "Erreurs dans le système ou le processus.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-15",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "La culture de sécurité est… ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "PAS un sous-ensemble de la culture nationale.",
+        "correct": false
+      },
+      {
+        "text": "considérée comme indépendante de la culture nationale.",
+        "correct": false
+      },
+      {
+        "text": "PAS un produit de la culture nationale.",
+        "correct": false
+      },
+      {
+        "text": "considéré comme un sous-ensemble de la culture nationale.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-16",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "Quelle culture de sécurité serait la mieux adaptée à une entreprise utilisant un système de gestion des risques liés à la fatigue (FRMS) ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Culture fermée.",
+        "correct": false
+      },
+      {
+        "text": "Culture réactive.",
+        "correct": false
+      },
+      {
+        "text": "Culture non punitive.",
+        "correct": false
+      },
+      {
+        "text": "Culture de l'apprentissage.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "TBD-18",
+    "subtopic": "040-01-04",
+    "database": "",
+    "question": "L'exploitant d'un aéronef prend des mesures disciplinaires contre le commandant de bord, affirmant qu'il a enfreint les procédures d'exploitation établies en atterrissant avec une quantité insuffisante de carburant à bord. Le commandant de bord peut démontrer de manière plausible qu'il a commis une erreur uniquement lors de la consignation de la masse de carburant dans le carnet de bord technique après le vol, alors que la quantité réelle de carburant à bord après l'atterrissage était largement inférieure aux limites opérationnelles. L'exploitant décide de suspendre le pilote de ses fonctions pour dix jours. Laquelle des affirmations suivantes est correcte en ce qui concerne la culture de sécurité de l'opérateur ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Dans un environnement de « culture juste », punir un employé pour avoir commis une erreur est un exemple de mauvaise gestion ; les erreurs et les violations ne doivent pas être punies afin de promouvoir un climat de confiance.",
+        "correct": false
+      },
+      {
+        "text": "L'exploitant fait preuve d'une préoccupation suffisante pour la sécurité et considère toute négligence comme inacceptable. Cette négligence témoigne d'une méconnaissance des risques et des dangers, réduisant probablement la marge de sécurité en vol.",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur n'applique pas le principe de culture juste visant à favoriser la confiance et la collaboration. Un tel écart involontaire doit être signalé et discuté   L'opérateur n'applique pas le principe de « culture juste » visant à favoriser la afin d'éviter qu'il ne se reproduise ; il ne doit pas être sanctionné.",
+        "correct": true
+      },
+      {
+        "text": "L'opérateur applique efficacement le principe de « culture juste » en sanctionnant équitablement les comportements négligents comme une forme de contrôle positif. Cela peut inciter les employés à être plus prudents avant d'agir et à mieux sensibiliser aux risques.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
   }
 ]
