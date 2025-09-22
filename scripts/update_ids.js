@@ -42,7 +42,7 @@ async function updateQuestionIds(filePath) {
         
         const updatedQuestions = questions.map(q => {
             // Validation des propriétés requises
-            if (!q.database || !q.subtopic) {
+            if (!q.subtopic) {
                 console.warn(`⚠️  Question manquante database/subtopic dans ${filePath}:`, q);
                 return q;
             }
