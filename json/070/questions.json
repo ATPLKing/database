@@ -1,7 +1,7 @@
 [
   {
     "id": "0700001",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "Un avion a volé avec l'un de ses deux transpondeurs défectueux, et la panne a été reportée conformément à la MEL. Lors d'une rotation de 30 minutes, un ingénieur remplace le transpondeur défectueux par un neuf. Avant d'entreprendre le prochain vol commercial, que doit vérifier le commandant de bord ?",
     "annexe": "",
@@ -27,7 +27,7 @@
   },
   {
     "id": "0700002",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "L'Annexe 6 de l'OACI décrit le contenu associé à la réalisation d’une certification après maintenance. L'objectif de la certification après maintenance d'un aéronef est…",
     "annexe": "",
@@ -53,7 +53,7 @@
   },
   {
     "id": "0700003",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "Un capot d'avion doit être réparé. La fiche de maintenance a été signée et complétée, avec la date et le détail des travaux effectués. Les travaux n'ont pas encore commencé, mais un ingénieur arrive finalement pour terminer la réparation. Le vol peut-il commencer ?",
     "annexe": "",
@@ -79,7 +79,7 @@
   },
   {
     "id": "0700004",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "Considérez l'Annexe 6 de l'OACI concernant la gestion des données de vol. En cas de problème, qui est chargé d'en informer les responsables concernés ?",
     "annexe": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": "0700005",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "Conformément à l'Annexe 6 de l'OACI, que doit établir l'exploitant à l'usage et à l'orientation du personnel opérationnel, dans le cadre de son système de gestion de la sécurité ?",
     "annexe": "",
@@ -131,7 +131,7 @@
   },
   {
     "id": "0700006",
-    "subtopic": "070-01-01",
+    "subtopic": "071-01-01",
     "database": "",
     "question": "Conformément à l'Annexe 6 de l'OACI, un programme d'analyse des données de vol doit contenir des garanties adéquates pour protéger (1) _____ conformément à (2) _____.",
     "annexe": "",
@@ -157,7 +157,7 @@
   },
   {
     "id": "0700007",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "La durée du vol a été prolongée à 9 heures. Si l'équipage est absent de sa base\nd'attache, quand le prochain vol peut-il commencer ?",
     "annexe": "",
@@ -183,7 +183,7 @@
   },
   {
     "id": "0700008",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable du programme de surveillance des données de vol (FDM) ?",
     "annexe": "",
@@ -209,7 +209,7 @@
   },
   {
     "id": "0700009",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément aux exigences opérationnelles applicables, dans quelles circonstances un avion devrait-il être équipé d’un transpondeur SSR signalant l’altitude-pression ?",
     "annexe": "",
@@ -235,7 +235,7 @@
   },
   {
     "id": "0700010",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Avant de faire le plein, les précautions à prendre en cas d'incendie sont les suivantes.",
     "annexe": "",
@@ -261,7 +261,7 @@
   },
   {
     "id": "0700011",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Les aspects pertinents et les tâches spécialisées que les pilotes doivent démontrer lors de leurs contrôles de compétence d'opérateur (OPC) sont décrits dans le.",
     "annexe": "",
@@ -287,7 +287,7 @@
   },
   {
     "id": "0700012",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant effectue des vols réguliers CAT en Allemagne avec un équipage titulaire de\nlicences Part-FCL délivrées par la France, des attestations délivrées par la Suède pour le\npersonnel de cabine et un siège social en Italie. Conformément à la réglementation OPS, quel État membre doit désigner l'autorité compétente chargée de la supervision de cette opération ?",
     "annexe": "",
@@ -313,7 +313,7 @@
   },
   {
     "id": "0700013",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pourquoi un pilote pourrait-il être obligé de suivre une formation de familiarisation ? 1. Pour exploiter un autre aéronef du même type 2. Pour passer à une classe d'aéronef différente 3. Lors de l'introduction d'un changement important d'équipement et/ou de procédures sur les types ou variantes actuellement exploités 4. Lorsque des modifications mineures d'équipement sont introduites sur l'aéronef normalement utilisé",
     "annexe": "",
@@ -339,7 +339,7 @@
   },
   {
     "id": "0700014",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément à la réglementation OPS, qui est responsable de l'établissement des minima opérationnels d'aérodrome, y compris les approches de non-précision, pour chaque aérodrome prévu pour être utilisé à des fins commerciales ?",
     "annexe": "",
@@ -365,7 +365,7 @@
   },
   {
     "id": "0700015",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Quels critères doivent être respectés pour les pilotes d'hélicoptères pilotant des hélicoptères multimoteurs dont les fonctions nécessitent qu'ils opèrent sur l'un ou l'autre des sièges pilotes ? Si deux contrôles de compétence d'opérateur consécutifs sont effectués depuis le même siège, le pilote doit effectuer au moins depuis le siège de l'autre pilote : 1. une panne de moteur au décollage 2. une panne de moteur pendant la descente 3. une approche et une remise des gaz avec un moteur en panne 4. un atterrissage avec un moteur en panne 5. une panne de moteur pendant la croisière Sélectionnez la combinaison qui comprend toutes les bonnes réponses.",
     "annexe": "",
@@ -391,7 +391,7 @@
   },
   {
     "id": "0700016",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant sous-traite des activités à une autre organisation. Quel que soit le statut d'agrément de l'organisation sous-traitée, conformément aux exigences opérationnelles applicables, qui est responsable de garantir que les activités sous-traitées sont soumises à l'identification des dangers et à la gestion des risques ?",
     "annexe": "",
@@ -417,7 +417,7 @@
   },
   {
     "id": "0700017",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Complétez la phrase suivante : La durée de validité d’un contrôle de ligne est de 12 mois calendaires à compter du…",
     "annexe": "",
@@ -443,7 +443,7 @@
   },
   {
     "id": "0700018",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un hélicoptère effectuant des opérations offshore de classe de performance 3 avec 12 personnes à bord se trouve à plus de 3 minutes de la terre à vitesse de croisière normale. Quel est le nombre minimal de radeaux de levage requis ?",
     "annexe": "",
@@ -469,7 +469,7 @@
   },
   {
     "id": "0700019",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "La phase visuelle d'une approche aux instruments pour amener un aéronef en position d'atterrissage sur une piste/FATO qui n'est pas située de manière appropriée pour une approche directe est la définition de.",
     "annexe": "",
@@ -495,7 +495,7 @@
   },
   {
     "id": "0700020",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un avion non pressurisé équipé de 12 sièges passagers est conçu pour voler par tous les temps, de jour comme de nuit. Un radar météorologique embarqué (AWR) est-il nécessaire ?",
     "annexe": "",
@@ -521,7 +521,7 @@
   },
   {
     "id": "0700021",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lors de la rotation et avant l'embarquement, l'équipage est informé que l'un des passagers est un passager non autorisé sans escorte, arrivé plus tôt le même jour sur un vol du même opérateur. Cette personne doit être renvoyée dans son pays de départ, qui est la destination du vol. L'équipage en est informé avant l'embarquement. Pourquoi ?",
     "annexe": "",
@@ -547,7 +547,7 @@
   },
   {
     "id": "0700022",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Vous venez de réussir votre formation initiale et votre contrôle de compétence en ligne auprès d'un opérateur, et ce n'est que votre sixième vol en tant que pilote inexpérimenté. Lors du briefing, vous réalisez que le commandant de bord avec qui vous devez voler vient également d'obtenir sa mise à niveau de commandement, et ce n'est que son troisième vol. Pouvez-vous voler ensemble ?",
     "annexe": "",
@@ -573,7 +573,7 @@
   },
   {
     "id": "0700023",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Une entreprise emploie 25 équivalents temps plein (ETP), tous opérationnels. Conformément à la réglementation européenne et à ses modalités d'application relatives aux systèmes de gestion opérationnelle, une telle organisation est considérée comme.",
     "annexe": "",
@@ -599,7 +599,7 @@
   },
   {
     "id": "0700024",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Après un vol commercial, l'équipage attend ses bagages près du tapis à bagages. Leurs\nbagages de soute sont livrés en dernier, lorsque tous les passagers sont déjà partis. L'équipage remarque qu'un bagage reste sur le tapis et n'a PAS été récupéré. Selon l'Annexe 17 de l'OACI et pour des raisons de sécurité, la définition d'un tel bagage serait :",
     "annexe": "",
@@ -625,7 +625,7 @@
   },
   {
     "id": "0700025",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Dans le cas d'un vol en provenance d'Italie (base de l'opérateur) vers la Tunisie, qui a la responsabilité de s'assurer que l'équipage est informé et respecte les lois et règlements des pays où se déroulent les opérations ?",
     "annexe": "",
@@ -651,7 +651,7 @@
   },
   {
     "id": "0700026",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Le Règlement européen sur les opérations aériennes stipule que pour les opérations en\nIFR ou en VFR sur des routes non navigables par référence à des repères visuels, des\nsystèmes VOR ou ADF supplémentaires sont requis sur toute route, ou partie de route,\noù la navigation est basée sur ces signaux respectifs. Si aucun de ces systèmes n'est\ndisponible, la route peut-elle quand même être empruntée ?",
     "annexe": "",
@@ -677,7 +677,7 @@
   },
   {
     "id": "0700027",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un créneau ATC en route vous a été attribué et vous devez décoller au plus vite. Un ravitaillement en carburant de type Jet A1 est prévu lors de l'embarquement des passagers. Que devez-vous prendre en compte pour la sécurité de cette opération ?",
     "annexe": "",
@@ -703,7 +703,7 @@
   },
   {
     "id": "0700028",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "En ce qui concerne la formation et le contrôle récurrents, quelle est la validité d'un contrôle de compétence ?",
     "annexe": "",
@@ -729,7 +729,7 @@
   },
   {
     "id": "0700029",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "La réglementation OPS précise les exigences auxquelles doit satisfaire un exploitant pour dispenser une formation initiale en gestion des ressources de l'équipage (CRM). Lequel des organismes suivants est autorisé à dispenser cette formation ?",
     "annexe": "",
@@ -755,7 +755,7 @@
   },
   {
     "id": "0700030",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Selon la réglementation de l'OPS, laquelle des définitions suivantes peut être donnée à un environnement hostile ?",
     "annexe": "",
@@ -781,7 +781,7 @@
   },
   {
     "id": "0700031",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un groupe de personnes expulsées est transporté sur un vol commercial. Outre la connaissance par le commandant de leur présence et de leur localisation dans l'avion, et leur escorte par des agents de sécurité, quelles autres mesures doivent être prises ?",
     "annexe": "",
@@ -807,7 +807,7 @@
   },
   {
     "id": "0700032",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable de l'application de la règle selon laquelle les passagers ne doivent pas utiliser d'appareils électroniques portables (AEP) à bord d’un avion pendant le vol ?",
     "annexe": "",
@@ -833,7 +833,7 @@
   },
   {
     "id": "0700033",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un vol effectué par un aéronef immatriculé en Suède effectue des vols intérieurs en Allemagne avec un équipage de nationalité française et un CTA italien. L'État considéré comme l'autorité compétente est…",
     "annexe": "",
@@ -859,7 +859,7 @@
   },
   {
     "id": "0700034",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lequel des éléments suivants doit être pris en compte lors de l'établissement des minima opérationnels d'un aérodrome ? 1. Le type, les performances et les caractéristiques de vol de l'avion 2. La composition, la compétence et l'expérience de l'équipage de conduite 3. Les dimensions et les caractéristiques des pistes/aires d'approche finale et de décollage (FATO) qui peuvent être sélectionnées pour utilisation 4. Les conditions météorologiques au moment de l'approche 5. L'adéquation et les performances des aides au sol visuelles et non visuelles disponibles 6. L'altitude/hauteur de franchissement d'obstacles pour les procédures d'approche aux instruments",
     "annexe": "",
@@ -885,7 +885,7 @@
   },
   {
     "id": "0700035",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "En tant que membre d'équipage, vous devez effectuer votre deuxième contrôle de compétence exploitant le 30 mai. La date d'expiration initiale du contrôle de compétence actuel est le 31 juillet. Conformément à la réglementation EU-OPS, la nouvelle période de validité débutera.",
     "annexe": "",
@@ -911,7 +911,7 @@
   },
   {
     "id": "0700036",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un pilote d'avion suit une formation pour passer du statut de copilote à celui de commandant de bord. Cette formation au commandement comprend de nombreux éléments de formation, dont…",
     "annexe": "",
@@ -937,7 +937,7 @@
   },
   {
     "id": "0700037",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un pilote pilote un avion léger dans un espace aérien contrôlé non européen sans transpondeur SSR. Dans quelle annexe le pilote doit-il trouver des informations sur cette opération ?",
     "annexe": "",
@@ -963,7 +963,7 @@
   },
   {
     "id": "0700038",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable de garantir que les services contractuels ou achetés sont autorisés pour le transport aérien commercial ?",
     "annexe": "",
@@ -989,7 +989,7 @@
   },
   {
     "id": "0700039",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Selon AIR OPS, le décollage ne doit pas commencer.",
     "annexe": "",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "0700040",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Avant d'effectuer des opérations par faible visibilité (LVO), chaque membre d'équipage doit régulièrement suivre une formation pertinente, notamment.",
     "annexe": "",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "0700041",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément aux exigences d'un certificat d'exploitation aérienne (AOC) délivré par un État membre de l'AESA, quand un exploitant d'hélicoptère est-il obligé d'élaborer des procédures visant à minimiser l'impact du bruit des hélicoptères ?",
     "annexe": "",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": "0700042",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pour les opérations de transport aérien commercial, qui établit les minima opérationnels de l'aérodrome/héliport pour chaque départ, destination ou aérodrome/héliport de dégagement dont l’utilisation est prévue ?",
     "annexe": "",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "0700043",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable de s'assurer que les membres d'équipage de conduite sont\ncompétents pour exercer leurs fonctions en se soumettant à un examen psychologique ?",
     "annexe": "",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": "0700044",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Au cours d'une procédure ILS, si la RVR / visibilité signalée est inférieure aux minima applicables, l'approche ne doit pas être poursuivie.",
     "annexe": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "0700045",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "La formation aux différences nécessite.",
     "annexe": "",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "0700046",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pour un opérateur agréé en vertu du règlement de l'UE sur les opérations aériennes, lorsqu'il effectue des opérations par faible visibilité (CAT II, OTS CAT II ou CAT III), tous les appels de hauteur doivent être déterminés par un radioaltimètre pour les hauteurs inférieures.",
     "annexe": "",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "0700047",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pour les opérations de transport aérien commercial, qui approuve la méthode d'établissement des altitudes minimales de vol ?",
     "annexe": "",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "0700048",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un vol IFR de transport aérien commercial sera opéré vers un aéroport classé par l'exploitant comme aérodrome isolé. En quoi ce vol est-il différent des vols vers la plupart des autres aérodromes ?",
     "annexe": "",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": "0700049",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "L'altitude minimale de franchissement d'obstacles (AMOA) est définie à 8 300 pieds. Le relief ou l'obstacle maximal dans la zone d'application de cette AMOA est…",
     "annexe": "",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "0700050",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable de garantir qu’un produit acheté, un service ou une activité sous- traitée sont conformes à la réglementation applicable ?",
     "annexe": "",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": "0700051",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant de CAT exige que des travaux spécialisés (qui relèvent de son agrément) soient réalisés par un prestataire extérieur. Laquelle des options suivantes est correcte ?",
     "annexe": "",
@@ -1327,7 +1327,7 @@
   },
   {
     "id": "0700052",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément au Règlement européen sur les opérations aériennes, les commandants\nde bord du transport aérien commercial dont les fonctions exigent d'être en poste de\npilote et d'exercer les fonctions de copilote, ou les commandants de bord chargés de la\nformation ou du contrôle, doivent suivre une formation et un contrôle supplémentaires,\nconformément au manuel d'exploitation. Cette formation et ce contrôle supplémentaires\ndoivent comprendre au moins les éléments suivants : ",
     "annexe": "",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "0700053",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Les membres d'équipage d'un transporteur aérien commercial doivent effectuer un contrôle de compétence en ligne dans le cadre de leur formation et de leur contrôle périodiques. Quelle est la durée de validité de ce contrôle ?",
     "annexe": "",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "0700054",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Une approche lorsque tout ou partie d'une procédure d'approche aux instruments n'est pas terminée et que l'approche est exécutée avec une référence visuelle au terrain est la définition de :",
     "annexe": "",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": "0700055",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Au cours d'un cours de mise à niveau de commandant, les tâches suivantes doivent être accomplies : 1. Panne moteur au décollage 2. Panne moteur en croisière 3. Descente avec un moteur en panne 4. Remise des gaz avec un moteur en panne et approche interrompue 5. Atterrissage avec un moteur en panne",
     "annexe": "",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "0700056",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un avion effectue une approche ILS CAT Il et n'est pas équipé d'un affichage tête haute. À la hauteur de la cible, le pilote ne voit que cinq feux d'approche consécutifs. Quelle est la procédure correcte ?",
     "annexe": "",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "0700057",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "L'exploitant est tenu de doter la structure d'un système de suivi de la conformité. Les retours d'information sont adressés à.",
     "annexe": "",
@@ -1483,7 +1483,7 @@
   },
   {
     "id": "0700058",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Quelle est la hauteur maximale autorisée des obstacles ou du terrain étant donné que l'altitude minimale de franchissement d'obstacles (MOCA) est de 6 900 pieds ?",
     "annexe": "",
@@ -1509,7 +1509,7 @@
   },
   {
     "id": "0700059",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément à l'ORO.GEN.205, lorsque l'opérateur certifié ou le titulaire de l'autorisation SPO sous-traite une partie de son activité à une organisation qui n'est pas elle-même certifiée ou autorisée à exercer cette activité, l'organisation sous-traitée doit travailler sous l'approbation de.",
     "annexe": "",
@@ -1535,7 +1535,7 @@
   },
   {
     "id": "0700060",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Une personne fait partie d'une organisation et souhaite s'asseoir sur le strapontin. Est- ce autorisé ?",
     "annexe": "",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "0700061",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Où le pilote peut-il trouver des informations sur le fonctionnement d'un type d'avion spécifique ?",
     "annexe": "",
@@ -1587,7 +1587,7 @@
   },
   {
     "id": "0700062",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui est responsable de s'assurer que les membres d'équipage de cabine sont compétents pour exercer leurs fonctions ?",
     "annexe": "",
@@ -1613,7 +1613,7 @@
   },
   {
     "id": "0700063",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pour un itinéraire spécifique dans un autre État, l'exploitant a établi une altitude minimale de sécurité. Cependant, l'État d'exploitation a une altitude minimale de sécurité différente pour le même itinéraire. Quelle altitude minimale de sécurité faut-il utiliser ?",
     "annexe": "",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "0700064",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lorsqu'un hélicoptère vole au-dessus de l'eau, il doit être équipé d'un radioaltimètre qui\német un avertissement sonore en dessous d'une hauteur prédéterminée, ainsi qu'un avertissement visuel à une hauteur que le pilote peut sélectionner : <br>1. Hors de vue de la terre;<br>2. Par visibilité inférieure à 1 500 m;<br>3. Par visibilité inférieure à 5 km;<br>4. Lorsqu'il transporte des passagers;<br>5. De nuit;<br>6. À une distance de la terre correspondant à plus de trois minutes à la vitesse de croisière normale;<br> 7. À une distance de la terre correspondant à plus de deux minutes à la vitesse de croisière normale;",
     "annexe": "",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "0700065",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "La période de 24 heures commence à _____ en heure locale.",
     "annexe": "",
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "0700066",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant doit établir et maintenir un programme de sécurité des vols. Qui peut-il désigner comme responsable de ce programme ? (En supposant que les personnes mentionnées n'exercent aucune autre fonction ou rôle). 1- gestionnaire responsable 2- capitaine de ligne 3- directeur financier 4- directeur général",
     "annexe": "",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "0700067",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "En vertu de la réglementation européenne sur l'aviation civile, relative à la surveillance et à l'application de la loi, qui devrait mener des enquêtes, y compris des inspections au sol, pour empêcher la poursuite d’une infraction ?",
     "annexe": "",
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "0700068",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Dans certains cas, les exploitants peuvent sous-traiter certaines activités à d'autres\norganismes non certifiés ni autorisés à les exercer. Dans ce cas, conformément au Règlement européen sur les opérations aériennes, l'organisme sous contrat opère sous l'agrément de: ",
     "annexe": "",
@@ -1769,7 +1769,7 @@
   },
   {
     "id": "0700069",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Les membres d'équipage de conduite qui pilotent à la fois des hélicoptères et des avions sont limités aux opérations sur…",
     "annexe": "",
@@ -1795,7 +1795,7 @@
   },
   {
     "id": "0700070",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément à la réglementation OPS, un pilote n'est pas affecté à l'exploitation d’un avion en tant que membre de l'équipage minimum certifié, que ce soit en tant que pilote aux commandes ou pilote non aux commandes, à moins qu'il n'ait effectué : ",
     "annexe": "",
@@ -1821,7 +1821,7 @@
   },
   {
     "id": "0700071",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Les aéronefs évoluant en VFR sur des routes naviguées par référence à des repères visuels nécessitent un équipement de radiocommunication qui, dans des conditions normales de propagation radio, permet la communication avec.",
     "annexe": "",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": "0700072",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant de transport aérien commercial (CAT) exige que des travaux spécialisés (qui relèvent de son agrément) soient réalisés par un prestataire extérieur. L'agrément de ce prestataire pour ces activités n'a pas encore été accordé par l'autorité compétente. Est-il encore possible pour ce prestataire d'effectuer ces travaux pour l'exploitant ?",
     "annexe": "",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": "0700073",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément au règlement de l'UE sur les opérations aériennes, le commandant de bord doit fournir tous les documents devant être transportés à bord. Si une personne autorisée le lui demande, quel est le délai pour fournir ces documents ?",
     "annexe": "",
@@ -1899,7 +1899,7 @@
   },
   {
     "id": "0700074",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lequel des éléments énumérés ci-dessous constitue la base de la planification de la politique de carburant, conformément au règlement européen sur les opérations aériennes ?<br> 1. Procédures contenues dans le manuel d'exploitation<br>  2. Type de carburant utilisé<br>  3. Données de consommation de carburant<br>  4. Masses prévues<br>  5. Données fournies par l'autorité compétente",
     "annexe": "",
@@ -1925,7 +1925,7 @@
   },
   {
     "id": "0700075",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui devrait agir en tant que point focal et être responsable du développement, de l'administration et de la maintenance d'un système de gestion de la sécurité efficace concernant le système de gestion d'un opérateur ?",
     "annexe": "",
@@ -1951,7 +1951,7 @@
   },
   {
     "id": "0700076",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un pilote travaille pour un exploitant dont la flotte ne possède qu'un seul type et une seule variante d'avion. L'exploitant introduit un nouvel avion considéré comme une variante différente du même type. Que doit faire le pilote pour pouvoir exploiter les deux variantes ? Le pilote.",
     "annexe": "",
@@ -1977,7 +1977,7 @@
   },
   {
     "id": "0700077",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Dix passagers montent à bord d'un hélicoptère pour un vol commercial à destination d'une île. Sept d'entre eux sont considérés comme des passagers à mobilité réduite (PMR). Le commandant de bord peut.",
     "annexe": "",
@@ -2003,7 +2003,7 @@
   },
   {
     "id": "0700078",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lors d'une rotation, les pilotes reçoivent la visite d'une autorité compétente qui demande à consulter les documents de l'avion. Que doit faire le commandant de bord dans une telle situation ?",
     "annexe": "",
@@ -2029,7 +2029,7 @@
   },
   {
     "id": "0700079",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lors des préparatifs avant le vol, un pilote effectuant un vol commercial avec passagers constate une panne sur le seul récepteur GPS de bord. Le pilote a accès à la MEL et à la MMEL, et trouve les notes ci-dessous. Comment remédier à cette panne ? MMEL : Peut être inopérant à condition qu'il ne soit PAS requis pour la navigation MEL : Peut être inopérant pour les vols VFR de jour uniquement ; ou ; les vols de positionnement s'ils ne sont PAS requis pour la navigation",
     "annexe": "",
@@ -2055,7 +2055,7 @@
   },
   {
     "id": "0700080",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Une opération de catégorie II (CAT Il) est une approche et un atterrissage de précision aux instruments utilisant ILS ou MLS avec :",
     "annexe": "",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "0700081",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "À quoi s'applique l'EASA AIR OPS ?",
     "annexe": "",
@@ -2107,7 +2107,7 @@
   },
   {
     "id": "0700082",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Compte tenu des dispositions relatives à la formation des équipages de conduite dans le règlement de l'UE sur les opérations aériennes, la formation de familiarisation nécessite.",
     "annexe": "",
@@ -2133,7 +2133,7 @@
   },
   {
     "id": "0700083",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant aérien vient d'apporter des modifications importantes au volet « maintien de la navigabilité » de son système de gestion, suite à l'ouverture d'un centre de maintenance sur un nouveau site. Avant de mettre en œuvre ces modifications, l'exploitant doit obtenir l'approbation de…",
     "annexe": "",
@@ -2159,7 +2159,7 @@
   },
   {
     "id": "0700084",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lequel des éléments suivants détermine le nombre de membres d'équipage de cabine qui doivent être transportés sur un vol CAT ? 1. Nombre de classes de cabine 2. Type de vol et durée du vol 3. Procédures d'amerrissage forcé de l'équipage de cabine 4. Distance des postes de l'équipage de cabine par rapport aux portes 5. Nombre de portes 6. Expérience de l'équipage de cabine",
     "annexe": "",
@@ -2185,7 +2185,7 @@
   },
   {
     "id": "0700085",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Laquelle des définitions suivantes est correcte de « l'exploitation de transport aérien commercial » selon l'Annexe 6, Partie I de l'OACI ?",
     "annexe": "",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "0700086",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un passager à mobilité réduite (PMR) est assis près d'un mégaphone. Quelle est la conduite à tenir ?",
     "annexe": "",
@@ -2237,7 +2237,7 @@
   },
   {
     "id": "0700087",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Lequel des facteurs suivants doit être pris en compte par l'opérateur lors de l'établissement des altitudes de vol minimales ?",
     "annexe": "",
@@ -2263,7 +2263,7 @@
   },
   {
     "id": "0700088",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Qui détermine si un vol est classé comme HEMS (Helicopter Emergency Medical Service) ou comme ambulance aérienne ?",
     "annexe": "",
@@ -2289,7 +2289,7 @@
   },
   {
     "id": "0700089",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Une opération de catégorie Ill B est une approche et un atterrissage aux instruments de\nprécision utilisant ILS ou MLS avec une RVR non inférieure à :",
     "annexe": "",
@@ -2315,7 +2315,7 @@
   },
   {
     "id": "0700090",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Pour assurer des opérations sûres dans des conditions de faible visibilité, quelles procédures supplémentaires peuvent être suivies pour permettre la poursuite des opérations ?",
     "annexe": "",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": "0700091",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Quand les panneaux « Interdiction de fumer » doivent-ils être allumés ?",
     "annexe": "",
@@ -2367,7 +2367,7 @@
   },
   {
     "id": "0700092",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un opérateur effectue des vols depuis diverses bases européennes et dessert des pays du monde entier. Qui doit s'assurer que tous les membres d'équipage connaissent les lois, les procédures et les opérations des différents États où les opérations sont menées ?",
     "annexe": "",
@@ -2393,7 +2393,7 @@
   },
   {
     "id": "0700093",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant effectue du transport aérien commercial avec des avions et des hélicoptères, y compris par faible visibilité. Quelles annexes du Règlement européen sur les opérations aériennes contiennent les exigences applicables à cet exploitant ?",
     "annexe": "",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "0700094",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Que se passe-t-il avec votre boussole lorsque vous volez dans le nord du Canada ?",
     "annexe": "",
@@ -2445,7 +2445,7 @@
   },
   {
     "id": "0700095",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Avant de prendre le vol, le copilote vérifie la documentation de l'avion et constate qu'il n'y a qu'une copie du certificat d'immatriculation à bord. Y a-t-il un problème ?",
     "annexe": "",
@@ -2471,7 +2471,7 @@
   },
   {
     "id": "0700096",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un hélicoptère dont la masse maximale certifiée au décollage est supérieure à 7 000 kg\ndoit être équipé d'un enregistreur de conversations de poste de pilotage capable de conserver les informations enregistrées au moins au cours du dernier : 30 minutes ou 1 heure de fonctionnement, selon la date de première délivrance de son certificat individuel de navigabilité.",
     "annexe": "",
@@ -2497,7 +2497,7 @@
   },
   {
     "id": "0700097",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Combien de systèmes de radiocommunication indépendants sont nécessaires pour les opérations IFR ou les opérations VFR sur des routes qui ne sont PAS parcourues par référence à des repères visuels ?",
     "annexe": "",
@@ -2523,7 +2523,7 @@
   },
   {
     "id": "0700098",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un opérateur de l'UE qui souhaite obtenir une autorisation pour transporter des passagers, du fret et du courrier contre rémunération, et qui a également l'intention de transporter des marchandises dangereuses, doit se conformer aux exigences de.",
     "annexe": "",
@@ -2549,7 +2549,7 @@
   },
   {
     "id": "0700099",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un exploitant de CAT est agréé pour certaines activités, mais ne peut actuellement pas gérer la charge de travail. Il décide donc de sous-traiter une partie des travaux à un autre exploitant disposant du même niveau d'agrément. Laquelle des affirmations suivantes est vraie ? ",
     "annexe": "",
@@ -2575,7 +2575,7 @@
   },
   {
     "id": "0700100",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Le commandant de bord accueille les passagers d’un vol de taxi aérien CAT lorsqu'il s'avère qu'un membre d'équipage est ivre. II estime que son comportement pourrait compromettre le vol. Que doit-il faire ? (Le nombre total actuel de membres d'équipage de cabine prévus pour le vol dépasse le nombre minimum légalement requis pour les membres d'équipage de cabine).",
     "annexe": "",
@@ -2601,7 +2601,7 @@
   },
   {
     "id": "0700101",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Dans quel cas les panneaux indiquant qu'il faut attacher sa ceinture de sécurité sont-ils obligatoires, conformément à la réglementation de l'UE ?",
     "annexe": "",
@@ -2627,7 +2627,7 @@
   },
   {
     "id": "0700102",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Les exigences d'un système de gestion de la sécurité stipulent qu'un exploitant doit désigner une personne responsable de la coordination de ce système. Qui peut remplir ce rôle ? (En supposant que chaque personne mentionnée n'ait pas de rôle ou de fonction supplémentaire).",
     "annexe": "",
@@ -2653,7 +2653,7 @@
   },
   {
     "id": "0700103",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Avant de commencer une approche par faible visibilité, le commandant de bord doit être convaineu que…",
     "annexe": "",
@@ -2679,7 +2679,7 @@
   },
   {
     "id": "0700104",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un avion effectue un vol commercial entre l'Italie et la Libye. Quelles règles de l'air doivent être respectées ?<br> 1.1talie<br> 2. Libye<br> 3. Règles de l'air de l'OACI<br> 4. L'État survolé",
     "annexe": "",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": "0700105",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Considérez le Règlement européen sur les opérations aériennes. Laquelle des affirmations suivantes décrit correctement l'équipement de radiocommunication requis pour les opérations en IFR ?",
     "annexe": "",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": "0700106",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un contrôle de compétence de l'opérateur a eu lieu le 15 mai. Aux fins de renouvellement, la validité expirera le.",
     "annexe": "",
@@ -2757,7 +2757,7 @@
   },
   {
     "id": "0700107",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "annexe": "",
@@ -2783,7 +2783,7 @@
   },
   {
     "id": "0700108",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Tenez compte du Règlement européen sur les opérations aériennes, applicable au transport aérien commercial. Si un pilote souhaite occuper le poste de commandant de bord, quelle formation et quel contrôle supplémentaires doit-il préalablement suivre ?",
     "annexe": "",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": "0700109",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un avion doit transporter 160 passagers. L'autorité compétente n'a pas encore attribué à cet avion le nombre minimum requis de membres d'équipage de cabine. Pour ce voyage, _____ membres d'équipage de cabine sont requis.",
     "annexe": "",
@@ -2835,7 +2835,7 @@
   },
   {
     "id": "0700110",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Au plus tard, la formation à la sécurité de l'équipage devrait être effectuée. ",
     "annexe": "",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": "0700111",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Avant qu'un vol de transport aérien commercial puisse commencer, qui doit être satisfait de la liste des écarts de configuration (CDL) ?",
     "annexe": "",
@@ -2887,7 +2887,7 @@
   },
   {
     "id": "0700112",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Conformément à la réglementation OPS, 100 % des passagers d’un avion non pressurisé doivent bénéficier d'un apport d'oxygène supplémentaire pendant toute la durée du vol...",
     "annexe": "",
@@ -2913,7 +2913,7 @@
   },
   {
     "id": "0700113",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Quelle affirmation est correcte concernant la réglementation du tabagisme à bord d’un avion ?",
     "annexe": "",
@@ -2939,7 +2939,7 @@
   },
   {
     "id": "0700114",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Quelles informations concernant l'opérateur sont contenues dans un CTA (certificat d'exploitation aérienne) ?",
     "annexe": "",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "0700115",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Laquelle des propositions suivantes nécessite une approbation ? ",
     "annexe": "",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": "0700116",
-    "subtopic": "070-01-02",
+    "subtopic": "071-01-02",
     "database": "",
     "question": "Un pilote effectue les préparatifs avant le vol d'un avion dont le premier certificat de navigabilité a été délivré en 2010. C'est la première fois qu'il pilote un avion nécessitant un enregistreur de données de vol (FDR). Voici les exigences relatives à l'utilisation du FDR:",
     "annexe": "",
