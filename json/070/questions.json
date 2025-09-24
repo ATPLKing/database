@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "id": "0700001",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "Un avion a volé avec l'un de ses deux transpondeurs défectueux, et la panne a été reportée conformément à la MEL. Lors d'une rotation de 30 minutes, un ingénieur remplace le transpondeur défectueux par un neuf. Avant d'entreprendre le prochain vol commercial, que doit vérifier le commandant de bord ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Aucune documentation supplémentaire n'est requise puisque le transpondeur défectueux a été reporté conformément au MEL et devait être changé à la première occasion.",
+        "correct": false
+      },
+      {
+        "text": "Aucune documentation supplémentaire n'est requise. Lorsque l'ingénieur effectuant le report conformément à la MEL a signé le changement de transpondeur en attente, cela incluait l'autorisation pour la certification de maintenance ultérieure.",
+        "correct": false
+      },
+      {
+        "text": "Le commandant doit procéder à une inspection visuelle pour s'assurer que le transpondeur a été changé conformément à la procédure prescrite avant de signer la certification de maintenance.",
+        "correct": false
+      },
+      {
+        "text": "L'ingénieur doit certifier avoir changé le transpondeur conformément aux procédures prescrites et la version de maintenance doit être signée par une   personne autorisée.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700002",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "L'Annexe 6 de l'OACI décrit le contenu associé à la réalisation d’une certification après maintenance. L'objectif de la certification après maintenance d'un aéronef est…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Il s'agit d'un document utilisé par les pilotes pour préparer un avion avant d'effectuer un essai en vol suite à une procédure de maintenance.",
+        "correct": false
+      },
+      {
+        "text": "Il s'agit d'un document confirmant que le contrôle quotidien a été effectué par un ingénieur qualifié, que l'avion est exempt de défauts techniques et qu'il est prêt à être utilisé.",
+        "correct": false
+      },
+      {
+        "text": "La procédure de maintenance confirme que l'avion est préparé et sûr pour la maintenance à effectuer sur la cellule et/ou les systèmes embarqués.",
+        "correct": false
+      },
+      {
+        "text": "Confirmer que tout travail de maintenance effectué sur un aéronef a été réalisé de manière satisfaisante conformément aux données et procédures approuvées.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700003",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "Un capot d'avion doit être réparé. La fiche de maintenance a été signée et complétée, avec la date et le détail des travaux effectués. Les travaux n'ont pas encore commencé, mais un ingénieur arrive finalement pour terminer la réparation. Le vol peut-il commencer ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Oui, car une version de maintenance a déjà été déposée.",
+        "correct": false
+      },
+      {
+        "text": "Non, car la fiche de maintenance a été signée avant la réalisation des travaux. Une nouvelle fiche de maintenance doit désormais être déposée avant le début du vol.",
+        "correct": true
+      },
+      {
+        "text": "Oui, après que l'ingénieur ait confirmé verbalement au commandant en personne que les travaux ont été terminés.",
+        "correct": false
+      },
+      {
+        "text": "Seulement si le commandant effectue une inspection des travaux et est satisfait de leur achèvement.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700004",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "Considérez l'Annexe 6 de l'OACI concernant la gestion des données de vol. En cas de problème, qui est chargé d'en informer les responsables concernés ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Responsable du suivi de la conformité.",
+        "correct": false
+      },
+      {
+        "text": "Responsable de la sécurité.",
+        "correct": true
+      },
+      {
+        "text": "Responsable Qualité.",
+        "correct": false
+      },
+      {
+        "text": "Gestionnaire responsable.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700005",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "Conformément à l'Annexe 6 de l'OACI, que doit établir l'exploitant à l'usage et à l'orientation du personnel opérationnel, dans le cadre de son système de gestion de la sécurité ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un système de guidage opérationnel.",
+        "correct": false
+      },
+      {
+        "text": "Un système d'assemblage de documents de vol.",
+        "correct": false
+      },
+      {
+        "text": "Un système de documents sur la sécurité des vols.",
+        "correct": true
+      },
+      {
+        "text": "Un système de documentation de sécurité.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700006",
+    "subtopic": "070-01-01",
+    "database": "",
+    "question": "Conformément à l'Annexe 6 de l'OACI, un programme d'analyse des données de vol doit contenir des garanties adéquates pour protéger (1) _____ conformément à (2) _____.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "(1) source(s) des données; (2) Annexe 19 de l'OACI",
+        "correct": true
+      },
+      {
+        "text": "(1) exhaustivité des données; (2) Annexe 17 de l'OACI",
+        "correct": false
+      },
+      {
+        "text": "(1) exhaustivité des données; (2) Annexe 19 de l'OACI",
+        "correct": false
+      },
+      {
+        "text": "(1) source(s) des données; (2) Annexe 17 de l'OACI",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  }
+]
