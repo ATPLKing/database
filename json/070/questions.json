@@ -154,5 +154,2865 @@
       }
     ],
     "explanation": ""
+  },
+  {
+    "id": "0700007",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "La durée du vol a été prolongée à 9 heures. Si l'équipage est absent de sa base\nd'attache, quand le prochain vol peut-il commencer ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "10 heures",
+        "correct": true
+      },
+      {
+        "text": "9 heures",
+        "correct": false
+      },
+      {
+        "text": "14 heures",
+        "correct": false
+      },
+      {
+        "text": "12 heures",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700008",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable du programme de surveillance des données de vol (FDM) ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Responsable qualité.",
+        "correct": false
+      },
+      {
+        "text": "Comité d'examen de la sécurité.",
+        "correct": false
+      },
+      {
+        "text": "Responsable sécurité.",
+        "correct": true
+      },
+      {
+        "text": "Gestionnaire responsable.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700009",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément aux exigences opérationnelles applicables, dans quelles circonstances un avion devrait-il être équipé d’un transpondeur SSR signalant l’altitude-pression ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Si cela est nécessaire pour l'altitude maximale parcourue pendant le cours.",
+        "correct": false
+      },
+      {
+        "text": "Il est obligatoire lors d'un vol en IFR.",
+        "correct": false
+      },
+      {
+        "text": "Il est obligatoire sur l'itinéraire emprunté.",
+        "correct": true
+      },
+      {
+        "text": "Elle est obligatoire pour les avions dont la masse maximale autorisée (MCTOM) est supérieure à 5 700 kg.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700010",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Avant de faire le plein, les précautions à prendre en cas d'incendie sont les suivantes.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "l'aéronef doit se trouver à plus de 10 mètres de l'équipement radar ou radio HF testé.",
+        "correct": false
+      },
+      {
+        "text": "toutes les liaisons et connexions à la borne de terre entre l'équipement au sol et l'avion doivent être effectuées avant de retirer les bouchons de remplissage.",
+        "correct": true
+      },
+      {
+        "text": "les passagers peuvent être embarqués (en traversant la zone de ravitaillement) à condition que des extincteurs appropriés soient facilement disponibles.",
+        "correct": false
+      },
+      {
+        "text": "Les unités d'alimentation au sol (GPU) ne doivent pas être utilisées.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700011",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Les aspects pertinents et les tâches spécialisées que les pilotes doivent démontrer lors de leurs contrôles de compétence d'opérateur (OPC) sont décrits dans le.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Manuel d'exploitation",
+        "correct": true
+      },
+      {
+        "text": "Manuel SMS",
+        "correct": false
+      },
+      {
+        "text": "Manuel de vol",
+        "correct": false
+      },
+      {
+        "text": "Manuel de formation",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700012",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant effectue des vols réguliers CAT en Allemagne avec un équipage titulaire de\nlicences Part-FCL délivrées par la France, des attestations délivrées par la Suède pour le\npersonnel de cabine et un siège social en Italie. Conformément à la réglementation OPS, quel État membre doit désigner l'autorité compétente chargée de la supervision de cette opération ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Italie",
+        "correct": true
+      },
+      {
+        "text": "Allemagne",
+        "correct": false
+      },
+      {
+        "text": "France",
+        "correct": false
+      },
+      {
+        "text": "Suède",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700013",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pourquoi un pilote pourrait-il être obligé de suivre une formation de familiarisation ? 1. Pour exploiter un autre aéronef du même type 2. Pour passer à une classe d'aéronef différente 3. Lors de l'introduction d'un changement important d'équipement et/ou de procédures sur les types ou variantes actuellement exploités 4. Lorsque des modifications mineures d'équipement sont introduites sur l'aéronef normalement utilisé",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1 et 3",
+        "correct": true
+      },
+      {
+        "text": "3 et 4.",
+        "correct": false
+      },
+      {
+        "text": "2 et 3.",
+        "correct": false
+      },
+      {
+        "text": "1 et 4.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700014",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément à la réglementation OPS, qui est responsable de l'établissement des minima opérationnels d'aérodrome, y compris les approches de non-précision, pour chaque aérodrome prévu pour être utilisé à des fins commerciales ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'autorité de l'État",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur",
+        "correct": true
+      },
+      {
+        "text": "L'autorité désignée de l'aérodrome",
+        "correct": false
+      },
+      {
+        "text": "Le commandant",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700015",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Quels critères doivent être respectés pour les pilotes d'hélicoptères pilotant des hélicoptères multimoteurs dont les fonctions nécessitent qu'ils opèrent sur l'un ou l'autre des sièges pilotes ? Si deux contrôles de compétence d'opérateur consécutifs sont effectués depuis le même siège, le pilote doit effectuer au moins depuis le siège de l'autre pilote : 1. une panne de moteur au décollage 2. une panne de moteur pendant la descente 3. une approche et une remise des gaz avec un moteur en panne 4. un atterrissage avec un moteur en panne 5. une panne de moteur pendant la croisière Sélectionnez la combinaison qui comprend toutes les bonnes réponses.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "3 et 4 seulement",
+        "correct": false
+      },
+      {
+        "text": "1 et 4 seulement",
+        "correct": false
+      },
+      {
+        "text": "1,3 et 4",
+        "correct": true
+      },
+      {
+        "text": "1, 2, 3, 4 et 5",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700016",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant sous-traite des activités à une autre organisation. Quel que soit le statut d'agrément de l'organisation sous-traitée, conformément aux exigences opérationnelles applicables, qui est responsable de garantir que les activités sous-traitées sont soumises à l'identification des dangers et à la gestion des risques ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'organisme sous contrat dans le cadre d'un programme de surveillance établi par l'autorité compétente.",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur contractant.",
+        "correct": true
+      },
+      {
+        "text": "AESA.",
+        "correct": false
+      },
+      {
+        "text": "L'autorité compétente.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700017",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Complétez la phrase suivante : La durée de validité d’un contrôle de ligne est de 12 mois calendaires à compter du…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le début du mois où le chèque a été prélevé.",
+        "correct": false
+      },
+      {
+        "text": "La date à laquelle le chèque a été émis.",
+        "correct": false
+      },
+      {
+        "text": "Un mois à compter de la date d'émission du chèque.",
+        "correct": false
+      },
+      {
+        "text": "La fin du mois où le chèque a été encaissé.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700018",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un hélicoptère effectuant des opérations offshore de classe de performance 3 avec 12 personnes à bord se trouve à plus de 3 minutes de la terre à vitesse de croisière normale. Quel est le nombre minimal de radeaux de levage requis ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un minimum de 3 radeaux d'une capacité minimale égale à la moitié de la capacité d'accueil de l'hélicoptère.",
+        "correct": false
+      },
+      {
+        "text": "Zéro, car les radeaux de sauvetage sont obligatoires pour les vols de plus de 5 minutes à vitesse de croisière normale depuis la terre.",
+        "correct": false
+      },
+      {
+        "text": "Un minimum de 2 radeaux d'une capacité minimale égale à la capacité maximale en sièges de l'hélicoptère.",
+        "correct": true
+      },
+      {
+        "text": "Un minimum de 1 radeau d'une capacité minimale égale à la capacité maximale de sièges de l'hélicoptère.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700019",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "La phase visuelle d'une approche aux instruments pour amener un aéronef en position d'atterrissage sur une piste/FATO qui n'est pas située de manière appropriée pour une approche directe est la définition de.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "une approche visuelle.",
+        "correct": false
+      },
+      {
+        "text": "une approche de contact.",
+        "correct": false
+      },
+      {
+        "text": "en tournant.",
+        "correct": true
+      },
+      {
+        "text": "le circuit de circulation de l'aérodrome.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700020",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un avion non pressurisé équipé de 12 sièges passagers est conçu pour voler par tous les temps, de jour comme de nuit. Un radar météorologique embarqué (AWR) est-il nécessaire ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Oui, si des orages sont prévus.",
+        "correct": true
+      },
+      {
+        "text": "Oui, tous les vols de nuit ou en IMC nécessitent des radars météorologiques.",
+        "correct": false
+      },
+      {
+        "text": "Non, le nombre de sièges n’est pas suffisant pour répondre à cette exigence.",
+        "correct": false
+      },
+      {
+        "text": "Non, seuls les avions pressurisés nécessitent des radars météorologiques.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700021",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lors de la rotation et avant l'embarquement, l'équipage est informé que l'un des passagers est un passager non autorisé sans escorte, arrivé plus tôt le même jour sur un vol du même opérateur. Cette personne doit être renvoyée dans son pays de départ, qui est la destination du vol. L'équipage en est informé avant l'embarquement. Pourquoi ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le passager doit être attaché dès l'embarquement afin d'éviter tout comportement perturbateur.",
+        "correct": false
+      },
+      {
+        "text": "La personne est classée comme Personne à Mobilité Réduite (PMR).",
+        "correct": false
+      },
+      {
+        "text": "Une notification est requise pour tout passager de catégorie spéciale (SCP).",
+        "correct": true
+      },
+      {
+        "text": "Le passager doit voyager sur un siège équipage en cabine en raison de l'absence de billet.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700022",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Vous venez de réussir votre formation initiale et votre contrôle de compétence en ligne auprès d'un opérateur, et ce n'est que votre sixième vol en tant que pilote inexpérimenté. Lors du briefing, vous réalisez que le commandant de bord avec qui vous devez voler vient également d'obtenir sa mise à niveau de commandement, et ce n'est que son troisième vol. Pouvez-vous voler ensemble ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Oui, puisque vous avez tous les deux terminé votre formation respective, vous comptez comme membres d'équipage expérimentés.",
+        "correct": false
+      },
+      {
+        "text": "Oui, vous avez réussi vos vols surnuméraires donc vous pouvez voler avec un commandant de bord inexpérimenté.",
+        "correct": false
+      },
+      {
+        "text": "Oui, à condition que le répartiteur soit au courant et l’autorise.",
+        "correct": false
+      },
+      {
+        "text": "Non, il y a trop de membres d'équipage inexpérimentés.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700023",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Une entreprise emploie 25 équivalents temps plein (ETP), tous opérationnels. Conformément à la réglementation européenne et à ses modalités d'application relatives aux systèmes de gestion opérationnelle, une telle organisation est considérée comme.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "petit",
+        "correct": false
+      },
+      {
+        "text": "simple",
+        "correct": false
+      },
+      {
+        "text": "moyen",
+        "correct": false
+      },
+      {
+        "text": "complexe",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700024",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Après un vol commercial, l'équipage attend ses bagages près du tapis à bagages. Leurs\nbagages de soute sont livrés en dernier, lorsque tous les passagers sont déjà partis. L'équipage remarque qu'un bagage reste sur le tapis et n'a PAS été récupéré. Selon l'Annexe 17 de l'OACI et pour des raisons de sécurité, la définition d'un tel bagage serait :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Bagages non identifiés.",
+        "correct": true
+      },
+      {
+        "text": "Bagages perdus.",
+        "correct": false
+      },
+      {
+        "text": "Bagages refusés.",
+        "correct": false
+      },
+      {
+        "text": "Bagages abandonnés.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700025",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Dans le cas d'un vol en provenance d'Italie (base de l'opérateur) vers la Tunisie, qui a la responsabilité de s'assurer que l'équipage est informé et respecte les lois et règlements des pays où se déroulent les opérations ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'état de l'opérateur.",
+        "correct": false
+      },
+      {
+        "text": "AESA.",
+        "correct": false
+      },
+      {
+        "text": "L'Opérateur.",
+        "correct": true
+      },
+      {
+        "text": "État d'arrivée.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700026",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Le Règlement européen sur les opérations aériennes stipule que pour les opérations en\nIFR ou en VFR sur des routes non navigables par référence à des repères visuels, des\nsystèmes VOR ou ADF supplémentaires sont requis sur toute route, ou partie de route,\noù la navigation est basée sur ces signaux respectifs. Si aucun de ces systèmes n'est\ndisponible, la route peut-elle quand même être empruntée ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Non, le transport du VOR et de l'ADF est obligatoire.",
+        "correct": false
+      },
+      {
+        "text": "Oui, à condition que le rapport de position auprès d'une station ATC appropriée puisse être effectué.",
+        "correct": false
+      },
+      {
+        "text": "Oui, si une navigation sûre peut être effectuée avec un équipement alternatif.",
+        "correct": true
+      },
+      {
+        "text": "Non, car les caractéristiques de propagation de chaque système sont différentes.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700027",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un créneau ATC en route vous a été attribué et vous devez décoller au plus vite. Un ravitaillement en carburant de type Jet A1 est prévu lors de l'embarquement des passagers. Que devez-vous prendre en compte pour la sécurité de cette opération ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Une communication doit être établie entre l'agent ravitailleur et un personnel qualifié à bord.",
+        "correct": true
+      },
+      {
+        "text": "Il n'y a AUCUNE restriction.",
+        "correct": false
+      },
+      {
+        "text": "Toutes les portes doivent être ouvertes.",
+        "correct": false
+      },
+      {
+        "text": "Le ravitaillement en carburant de type JET n’est pas autorisé lors de l'embarquement.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700028",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "En ce qui concerne la formation et le contrôle récurrents, quelle est la validité d'un contrôle de compétence ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "4 mois",
+        "correct": false
+      },
+      {
+        "text": "12 mois",
+        "correct": true
+      },
+      {
+        "text": "24 mois",
+        "correct": false
+      },
+      {
+        "text": "8 mois",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700029",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "La réglementation OPS précise les exigences auxquelles doit satisfaire un exploitant pour dispenser une formation initiale en gestion des ressources de l'équipage (CRM). Lequel des organismes suivants est autorisé à dispenser cette formation ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un capitaine de formation titulaire d'une qualification d'examinateur de qualification de type (TRE).",
+        "correct": false
+      },
+      {
+        "text": "Un capitaine d'entraînement de ligne.",
+        "correct": false
+      },
+      {
+        "text": "Un formateur CRM dûment qualifié.",
+        "correct": true
+      },
+      {
+        "text": "Un pilote titulaire d'une qualification d'instructeur de qualification de type (TRI).",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700030",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Selon la réglementation de l'OPS, laquelle des définitions suivantes peut être donnée à un environnement hostile ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Vol au-dessus de l'eau et à moins de 3 minutes d'une zone d'atterrissage d'urgence appropriée.",
+        "correct": false
+      },
+      {
+        "text": "Un atterrissage forcé en toute sécurité ne peut pas être réalisé car la surface est inadéquate.",
+        "correct": true
+      },
+      {
+        "text": "Survol de toute zone encombrée.",
+        "correct": false
+      },
+      {
+        "text": "Survol de zones montagneuses où le terrain dépasse 6 000 pieds.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700031",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un groupe de personnes expulsées est transporté sur un vol commercial. Outre la connaissance par le commandant de leur présence et de leur localisation dans l'avion, et leur escorte par des agents de sécurité, quelles autres mesures doivent être prises ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Informez les passagers assis à côté des expulsés afin qu'ils puissent les aider au cas où ces derniers deviendraient agressifs.",
+        "correct": false
+      },
+      {
+        "text": "Maintenir les déportés éloignés de toute issue de secours afin qu’ils ne puissent pas gêner en cas d'évacuation.",
+        "correct": true
+      },
+      {
+        "text": "Sur demande, servez des boissons alcoolisées en quantité raisonnable, mais uniquement à l'accompagnateur.",
+        "correct": false
+      },
+      {
+        "text": "Gardez l'arme à feu de l’escorte dans le poste de pilotage, séparée de toute munition.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700032",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable de l'application de la règle selon laquelle les passagers ne doivent pas utiliser d'appareils électroniques portables (AEP) à bord d’un avion pendant le vol ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Commandant",
+        "correct": false
+      },
+      {
+        "text": "Pilote aux commandes",
+        "correct": false
+      },
+      {
+        "text": "OACI",
+        "correct": false
+      },
+      {
+        "text": "Opérateur",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700033",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un vol effectué par un aéronef immatriculé en Suède effectue des vols intérieurs en Allemagne avec un équipage de nationalité française et un CTA italien. L'État considéré comme l'autorité compétente est…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Italie.",
+        "correct": true
+      },
+      {
+        "text": "Suède.",
+        "correct": false
+      },
+      {
+        "text": "Allemagne.",
+        "correct": false
+      },
+      {
+        "text": "France.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700034",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lequel des éléments suivants doit être pris en compte lors de l'établissement des minima opérationnels d'un aérodrome ? 1. Le type, les performances et les caractéristiques de vol de l'avion 2. La composition, la compétence et l'expérience de l'équipage de conduite 3. Les dimensions et les caractéristiques des pistes/aires d'approche finale et de décollage (FATO) qui peuvent être sélectionnées pour utilisation 4. Les conditions météorologiques au moment de l'approche 5. L'adéquation et les performances des aides au sol visuelles et non visuelles disponibles 6. L'altitude/hauteur de franchissement d'obstacles pour les procédures d'approche aux instruments",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1,3, 4, 5 et 6.",
+        "correct": false
+      },
+      {
+        "text": "1, 2, 3, 5 et 6",
+        "correct": true
+      },
+      {
+        "text": "1, 2, 4 et 6.",
+        "correct": false
+      },
+      {
+        "text": "2, 3, 4 et 5.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700035",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "En tant que membre d'équipage, vous devez effectuer votre deuxième contrôle de compétence exploitant le 30 mai. La date d'expiration initiale du contrôle de compétence actuel est le 31 juillet. Conformément à la réglementation EU-OPS, la nouvelle période de validité débutera.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "30 mai",
+        "correct": false
+      },
+      {
+        "text": "31 juillet",
+        "correct": true
+      },
+      {
+        "text": "1er juin",
+        "correct": false
+      },
+      {
+        "text": "31 mai",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700036",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un pilote d'avion suit une formation pour passer du statut de copilote à celui de commandant de bord. Cette formation au commandement comprend de nombreux éléments de formation, dont…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "10 heures de formation en ligne en tant que commandant sous supervision, composées d'au moins 5 secteurs.",
+        "correct": false
+      },
+      {
+        "text": "Formation aux procédures d'urgence spéciales et CRM.",
+        "correct": false
+      },
+      {
+        "text": "Un contrôle de compétence opérationnelle en tant que commandant et en tant que copilote.",
+        "correct": false
+      },
+      {
+        "text": "Un contrôle de compétence des opérateurs en tant que commandant.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700037",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un pilote pilote un avion léger dans un espace aérien contrôlé non européen sans transpondeur SSR. Dans quelle annexe le pilote doit-il trouver des informations sur cette opération ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Annexe 17",
+        "correct": false
+      },
+      {
+        "text": "Annexe 18",
+        "correct": false
+      },
+      {
+        "text": "Annexe 10",
+        "correct": true
+      },
+      {
+        "text": "Annexe 6",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700038",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable de garantir que les services contractuels ou achetés sont autorisés pour le transport aérien commercial ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Opérateur",
+        "correct": true
+      },
+      {
+        "text": "OACI",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      },
+      {
+        "text": "Autorité",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700039",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Selon AIR OPS, le décollage ne doit pas commencer.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Même si la contamination par la glace n’entraîne pas de dépassement des limites de masse et d'équilibre.",
+        "correct": false
+      },
+      {
+        "text": "À moins que les surfaces externes soient encore recouvertes de liquide antigivrage et que l'aéronef ne soit pas utilisé dans des conditions de givrage prévues supérieures à un givrage modéré.",
+        "correct": false
+      },
+      {
+        "text": "À moins que les surfaces externes ne soient exemptes de toute contamination, sauf dans les cas autorisés par le manuel de vol de l'aéronef.",
+        "correct": true
+      },
+      {
+        "text": "À moins que les surfaces extérieures ne soient exemptes de toute contamination par la glace supérieure à 5 mm.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700040",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Avant d'effectuer des opérations par faible visibilité (LVO), chaque membre d'équipage doit régulièrement suivre une formation pertinente, notamment.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "ayant effectué 3 décollages, approches et atterrissages au cours des 90 derniers jours dans les conditions limites réelles de LVO.",
+        "correct": false
+      },
+      {
+        "text": "effectuer des vols d'entraînement dans l'aéronef jusqu'à la valeur limite de la hauteur de décision telle que spécifiée dans le manuel d'exploitation.",
+        "correct": false
+      },
+      {
+        "text": "effectuer un nombre minimum spécifié d'approches et d'atterrissages dans l'avion dans des conditions réelles de faible visibilité.",
+        "correct": false
+      },
+      {
+        "text": "fonctionnant aux valeurs limites de la RVR / visibilité et de la hauteur de décision dans un dispositif de formation à la simulation de vol.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700041",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément aux exigences d'un certificat d'exploitation aérienne (AOC) délivré par un État membre de l'AESA, quand un exploitant d'hélicoptère est-il obligé d'élaborer des procédures visant à minimiser l'impact du bruit des hélicoptères ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Pendant l'approche et l'atterrissage uniquement.",
+        "correct": false
+      },
+      {
+        "text": "Pendant le décollage et l'atterrissage.",
+        "correct": true
+      },
+      {
+        "text": "Pendant le décollage et le départ uniquement.",
+        "correct": false
+      },
+      {
+        "text": "Lors de l'exploitation de zones surpeuplées.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700042",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pour les opérations de transport aérien commercial, qui établit les minima opérationnels de l'aérodrome/héliport pour chaque départ, destination ou aérodrome/héliport de dégagement dont l’utilisation est prévue ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'opérateur",
+        "correct": true
+      },
+      {
+        "text": "Le commandant",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      },
+      {
+        "text": "L'autorité compétente",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700043",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable de s'assurer que les membres d'équipage de conduite sont\ncompétents pour exercer leurs fonctions en se soumettant à un examen psychologique ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'opérateur",
+        "correct": true
+      },
+      {
+        "text": "Le commandant",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      },
+      {
+        "text": "L'autorité",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700044",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Au cours d'une procédure ILS, si la RVR / visibilité signalée est inférieure aux minima applicables, l'approche ne doit pas être poursuivie.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "En dessous de 1000 pieds au-dessus de l'aérodrome ou dans le segment d'approche finale si DA/H est à plus de 1000 pieds au-dessus de l'aérodrome.",
+        "correct": true
+      },
+      {
+        "text": "En dessous de l'intersection du chemin final.",
+        "correct": false
+      },
+      {
+        "text": "En dessous du FAF, ou 1500 pieds au-dessus de l'aérodrome/héliport s'il n'y a pas de FAF.",
+        "correct": false
+      },
+      {
+        "text": "Au-delà du marqueur central, ou 500 pieds au-dessus de l'aérodrome/héliport s'il n'y a pas de marqueur central.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700045",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "La formation aux différences nécessite.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "seulement l'acquisition de connaissances supplémentaires.",
+        "correct": false
+      },
+      {
+        "text": "des connaissances et une formation complémentaires sur l’aéronef ou sur un dispositif de formation approprié.",
+        "correct": true
+      },
+      {
+        "text": "rafraîchir les connaissances du pilote sur les types ou variantes actuellement exploités.",
+        "correct": false
+      },
+      {
+        "text": "renforcer les connaissances du pilote sur les types ou variantes actuellement exploités.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700046",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pour un opérateur agréé en vertu du règlement de l'UE sur les opérations aériennes, lorsqu'il effectue des opérations par faible visibilité (CAT II, OTS CAT II ou CAT III), tous les appels de hauteur doivent être déterminés par un radioaltimètre pour les hauteurs inférieures.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "200 pieds au-dessus de l'altitude du seuil de l'aérodrome.",
+        "correct": true
+      },
+      {
+        "text": "500 pieds au-dessus de l'altitude de l'aérodrome.",
+        "correct": false
+      },
+      {
+        "text": "500 pieds au-dessus de l'altitude du seuil de l'aérodrome.",
+        "correct": false
+      },
+      {
+        "text": "200 pieds au-dessus de l'altitude de l'aérodrome.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700047",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pour les opérations de transport aérien commercial, qui approuve la méthode d'établissement des altitudes minimales de vol ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "En Europe, Eurocontrol",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur",
+        "correct": false
+      },
+      {
+        "text": "L'autorité compétente",
+        "correct": true
+      },
+      {
+        "text": "L'unité ATS (Air Traffic Services)",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700048",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un vol IFR de transport aérien commercial sera opéré vers un aéroport classé par l'exploitant comme aérodrome isolé. En quoi ce vol est-il différent des vols vers la plupart des autres aérodromes ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "La durée du vol jusqu'à l'aérodrome de dégagement de destination peut aller jusqu'à 6 heures.",
+        "correct": false
+      },
+      {
+        "text": "Il n'existe AUCUNE exigence relative à un aérodrome de dégagement à destination",
+        "correct": true
+      },
+      {
+        "text": "L'aérodrome de destination n'a PAS deux pistes indépendantes.",
+        "correct": false
+      },
+      {
+        "text": "La durée du vol jusqu'à l'aérodrome de dégagement de destination peut aller jusqu'à 2 heures.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700049",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "L'altitude minimale de franchissement d'obstacles (AMOA) est définie à 8 300 pieds. Le relief ou l'obstacle maximal dans la zone d'application de cette AMOA est…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "5730 pieds.",
+        "correct": false
+      },
+      {
+        "text": "6280 pieds.",
+        "correct": true
+      },
+      {
+        "text": "6800 pieds.",
+        "correct": false
+      },
+      {
+        "text": "7280 pieds.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700050",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable de garantir qu’un produit acheté, un service ou une activité sous- traitée sont conformes à la réglementation applicable ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "OACI",
+        "correct": false
+      },
+      {
+        "text": "Autorité compétente",
+        "correct": false
+      },
+      {
+        "text": "Opérateur",
+        "correct": true
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700051",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant de CAT exige que des travaux spécialisés (qui relèvent de son agrément) soient réalisés par un prestataire extérieur. Laquelle des options suivantes est correcte ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un accord écrit doit exister entre l'opérateur et l'organisme contractant.",
+        "correct": true
+      },
+      {
+        "text": "Aucun accord n'est nécessaire entre l'opérateur et l'organisme contractant.",
+        "correct": false
+      },
+      {
+        "text": "Un accord oral et écrit doit exister entre l'opérateur et l'organisme contractant.",
+        "correct": false
+      },
+      {
+        "text": "Un accord oral doit exister entre l'opérateur et l'organisme contractant.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700052",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément au Règlement européen sur les opérations aériennes, les commandants\nde bord du transport aérien commercial dont les fonctions exigent d'être en poste de\npilote et d'exercer les fonctions de copilote, ou les commandants de bord chargés de la\nformation ou du contrôle, doivent suivre une formation et un contrôle supplémentaires,\nconformément au manuel d'exploitation. Cette formation et ce contrôle supplémentaires\ndoivent comprendre au moins les éléments suivants : ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un décollage, une approche et un atterrissage sans panne de moteur, ainsi qu'une panne de moteur pendant le décollage, une approche et une remise des gaz avec un moteur en panne, et un atterrissage avec un moteur en panne.",
+        "correct": false
+      },
+      {
+        "text": "Une panne de moteur au décollage, une approche et une remise des gaz avec un moteur en panne, et un atterrissage avec un moteur en panne.",
+        "correct": true
+      },
+      {
+        "text": "Une panne de moteur immédiatement après le décollage, une panne de moteur critique 400 pieds après le décollage et un circuit d'attente avec un moteur en panne.",
+        "correct": false
+      },
+      {
+        "text": "Une panne de moteur au décollage et un atterrissage avec un moteur en panne.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700053",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Les membres d'équipage d'un transporteur aérien commercial doivent effectuer un contrôle de compétence en ligne dans le cadre de leur formation et de leur contrôle périodiques. Quelle est la durée de validité de ce contrôle ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "24 mois calendaires",
+        "correct": false
+      },
+      {
+        "text": "12 mois calendaires",
+        "correct": true
+      },
+      {
+        "text": "6 mois calendaires",
+        "correct": false
+      },
+      {
+        "text": "18 mois calendaires",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700054",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Une approche lorsque tout ou partie d'une procédure d'approche aux instruments n'est pas terminée et que l'approche est exécutée avec une référence visuelle au terrain est la définition de :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "une approche visuelle.",
+        "correct": true
+      },
+      {
+        "text": "en tournant.",
+        "correct": false
+      },
+      {
+        "text": "le circuit de circulation de l'aérodrome.",
+        "correct": false
+      },
+      {
+        "text": "une approche de contact.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700055",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Au cours d'un cours de mise à niveau de commandant, les tâches suivantes doivent être accomplies : 1. Panne moteur au décollage 2. Panne moteur en croisière 3. Descente avec un moteur en panne 4. Remise des gaz avec un moteur en panne et approche interrompue 5. Atterrissage avec un moteur en panne",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1, 2 et 5.",
+        "correct": false
+      },
+      {
+        "text": "2, 4 et 5.",
+        "correct": false
+      },
+      {
+        "text": "2, 3 et 5.",
+        "correct": false
+      },
+      {
+        "text": "1, 4, et 5",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700056",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un avion effectue une approche ILS CAT Il et n'est pas équipé d'un affichage tête haute. À la hauteur de la cible, le pilote ne voit que cinq feux d'approche consécutifs. Quelle est la procédure correcte ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le pilote peut continuer en dessous de DH et atterrir.",
+        "correct": false
+      },
+      {
+        "text": "Le pilote peut continuer en dessous de DH jusqu'à 80 pieds et atterrir s'il peut voir les lumières de bord.",
+        "correct": false
+      },
+      {
+        "text": "Le pilote peut continuer en dessous de DH jusqu'à 80 pieds et atterrir s'il voit le seuil.",
+        "correct": false
+      },
+      {
+        "text": "Le pilote ne peut pas continuer l'approche, il doit remettre les gaz.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700057",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "L'exploitant est tenu de doter la structure d'un système de suivi de la conformité. Les retours d'information sont adressés à.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Gestionnaire responsable.",
+        "correct": true
+      },
+      {
+        "text": "Capitaine de ligne.",
+        "correct": false
+      },
+      {
+        "text": "Responsable de la sécurité.",
+        "correct": false
+      },
+      {
+        "text": "Responsable du suivi de la conformité.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700058",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Quelle est la hauteur maximale autorisée des obstacles ou du terrain étant donné que l'altitude minimale de franchissement d'obstacles (MOCA) est de 6 900 pieds ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "5 370 pieds",
+        "correct": false
+      },
+      {
+        "text": "4 880 pieds",
+        "correct": false
+      },
+      {
+        "text": "5 830 pieds",
+        "correct": true
+      },
+      {
+        "text": "5 990 pieds",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700059",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément à l'ORO.GEN.205, lorsque l'opérateur certifié ou le titulaire de l'autorisation SPO sous-traite une partie de son activité à une organisation qui n'est pas elle-même certifiée ou autorisée à exercer cette activité, l'organisation sous-traitée doit travailler sous l'approbation de.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'opérateur.",
+        "correct": true
+      },
+      {
+        "text": "Son propre certificat.",
+        "correct": false
+      },
+      {
+        "text": "L'autorité compétente au sein de cet État membre.",
+        "correct": false
+      },
+      {
+        "text": "AESA.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700060",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Une personne fait partie d'une organisation et souhaite s'asseoir sur le strapontin. Est- ce autorisé ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Il/Elle ne doit en aucun cas occuper un siège d'appoint.",
+        "correct": false
+      },
+      {
+        "text": "Il/Elle ne peut occuper un siège d'appoint que si le commandant de bord le permet conformément aux procédures de l'exploitant.",
+        "correct": true
+      },
+      {
+        "text": "Il/Elle ne peut le faire que si les procédures de l'opérateur le permettent.",
+        "correct": false
+      },
+      {
+        "text": "Il/Elle le peut parce qu'il/elle est employé dans la même entreprise.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700061",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Où le pilote peut-il trouver des informations sur le fonctionnement d'un type d'avion spécifique ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Manuel d'exploitation, partie B",
+        "correct": true
+      },
+      {
+        "text": "Manuel d'exploitation, partie A",
+        "correct": false
+      },
+      {
+        "text": "Manuel de vol de l'aéronef, partie B",
+        "correct": false
+      },
+      {
+        "text": "Manuel de vol de l'aéronef, partie A",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700062",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui est responsable de s'assurer que les membres d'équipage de cabine sont compétents pour exercer leurs fonctions ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'autorité de l'État dans lequel leurs activités sont exercées, en vertu du règlement de l'UE sur les opérations aériennes.",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur, conformément au manuel d'exploitation.",
+        "correct": true
+      },
+      {
+        "text": "L'autorité de l'État dans lequel l'aéronef est immatriculé, en vertu du droit national.",
+        "correct": false
+      },
+      {
+        "text": "Le pilote commandant de bord, conformément au manuel de vol de l’aéronef.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700063",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pour un itinéraire spécifique dans un autre État, l'exploitant a établi une altitude minimale de sécurité. Cependant, l'État d'exploitation a une altitude minimale de sécurité différente pour le même itinéraire. Quelle altitude minimale de sécurité faut-il utiliser ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'altitude minimale de sécurité publiée par l'opérateur",
+        "correct": false
+      },
+      {
+        "text": "La plus haute des altitudes",
+        "correct": true
+      },
+      {
+        "text": "La plus basse des altitudes",
+        "correct": false
+      },
+      {
+        "text": "Moyenne entre les altitudes",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700064",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lorsqu'un hélicoptère vole au-dessus de l'eau, il doit être équipé d'un radioaltimètre qui\német un avertissement sonore en dessous d'une hauteur prédéterminée, ainsi qu'un avertissement visuel à une hauteur que le pilote peut sélectionner : <br>1. Hors de vue de la terre;<br>2. Par visibilité inférieure à 1 500 m;<br>3. Par visibilité inférieure à 5 km;<br>4. Lorsqu'il transporte des passagers;<br>5. De nuit;<br>6. À une distance de la terre correspondant à plus de trois minutes à la vitesse de croisière normale;<br> 7. À une distance de la terre correspondant à plus de deux minutes à la vitesse de croisière normale;",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1, 2, 5, 6",
+        "correct": true
+      },
+      {
+        "text": "1, 3, 4, 7",
+        "correct": false
+      },
+      {
+        "text": "1, 3, 5, 7",
+        "correct": false
+      },
+      {
+        "text": "2, 4, 5, 6",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700065",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "La période de 24 heures commence à _____ en heure locale.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "00:00",
+        "correct": true
+      },
+      {
+        "text": "12h00",
+        "correct": false
+      },
+      {
+        "text": "08:00",
+        "correct": false
+      },
+      {
+        "text": "06:00",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700066",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant doit établir et maintenir un programme de sécurité des vols. Qui peut-il désigner comme responsable de ce programme ? (En supposant que les personnes mentionnées n'exercent aucune autre fonction ou rôle). 1- gestionnaire responsable 2- capitaine de ligne 3- directeur financier 4- directeur général",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1, 2 et 4",
+        "correct": false
+      },
+      {
+        "text": "2 et 3",
+        "correct": false
+      },
+      {
+        "text": "3 et 4",
+        "correct": false
+      },
+      {
+        "text": "1 et 2",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700067",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "En vertu de la réglementation européenne sur l'aviation civile, relative à la surveillance et à l'application de la loi, qui devrait mener des enquêtes, y compris des inspections au sol, pour empêcher la poursuite d’une infraction ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "OACI",
+        "correct": false
+      },
+      {
+        "text": "États membres",
+        "correct": true
+      },
+      {
+        "text": "L'opérateur",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700068",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Dans certains cas, les exploitants peuvent sous-traiter certaines activités à d'autres\norganismes non certifiés ni autorisés à les exercer. Dans ce cas, conformément au Règlement européen sur les opérations aériennes, l'organisme sous contrat opère sous l'agrément de: ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "l'oppérateur.",
+        "correct": true
+      },
+      {
+        "text": "son propre certificat délivré conformément au présent règlement.",
+        "correct": false
+      },
+      {
+        "text": "AESA.",
+        "correct": false
+      },
+      {
+        "text": "l'autorité compétente d'un État membre de l'AESA.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700069",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Les membres d'équipage de conduite qui pilotent à la fois des hélicoptères et des avions sont limités aux opérations sur…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "un seul type d'hélicoptère mais il n'y a aucune limitation sur les types d'avions.",
+        "correct": false
+      },
+      {
+        "text": "il n'existe qu'un seul type d'avion, mais il n'y a aucune limitation concernant les",
+        "correct": false
+      },
+      {
+        "text": "types d'hélicoptères.",
+        "correct": false
+      },
+      {
+        "text": "deux types d'avions et un type d'hélicoptère.\n  un seul type d'avion et un seul type d'hélicoptère.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700070",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément à la réglementation OPS, un pilote n'est pas affecté à l'exploitation d’un avion en tant que membre de l'équipage minimum certifié, que ce soit en tant que pilote aux commandes ou pilote non aux commandes, à moins qu'il n'ait effectué : ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "6 décollages et 6 atterrissages au cours des 6 derniers mois.",
+        "correct": false
+      },
+      {
+        "text": "3 décollages et 3 atterrissages sur ce type d'avion au cours des 6 derniers mois.",
+        "correct": false
+      },
+      {
+        "text": "3 décollages et 3 atterrissages au cours des 90 derniers jours, en tant que pilote aux commandes d'un avion ou d'un simulateur de vol du mème type/classe.",
+        "correct": true
+      },
+      {
+        "text": "6 décollages et 6 atterrissages en tant que pilote volant sur le même type d'avion ou sur un simulateur approuvé, du type d'avion à utiliser.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700071",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Les aéronefs évoluant en VFR sur des routes naviguées par référence à des repères visuels nécessitent un équipement de radiocommunication qui, dans des conditions normales de propagation radio, permet la communication avec.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "services de sauvetage et autres services susceptibles d'être nécessaires en cas d'urgence.",
+        "correct": false
+      },
+      {
+        "text": "les stations ATC appropriées de tous les points situés en dehors de l'espace aérien contrôlé.",
+        "correct": false
+      },
+      {
+        "text": "Contrôle de la circulation aérienne à partir de n'importe quel point de l'espace aérien contrôlé dans lequel des vols sont prévus.",
+        "correct": false
+      },
+      {
+        "text": "la base opérationnelle, à des fins de surveillance des vols.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700072",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant de transport aérien commercial (CAT) exige que des travaux spécialisés (qui relèvent de son agrément) soient réalisés par un prestataire extérieur. L'agrément de ce prestataire pour ces activités n'a pas encore été accordé par l'autorité compétente. Est-il encore possible pour ce prestataire d'effectuer ces travaux pour l'exploitant ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Oui, à condition que l’entrepreneur obtienne les approbations individuelles pour ses employés qui entreprennent les travaux et qu’il accepte avec l’exploitant d'assumer l'entière responsabilité des travaux, par écrit.",
+        "correct": false
+      },
+      {
+        "text": "Oui, sous l'approbation et la surveillance de l'exploitant en tant qu'activité sous- traitée.",
+        "correct": true
+      },
+      {
+        "text": "Non, ces travaux doivent être effectués par l'exploitant car ils entrent dans le champ de son agrément.",
+        "correct": false
+      },
+      {
+        "text": "Non, car la responsabilité globale des travaux incombe à l’entrepreneur, ce dernier doit donc avoir reçu son approbation.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700073",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément au règlement de l'UE sur les opérations aériennes, le commandant de bord doit fournir tous les documents devant être transportés à bord. Si une personne autorisée le lui demande, quel est le délai pour fournir ces documents ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Un délai raisonnable.",
+        "correct": true
+      },
+      {
+        "text": "Immédiatement sur demande.",
+        "correct": false
+      },
+      {
+        "text": "Dans les dix jours ouvrables suivant la demande.",
+        "correct": false
+      },
+      {
+        "text": "Au plus tard soixante-douze heures après la demande.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700074",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lequel des éléments énumérés ci-dessous constitue la base de la planification de la politique de carburant, conformément au règlement européen sur les opérations aériennes ?<br> 1. Procédures contenues dans le manuel d'exploitation<br>  2. Type de carburant utilisé<br>  3. Données de consommation de carburant<br>  4. Masses prévues<br>  5. Données fournies par l'autorité compétente",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1, 2, 3 et 5",
+        "correct": false
+      },
+      {
+        "text": "1, 3 et 4",
+        "correct": true
+      },
+      {
+        "text": "3 et 4 seulement",
+        "correct": false
+      },
+      {
+        "text": "1, 2, 4 et 5",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700075",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui devrait agir en tant que point focal et être responsable du développement, de l'administration et de la maintenance d'un système de gestion de la sécurité efficace concernant le système de gestion d'un opérateur ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le gestionnaire responsable.",
+        "correct": false
+      },
+      {
+        "text": "Le comité d'examen de la sécurité.",
+        "correct": false
+      },
+      {
+        "text": "Le responsable de la sécurité.",
+        "correct": true
+      },
+      {
+        "text": "Le pilote en chef.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700076",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un pilote travaille pour un exploitant dont la flotte ne possède qu'un seul type et une seule variante d'avion. L'exploitant introduit un nouvel avion considéré comme une variante différente du même type. Que doit faire le pilote pour pouvoir exploiter les deux variantes ? Le pilote.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Doit suivre une formation de familiarisation comprenant une formation théorique pour acquérir une formation supplémentaire.",
+        "correct": false
+      },
+      {
+        "text": "Doit compléter une qualification de type sur la nouvelle variante et ensuite un test de compétence.",
+        "correct": false
+      },
+      {
+        "text": "Doit suivre une formation sur les différences comprenant à la fois une formation théorique et pratique.",
+        "correct": true
+      },
+      {
+        "text": "Ne nécessite aucune formation supplémentaire car les deux avions sont considérés comme du même type.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700077",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Dix passagers montent à bord d'un hélicoptère pour un vol commercial à destination d'une île. Sept d'entre eux sont considérés comme des passagers à mobilité réduite (PMR). Le commandant de bord peut.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "commencer le vol car le nombre de PMR ne dépasse pas 80 % du nombre total de passagers.",
+        "correct": false
+      },
+      {
+        "text": "ne pas commencer le vol car un vol au-dessus de l'eau constitue une menace potentielle pour les PRM en cas d'urgence.",
+        "correct": false
+      },
+      {
+        "text": "ne pas commencer le vol car le nombre de PMR dépasse le nombre de passagers capables de les aider en cas d'urgence.",
+        "correct": true
+      },
+      {
+        "text": "commencer le vol, à condition que toutes les PMR soient informées du fonctionnement des ceintures de sécurité et de l'emplacement des gilets de sauvetage.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700078",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lors d'une rotation, les pilotes reçoivent la visite d'une autorité compétente qui demande à consulter les documents de l'avion. Que doit faire le commandant de bord dans une telle situation ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Fournissez à cette personne la documentation requise pour être transportée à bord, toute personne peut demander les documents puisqu'il s'agit d'une affaire publique.",
+        "correct": false
+      },
+      {
+        "text": "Le commandant ne doit pas fournir de tels documents, l'inspecteur doit contacter l'opérateur.",
+        "correct": false
+      },
+      {
+        "text": "Fournir à cette personne la documentation requise devant être transportée à bord",
+        "correct": true
+      },
+      {
+        "text": "Appelez votre supérieur et demandez-lui avant de montrer ces documents.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700079",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lors des préparatifs avant le vol, un pilote effectuant un vol commercial avec passagers constate une panne sur le seul récepteur GPS de bord. Le pilote a accès à la MEL et à la MMEL, et trouve les notes ci-dessous. Comment remédier à cette panne ? MMEL : Peut être inopérant à condition qu'il ne soit PAS requis pour la navigation MEL : Peut être inopérant pour les vols VFR de jour uniquement ; ou ; les vols de positionnement s'ils ne sont PAS requis pour la navigation",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le pilote peut effectuer le vol SANS aucune restriction si le vol reste en VMC et que des moyens alternatifs de navigation sont utilisés.",
+        "correct": false
+      },
+      {
+        "text": "Les restrictions dans le MEL sont moins strictes que dans le MMEL et par conséquent, le MEL doit être utilisé dans ce cas.",
+        "correct": false
+      },
+      {
+        "text": "Ce vol peut être effectué comme prévu s'il fait jour et que le vol est planifié uniquement selon les règles VFR.",
+        "correct": true
+      },
+      {
+        "text": "La restriction dans la MMEL s'applique car il s'agit du document principal produit par le constructeur de l'avion.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700080",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Une opération de catégorie II (CAT Il) est une approche et un atterrissage de précision aux instruments utilisant ILS ou MLS avec :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "un DH inférieur à 50 pi et un RVR inférieur à 200 m mais pas inférieur à 75 m.",
+        "correct": false
+      },
+      {
+        "text": "une DH inférieure à 200 pi mais pas inférieure à 100 pi et une RVR d'au moins 300 m.",
+        "correct": true
+      },
+      {
+        "text": "un DH inférieur à 100 pi mais pas inférieur à SO pi et un RVR d'au moins 200 m.",
+        "correct": false
+      },
+      {
+        "text": "une DH inférieure à 100 pi mais pas inférieure à 50 pi et une RVR d'au moins 250 m.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700081",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "À quoi s'applique l'EASA AIR OPS ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Avions et hélicoptères en provenance des États européens ou survolant ces derniers.",
+        "correct": false
+      },
+      {
+        "text": "Avions et hélicoptères utilisés par les ministères de la Défense.",
+        "correct": false
+      },
+      {
+        "text": "Opérations de transport aérien commercial avec avions et hélicoptères.",
+        "correct": true
+      },
+      {
+        "text": "Avions et hélicoptères utilisés par les services de police et de douane.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700082",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Compte tenu des dispositions relatives à la formation des équipages de conduite dans le règlement de l'UE sur les opérations aériennes, la formation de familiarisation nécessite.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'acquisition de connaissances complémentaires et la formation sur avion d'un dispositif de formation approprié.",
+        "correct": false
+      },
+      {
+        "text": "Un cours de formation de conversion.",
+        "correct": false
+      },
+      {
+        "text": "Uniquement l'acquisition de connaissances supplémentaires.",
+        "correct": true
+      },
+      {
+        "text": "Formation de remise à niveau sur les types actuellement exploités.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700083",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant aérien vient d'apporter des modifications importantes au volet « maintien de la navigabilité » de son système de gestion, suite à l'ouverture d'un centre de maintenance sur un nouveau site. Avant de mettre en œuvre ces modifications, l'exploitant doit obtenir l'approbation de…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'autorité compétente",
+        "correct": true
+      },
+      {
+        "text": "Le responsable de la sécurité",
+        "correct": false
+      },
+      {
+        "text": "La direction de l'entreprise",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700084",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lequel des éléments suivants détermine le nombre de membres d'équipage de cabine qui doivent être transportés sur un vol CAT ? 1. Nombre de classes de cabine 2. Type de vol et durée du vol 3. Procédures d'amerrissage forcé de l'équipage de cabine 4. Distance des postes de l'équipage de cabine par rapport aux portes 5. Nombre de portes 6. Expérience de l'équipage de cabine",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1, 2, 3 et 5.",
+        "correct": false
+      },
+      {
+        "text": "2 et 3.",
+        "correct": false
+      },
+      {
+        "text": "1 et 4",
+        "correct": false
+      },
+      {
+        "text": "2 ,3, 4 et 5.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700085",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Laquelle des définitions suivantes est correcte de « l'exploitation de transport aérien commercial » selon l'Annexe 6, Partie I de l'OACI ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Toute exploitation d'aéronef contre rémunération ou location.",
+        "correct": false
+      },
+      {
+        "text": "Exploitation d'un aéronef par un exploitant commercial, moyennant ou non rémunération ou location.",
+        "correct": false
+      },
+      {
+        "text": "Une opération aérienne dans laquelle un aéronef est utilisé pour des services spécialisés tels que l'agriculture, la construction, la photographie, l'arpentage, l'observation et la patrouille, la recherche et le sauvetage, la publicité aérienne, etc.",
+        "correct": false
+      },
+      {
+        "text": "Une opération aérienne impliquant le transport de passagers, de marchandises ou de courrier contre rémunération ou par location.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700086",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un passager à mobilité réduite (PMR) est assis près d'un mégaphone. Quelle est la conduite à tenir ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'équipage de cabine doit s'asseoir à côté du passager.",
+        "correct": false
+      },
+      {
+        "text": "Le mégaphone doit être rangé en toute sécurité et le passager peut être assis n'importe où, sauf dans une rangée de sortie de secours.",
+        "correct": false
+      },
+      {
+        "text": "Le passager ne doit pas être assis à un endroit où il pourrait gêner l'accès au mégaphone.",
+        "correct": true
+      },
+      {
+        "text": "Il faut montrer aux passagers comment utiliser le mégaphone.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700087",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Lequel des facteurs suivants doit être pris en compte par l'opérateur lors de l'établissement des altitudes de vol minimales ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Inexactitudes dans les indications de l'altimêtre.",
+        "correct": true
+      },
+      {
+        "text": "Le type et les caractéristiques de maniabilité de l'avion.",
+        "correct": false
+      },
+      {
+        "text": "Les moyens de déterminer et de signaler les conditions météorologiques.",
+        "correct": false
+      },
+      {
+        "text": "La composition de l'équipage de conduite.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700088",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Qui détermine si un vol est classé comme HEMS (Helicopter Emergency Medical Service) ou comme ambulance aérienne ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le Docteur.",
+        "correct": true
+      },
+      {
+        "text": "Le commandant.",
+        "correct": false
+      },
+      {
+        "text": "L'autorité en vertu de l'AOC accordée.",
+        "correct": false
+      },
+      {
+        "text": "L'Opérateur.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700089",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Une opération de catégorie Ill B est une approche et un atterrissage aux instruments de\nprécision utilisant ILS ou MLS avec une RVR non inférieure à :",
+    "annexe": "",
+    "options": [
+      {
+        "text": "75m.",
+        "correct": true
+      },
+      {
+        "text": "200 m.",
+        "correct": false
+      },
+      {
+        "text": "150 m.",
+        "correct": false
+      },
+      {
+        "text": "250m.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700090",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Pour assurer des opérations sûres dans des conditions de faible visibilité, quelles procédures supplémentaires peuvent être suivies pour permettre la poursuite des opérations ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'approche de non-précision DH peut être diminuée en dessous de 200 pieds.",
+        "correct": false
+      },
+      {
+        "text": "Les feux de piste peuvent être atténués à un niveau qui améliorera leur visibilité dans le brouillard.",
+        "correct": false
+      },
+      {
+        "text": "Procédures supplémentaires au sol si la visibilité est inférieure à 400 m.",
+        "correct": false
+      },
+      {
+        "text": "Procédures supplémentaires au sol si la visibilité est inférieure à 800 m.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700091",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Quand les panneaux « Interdiction de fumer » doivent-ils être allumés ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Dans chaque section de la cabine, de l'oxygène est transporté.",
+        "correct": false
+      },
+      {
+        "text": "Pendant la montée et la descente.",
+        "correct": false
+      },
+      {
+        "text": "Pendant le décollage et l'atterrissage.",
+        "correct": false
+      },
+      {
+        "text": "Lorsque de l'oxygène est fourni dans la cabine.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700092",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un opérateur effectue des vols depuis diverses bases européennes et dessert des pays du monde entier. Qui doit s'assurer que tous les membres d'équipage connaissent les lois, les procédures et les opérations des différents États où les opérations sont menées ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Pilote aux commandes",
+        "correct": false
+      },
+      {
+        "text": "AESA",
+        "correct": false
+      },
+      {
+        "text": "Opérateur",
+        "correct": true
+      },
+      {
+        "text": "Autorité compétente",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700093",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant effectue du transport aérien commercial avec des avions et des hélicoptères, y compris par faible visibilité. Quelles annexes du Règlement européen sur les opérations aériennes contiennent les exigences applicables à cet exploitant ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Annexes I, IV (Partie CAT) et V (Partie SPA) uniquement.",
+        "correct": false
+      },
+      {
+        "text": "Annexes I, II! (Partie-ORO), IV (Partie-CAT) et V (Partie-SPA).",
+        "correct": true
+      },
+      {
+        "text": "Annexes I, II! (Partie-ORO), IV (Partie-CAT) et VIII (Partie-SPO).",
+        "correct": false
+      },
+      {
+        "text": "Annexes III (Partie-ORO) et IV (Partie-CAT) uniquement.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700094",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Que se passe-t-il avec votre boussole lorsque vous volez dans le nord du Canada ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Boussole peu fiable et dans le cas d'une navigation inertielle, aucune procédure particulière n'est requise.",
+        "correct": true
+      },
+      {
+        "text": "Correction du tracé DR à l'aide de NDB, la variation à la station doit être appliquée.",
+        "correct": false
+      },
+      {
+        "text": "Tracez la correction DR à l'aide d'un VOR, une variation au niveau de l'avion doit être appliquée.",
+        "correct": false
+      },
+      {
+        "text": "En raison de la réduction de l'intensité du champ vertical, la boussole n'est pas fiable.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700095",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Avant de prendre le vol, le copilote vérifie la documentation de l'avion et constate qu'il n'y a qu'une copie du certificat d'immatriculation à bord. Y a-t-il un problème ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "NON, il n'est pas conseillé de transporter les originaux à bord car ils peuvent être volés/perdus.",
+        "correct": false
+      },
+      {
+        "text": "NON, une copie suffit.",
+        "correct": false
+      },
+      {
+        "text": "OUI, l'original doit être à bord.",
+        "correct": true
+      },
+      {
+        "text": "NON, un original peut être retenu à l'aéroport.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700096",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un hélicoptère dont la masse maximale certifiée au décollage est supérieure à 7 000 kg\ndoit être équipé d'un enregistreur de conversations de poste de pilotage capable de conserver les informations enregistrées au moins au cours du dernier : 30 minutes ou 1 heure de fonctionnement, selon la date de première délivrance de son certificat individuel de navigabilité.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1 heure de son fonctionnement.",
+        "correct": false
+      },
+      {
+        "text": "2 heures de son fonctionnement.",
+        "correct": false
+      },
+      {
+        "text": "30 minutes ou 1 heure ou 2 heures de fonctionnement, selon la date de première",
+        "correct": false
+      },
+      {
+        "text": "délivrance de son certificat de navigabilité individuel.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700097",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Combien de systèmes de radiocommunication indépendants sont nécessaires pour les opérations IFR ou les opérations VFR sur des routes qui ne sont PAS parcourues par référence à des repères visuels ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Trois : deux pour les opérations normales et un système d'urgence supplémentaire.",
+        "correct": false
+      },
+      {
+        "text": "Cela dépend de la classification de l’espace aérien à traverser lors du vol prévu.",
+        "correct": false
+      },
+      {
+        "text": "Au moins deux.",
+        "correct": true
+      },
+      {
+        "text": "Seulement un.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700098",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un opérateur de l'UE qui souhaite obtenir une autorisation pour transporter des passagers, du fret et du courrier contre rémunération, et qui a également l'intention de transporter des marchandises dangereuses, doit se conformer aux exigences de.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Annexe III (partie ORO), annexe IV (partie CAT) et dispositions pertinentes de l'annexe IX (partie DG) du règlement (UE) n° 965/2012 de la Commission.",
+        "correct": false
+      },
+      {
+        "text": "Annexe I (partie FCL), annexe VII (partie ORO) et dispositions pertinentes de l'annexe IV (partie MED) du règlement (UE) n° 1178/2011 de la Commission.",
+        "correct": false
+      },
+      {
+        "text": "Annexe III (partie ORO), annexe IV (partie CAT) et dispositions pertinentes de l'annexe V (partie SPA) du règlement (UE) n° 965/2012 de la Commission.",
+        "correct": true
+      },
+      {
+        "text": "Annexe I (partie FCL), annexe VII (partie ORO) et dispositions pertinentes de l'annexe V (partie CC) du règlement (UE) n° 1178/2011 de la Commission.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700099",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un exploitant de CAT est agréé pour certaines activités, mais ne peut actuellement pas gérer la charge de travail. Il décide donc de sous-traiter une partie des travaux à un autre exploitant disposant du même niveau d'agrément. Laquelle des affirmations suivantes est vraie ? ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Quel que soit le niveau d'agrément détenu par le sous-traitant, les travaux doivent être exécutés sous l'agrément de l'exploitant contractant des travaux.",
+        "correct": false
+      },
+      {
+        "text": "Le type de sous-traitance décrit est interdit par la réglementation applicable.",
+        "correct": false
+      },
+      {
+        "text": "Le contrôle de conformité de l'exploitant doit vérifier que l'agrément du sous-traitant couvre effectivement les activités contractées et qu'il est toujours valable .",
+        "correct": true
+      },
+      {
+        "text": "Il n'est PAS nécessaire de vérifier Les procédures d'approbation et d'autorisation du sous-traitant.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700100",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Le commandant de bord accueille les passagers d’un vol de taxi aérien CAT lorsqu'il s'avère qu'un membre d'équipage est ivre. II estime que son comportement pourrait compromettre le vol. Que doit-il faire ? (Le nombre total actuel de membres d'équipage de cabine prévus pour le vol dépasse le nombre minimum légalement requis pour les membres d'équipage de cabine).",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Rien, refuser l'accès à l'avion aux membres d'équipage de cabine en toutes circonstances est considéré comme du harcèlement.",
+        "correct": false
+      },
+      {
+        "text": "Annuler l'intégralité du vol.",
+        "correct": false
+      },
+      {
+        "text": "Appelez la police pour demander conseil sur la façon de gérer la situation.",
+        "correct": false
+      },
+      {
+        "text": "Refuser l'accès à l'avion au membre d'équipage de cabine concerné.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700101",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Dans quel cas les panneaux indiquant qu'il faut attacher sa ceinture de sécurité sont-ils obligatoires, conformément à la réglementation de l'UE ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Lorsque tous les sièges passagers ne sont pas visibles depuis les sièges de l'équipage de conduite.",
+        "correct": true
+      },
+      {
+        "text": "Dans un aéronef dont la configuration opérationnelle maximale des sièges est supérieure à 11 sièges.",
+        "correct": false
+      },
+      {
+        "text": "Lorsque les membres de l'équipage de cabine ne sont pas tenus d'être transportés à bord.",
+        "correct": false
+      },
+      {
+        "text": "Dans un aéronef dont la masse maximale certifiée au décollage est supérieure à 5 700 kg.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700102",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Les exigences d'un système de gestion de la sécurité stipulent qu'un exploitant doit désigner une personne responsable de la coordination de ce système. Qui peut remplir ce rôle ? (En supposant que chaque personne mentionnée n'ait pas de rôle ou de fonction supplémentaire).",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Gestionnaire responsable.",
+        "correct": true
+      },
+      {
+        "text": "Capitaine de ligne.",
+        "correct": false
+      },
+      {
+        "text": "Directeur financier.",
+        "correct": false
+      },
+      {
+        "text": "Directeur général.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700103",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Avant de commencer une approche par faible visibilité, le commandant de bord doit être convaineu que…",
+    "annexe": "",
+    "options": [
+      {
+        "text": "il n'y aura aucun mouvement d'avion dans la zone de manœuvre de l'aérodrome jusqu'à ce que l'atterrissage soit terminé, selon les informations reçues des services de la circulation aérienne (ATS).",
+        "correct": false
+      },
+      {
+        "text": "Des procédures de faible visibilité (LVP) appropriées sont en vigueur, selon les informations reçues des services de la circulation aérienne (ATS).",
+        "correct": true
+      },
+      {
+        "text": "au moins un membre d’équipage de conduite est dûment qualifié pour l'approche par faible visibilité.",
+        "correct": false
+      },
+      {
+        "text": "le carburant à bord à l'atterrissage ne doit pas être inférieur au carburant nécessaire pour voler jusqu'à la destination de secours plus la réserve finale.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700104",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un avion effectue un vol commercial entre l'Italie et la Libye. Quelles règles de l'air doivent être respectées ?<br> 1.1talie<br> 2. Libye<br> 3. Règles de l'air de l'OACI<br> 4. L'État survolé",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1 et 2.",
+        "correct": false
+      },
+      {
+        "text": "3 et 4",
+        "correct": true
+      },
+      {
+        "text": "2 et 3.",
+        "correct": false
+      },
+      {
+        "text": "1 et 3.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700105",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Considérez le Règlement européen sur les opérations aériennes. Laquelle des affirmations suivantes décrit correctement l'équipement de radiocommunication requis pour les opérations en IFR ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "L'équipement de radiocommunication doit être conforme aux exigences applicables de l'espace aérien et comprendre au moins deux systèmes de radiocommunication indépendants.",
+        "correct": true
+      },
+      {
+        "text": "L'équipement de communication radio doit être capable d'une communication unidirectionnelle ou bidirectionnelle, répondant aux exigences de communication dans des parties définies de l'espace aérien.",
+        "correct": false
+      },
+      {
+        "text": "Il doit y avoir au moins un système de communication radio et celui-ci doit être conforme aux exigences applicables de l'espace aérien.",
+        "correct": false
+      },
+      {
+        "text": "Il doit y avoir au moins un système de communication radio et il doit être conforme aux exigences de certification applicables.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700106",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un contrôle de compétence de l'opérateur a eu lieu le 15 mai. Aux fins de renouvellement, la validité expirera le.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "1er",
+        "correct": false
+      },
+      {
+        "text": "31e",
+        "correct": true
+      },
+      {
+        "text": "15e",
+        "correct": false
+      },
+      {
+        "text": "16e",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700107",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Laquelle des affirmations suivantes est correcte ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "La formation aux différences nécessite l'acquisition de connaissances supplémentaires. La formation de familiarisation nécessite l'acquisition de connaissances supplémentaires et une formation sur un appareil de formation approprié ou sur l'aéronef. ",
+        "correct": false
+      },
+      {
+        "text": "La formation aux différences et la formation à la familiarisation sont toutes deux identiques.",
+        "correct": false
+      },
+      {
+        "text": "La formation aux différences nécessite l'acquisition d'une formation complémentaire sur un appareil de formation approprié ou sur l'aéronef. La formation de familiarisation nécessite l'acquisition de connaissances complémentaires.",
+        "correct": false
+      },
+      {
+        "text": "La formation aux différences nécessite l'acquisition de connaissances supplémentaires et une formation sur un appareil de formation approprié ou sur l'aéronef. La formation de familiarisation nécessite l'acquisition de connaissances supplémentaires.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700108",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Tenez compte du Règlement européen sur les opérations aériennes, applicable au transport aérien commercial. Si un pilote souhaite occuper le poste de commandant de bord, quelle formation et quel contrôle supplémentaires doit-il préalablement suivre ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Une panne de moteur au décollage, une approche et une remise des gaz avec un moteur en panne, et un atterrissage avec un moteur en panne.",
+        "correct": true
+      },
+      {
+        "text": "Une panne de moteur immédiatement après le décollage, une panne de moteur critique 400 pieds après le décollage et un circuit d'attente avec un moteur en panne.",
+        "correct": false
+      },
+      {
+        "text": "Un décollage, une approche et un atterrissage sans panne de moteur, ainsi qu'une panne de moteur pendant le décollage, une approche et une remise des gaz avec un moteur en panne, et un atterrissage avec un moteur en panne.",
+        "correct": false
+      },
+      {
+        "text": "Une panne de moteur lors d'une phase critique du décollage, une approche de non- précision avec un moteur en panne, une approche de précision avec un moteur en panne.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700109",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un avion doit transporter 160 passagers. L'autorité compétente n'a pas encore attribué à cet avion le nombre minimum requis de membres d'équipage de cabine. Pour ce voyage, _____ membres d'équipage de cabine sont requis.",
+    "annexe": "",
+    "options": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700110",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Au plus tard, la formation à la sécurité de l'équipage devrait être effectuée. ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Avant les vols en ligne non supervisés.",
+        "correct": true
+      },
+      {
+        "text": "Après la formation en ligne.",
+        "correct": false
+      },
+      {
+        "text": "Avant l'entraînement en ligne.",
+        "correct": false
+      },
+      {
+        "text": "Avant l'entraînement de base.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700111",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Avant qu'un vol de transport aérien commercial puisse commencer, qui doit être satisfait de la liste des écarts de configuration (CDL) ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Le pilote aux commandes.",
+        "correct": true
+      },
+      {
+        "text": "Le gestionnaire responsable.",
+        "correct": false
+      },
+      {
+        "text": "L'autorité.",
+        "correct": false
+      },
+      {
+        "text": "L'opérateur.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700112",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Conformément à la réglementation OPS, 100 % des passagers d’un avion non pressurisé doivent bénéficier d'un apport d'oxygène supplémentaire pendant toute la durée du vol...",
+    "annexe": "",
+    "options": [
+      {
+        "text": "à des altitudes de pression supérieures à 10 000 pieds.",
+        "correct": false
+      },
+      {
+        "text": "après 30 minutes à des altitudes-pression supérieures à 10 000 pieds mais ne dépassant pas 13 000 pieds.",
+        "correct": false
+      },
+      {
+        "text": "à des altitudes de pression supérieures à 13 000 pieds.",
+        "correct": true
+      },
+      {
+        "text": "à des altitudes de pression supérieures à 13 000 pieds et pendant toute période dépassant 30 minutes à des altitudes de pression supérieures à 10 000 pieds mais ne dépassant pas 13 000 pieds.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700113",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Quelle affirmation est correcte concernant la réglementation du tabagisme à bord d’un avion ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Il est JAMAIS permis de fumer à bord d'un avion pendant les opérations commerciales et il est de la responsabilité du commandant de faire respecter cette règle.",
+        "correct": false
+      },
+      {
+        "text": "Le commandant de bord peut autoriser le fait de fumer à condition que l'exploitant   dispose d'une procédure à cet effet et que l'aéronef ne soit PAS en cours de   ravitaillement ou de vidange.",
+        "correct": true
+      },
+      {
+        "text": "Il est permis de fumer pendant toute la phase du vol lorsque le commandant de bord l'autorise, à la seule exception de l'utilisation d'oxygène en cabine.",
+        "correct": false
+      },
+      {
+        "text": "Le commandant peut autoriser de fumer dans les zones où le fait de fumer n'affecte PAS les autres passagers, comme dans les toilettes.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700114",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Quelles informations concernant l'opérateur sont contenues dans un CTA (certificat d'exploitation aérienne) ?",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Points de contact pour l'opérateur.",
+        "correct": true
+      },
+      {
+        "text": "Détails de la programmation de la compagnie aérienne.",
+        "correct": false
+      },
+      {
+        "text": "Liste des aérodromes exploités.",
+        "correct": false
+      },
+      {
+        "text": "Nom du gestionnaire responsable.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700115",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Laquelle des propositions suivantes nécessite une approbation ? ",
+    "annexe": "",
+    "options": [
+      {
+        "text": "Équipement de vol requis.",
+        "correct": true
+      },
+      {
+        "text": "Harnais enfant utilisé en cabine.",
+        "correct": false
+      },
+      {
+        "text": "Une pièce d'horlogerie.",
+        "correct": false
+      },
+      {
+        "text": "Tout l'équipement de vol.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "id": "0700116",
+    "subtopic": "070-01-02",
+    "database": "",
+    "question": "Un pilote effectue les préparatifs avant le vol d'un avion dont le premier certificat de navigabilité a été délivré en 2010. C'est la première fois qu'il pilote un avion nécessitant un enregistreur de données de vol (FDR). Voici les exigences relatives à l'utilisation du FDR:",
+    "annexe": "",
+    "options": [
+      {
+        "text": "[ Quelle que soit l'action du pilote, l'enregistrement démarre et s'arrête .",
+        "correct": false
+      },
+      {
+        "text": "automatiquement pour garantir que le FDR puisse enregistrer des données à tout   moment lorsque l'avion est capable de se déplacer par ses propres moyens.",
+        "correct": true
+      },
+      {
+        "text": "Le FDR doit être démarré manuellement lorsque l'équipage de conduite commence les préparatifs avant le vol, puis arrêté manuellement lorsque les portes sont ouvertes après l'atterrissage, afin de préserver les données.",
+        "correct": false
+      },
+      {
+        "text": "Quelle que soit l'action du pilote, le FDR enregistre automatiquement à tout moment la présence de personnes à bord de l'avion afin de déterminer la responsabilité en cas de défaillance d'un système. Les capteurs FDR doivent être activés, car les données sont enregistrées à partir de capteurs indépendants des informations présentées à l'équipage de conduite, afin d'améliorer l'intégrité de l'enregistrement.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
   }
 ]
